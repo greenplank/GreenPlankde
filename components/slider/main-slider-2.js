@@ -17,6 +17,8 @@ import icon4 from "../../assets/images/main-slider/Norway.png";
 import icon5 from "../../assets/images/main-slider/Sweden.png";
 import icon6 from "../../assets/images/main-slider/Holland.png";
 
+import { useMediaQuery } from 'react-responsive';
+
 SwiperCore.use([Autoplay, Pagination, EffectFade]);
 
 const MainSliderTwo = () => {
@@ -34,10 +36,18 @@ const MainSliderTwo = () => {
     }
   };
 
+  const isDesktopOrLaptop = useMediaQuery({
+    query: '(min-width: 1224px)'
+  })
+  const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })
+  const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
+  const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
+  const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
+
   return (
     <div className="row">
       <div className="col-lg-5 p-0">
-        <section style={{ padding: "5em 2em 3em 4em", background: "black" }}>
+        <section style={{ padding:isBigScreen? "7em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isTabletOrMobile?".1em 2em .1em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black" }}>
           <div>
             <div className="block-title text-left">
               <h3>
