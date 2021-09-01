@@ -69,7 +69,7 @@ const ServiceTwo = () => {
               <SwiperSlide key={`service-two-key-${index}`}>
                 <div
                   className={`service-two__box ${extraClassName}`}
-                  style={{ backgroundImage: `url(${image})` }}
+                  style={{ backgroundImage: `url(${image})`,backgroundColor:"#b5c7bb"}}
                 >
                   <div className="service-two__box-inner">
                     <h3>
