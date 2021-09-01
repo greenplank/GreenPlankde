@@ -4906,7 +4906,7 @@ h6 {
   font-size: 15px;
   color: var(--thm-secondary);
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 0;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
