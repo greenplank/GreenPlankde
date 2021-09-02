@@ -10,33 +10,33 @@ const NavLinks = ({ extraClassName }) => {
     <ul className={`main-menu__list ${extraClassName}`}>
           <li>
         <Link href="/">
-          <a>Hem</a>
+          <a>Home</a>
         </Link>
       </li>
       <li>
         <Link href="/om-oss">
-          <a>Om Oss</a>
+          <a>Über uns</a>
         </Link>
       </li>
       <li>
         <Link href="/galleri">
-          <a>Galleri</a>
+          <a>Galerie</a>
         </Link>
       </li>
       <li>
         <Link href="/aterfarsaljare">
-          <a>Aterfarsaljare</a>
+          <a>Großhändler</a>
         </Link>
       </li>
       <li>
         <Link href="/hitta-hantverkare">
-          <a>Hitta Hantverkare</a>
+          <a>Monteur finden</a>
         </Link>
       </li>
       <li className="dropdown">
         <Link href="#">
           <>
-            <a>Produkter</a>
+            <a>Produkte</a>
             <button
               aria-label="dropdown toggler"
               onClick={handleDropdownStatus}
@@ -51,7 +51,7 @@ const NavLinks = ({ extraClassName }) => {
             <Link href="#">
               <>
               <Link href="/komposittrall">
-                <a>Komposittrall</a>
+                <a>Terrassendielen</a>
                 </Link>
                 <button
                   aria-label="dropdown toggler"
@@ -64,32 +64,32 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/smart-komposittrall">
-                  <a>Smart Komposittrall</a>
+                  <a>Smart Terrassendielen</a>
                 </Link>
               </li>
               <li>
                 <Link href="/marine-komposittrall">
-                  <a>Marine Komposittrall</a>
+                  <a>Marine Terrassendielen</a>
                 </Link>
               </li>
               <li>
                 <Link href="/entra-trall">
-                  <a>Entra Komposittrall</a>
+                  <a>Entra Terrassendielen</a>
                 </Link>
               </li>
               <li>
                 <Link href="/classic-komposittrall">
-                  <a>Classic Komposittrall</a>
+                  <a>Classic Terrassendielen</a>
                 </Link>
               </li>
               <li>
                 <Link href="/tillbehor-till-komposittrall">
-                  <a>Tillbehör till Komposittrall</a>
+                  <a>WPC Terrassendielen-Zubehör</a>
                 </Link>
               </li>
               <li>
                 <Link href="/everdeck-komposittrall">
-                  <a>EVERDECK Komposittrall</a>
+                  <a>EVERDECK™ Terrassendielen</a>
                 </Link>
               </li>
             </ul>
@@ -98,7 +98,7 @@ const NavLinks = ({ extraClassName }) => {
             <Link href="#">
               <>
               <Link href="/fasadpanel">
-                <a>Fasadpanel</a>
+                <a>Fassadenverkleidung</a>
                 </Link>
                 <button
                   aria-label="dropdown toggler"
@@ -111,22 +111,22 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/novoclad-fasadpanel-gp798">
-                  <a>Novoclad-GP798</a>
+                  <a>Novoclad™-GP798</a>
                 </Link>
               </li>
               <li>
                 <Link href="/primacap-fasadpanel-gp801">
-                  <a>Primacap-GP801</a>
+                  <a>Primacap™-GP801</a>
                 </Link>
               </li>
               <li>
                 <Link href="/primacap-fasadpanel-gp802">
-                  <a>Primacap-GP802</a>
+                  <a>Primacap™-GP802</a>
                 </Link>
               </li>
               <li>
                 <Link href="/fasadpanel-tillbehor">
-                  <a>Fasadpanel tillbehör</a>
+                  <a>Zubehörteile</a>
                 </Link>
               </li>
             </ul>
@@ -135,7 +135,7 @@ const NavLinks = ({ extraClassName }) => {
             <Link href="#">
               <>
               <Link href="/staket-system">
-                <a>Staket System</a>
+                <a>Zaunsystem</a>
                 </Link>
                 <button
                   aria-label="dropdown toggler"
@@ -165,14 +165,14 @@ const NavLinks = ({ extraClassName }) => {
           </li>
           <li>
             <Link href="/plankor">
-              <a>Plankor</a>
+              <a>Planken</a>
             </Link>
           </li>
           <li className="dropdown">
             <Link href="#">
               <>
               <Link href="/golvplattor">
-                <a>Golvplattor</a>
+                <a>Terrassenfliesen</a>
                 </Link>
                 <button
                   aria-label="dropdown toggler"
@@ -185,12 +185,12 @@ const NavLinks = ({ extraClassName }) => {
             <ul className="dropdown-list">
               <li>
                 <Link href="/instaclik-balkongplattor-gp702t">
-                  <a>INSTACLIK™ -GP702T</a>
+                  <a>INSTACLIK™-GP702T</a>
                 </Link>
               </li>
               <li>
                 <Link href="/evertile-balkongplattor-et703t">
-                  <a>EVERTILE™-ET703T</a>
+                  <a>EVERTILE ™ – ET703T</a>
                 </Link>
               </li>
             </ul>
@@ -199,7 +199,7 @@ const NavLinks = ({ extraClassName }) => {
       </li>
       <li>
         <Link href="/kontakata-oss">
-          <a>Kontakta oss</a>
+          <a>Kontaktiere uns</a>
         </Link>
       </li>
     </ul>

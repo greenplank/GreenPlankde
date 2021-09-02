@@ -33,13 +33,13 @@ const VideoCard = () => {
                                 className="video-card__bg"
                                 style={{ backgroundImage: `url(${bgImage})` }}
                             ></div>
-                            <Container className=" text-center pt-120 pb-120">
-                            
+                            <Container className=" text-center pt-60 pb-60">
+
                                 <h3>
-                                    Fördelar och nackdelar med trä komposit. <br />
+                                    Vor- und Nachteile<br /> von <br />
                                 </h3>
                                 <div className="video-card__btn-block">
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/fe51I1VJEFs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe width="560" height="315" src="https://www.youtube.com/embed/0SVm4TDGoz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                 </div>
                             </Container>
                         </section>
@@ -47,50 +47,55 @@ const VideoCard = () => {
                     <Col xl={6}>
                         <div className="about-two__content">
                             <div className="block-title">
-                                <h3>Designad i Sverige, Testad av SP.<br /> Innovativ med hög prestanda Smart™ komposittrall</h3>
+                                <h3>Design in Schweden Getestet von SP.
+                                    Innovative und leistungsstarke
+                                    Smart Terrassendielen</h3>
                             </div>
                             <Row>
                                 <Col md={6}>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon7} alt="" /> <span >Bevisad Svensk kvalitéts komposittrall för hårdare väder.</span>
+                                            <img src={Icon7} alt="" /> <span >Gut mit 50 ccm</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon8} alt="" /> <span>Stark och hållbar komposittrall med 50 cm regelavstånd</span>
+                                            <img src={Icon8} alt="" /> <span>Hohe Leistung bei Premiumqualität</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon2} alt="" /> <span>Patenterad Smart Komposit med Not och Spont. Utan clips!</span>
+                                            <img src={Icon2} alt="" /> <span>Kosteneffizient</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon3} alt="" /> <span>Tack vare not och spont installationen blir ditt altandäck enhetligt</span>
+                                            <img src={Icon3} alt="" /> <span>Klick System</span>
                                         </p>
                                     </div>
                                 </Col>
                                 <Col md={6}>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon6} alt="" /> <span>Lågt Underhålls däck som inte ruttnar eller flisar</span>
+                                            <img src={Icon6} alt="" /> <span>Standard-Hilfsrahmen</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon5} alt="" /> <span>Långvariga naturliga färger</span>
+                                            <img src={Icon5} alt="" /> <span>
+                                                Natürliche Farben</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon1} alt="" /> <span>Upp till 60% snabbare att installera jämfört med traditionellt tralldäck</span>
+                                            <img src={Icon1} alt="" /> <span>
+                                                60% weniger Arbeit</span>
                                         </p>
                                     </div>
                                     <div className="about-two__box">
                                         <p>
-                                            <img src={Icon4} alt="" /> <span>Slitstark och bekväm att gå på barfota</span>
+                                            <img src={Icon4} alt="" /> <span>
+                                                Spaltfreie glatte Oberfläche</span>
                                         </p>
                                     </div>
                                 </Col>

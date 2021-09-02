@@ -381,128 +381,222 @@ export default function ContactFormTwo() {
     <section className="contact-page pt-120 pb-80">
       <Container>
         <Row>
-        <Col lg={12}>
-          <form className="contact-form" onSubmit={sendEmail} >
-            <div className="row row-10">
+          <Col lg={12}>
+            <form className="contact-form" onSubmit={sendEmail} >
+              <div className="row row-10">
 
-              <div>
-                <h3 className="mt-10">Företag och Byggare:
-                </h3>
-                <p className="mt-10 mb-40">Vänligen skicka oss ett Email på <a href="mailto:info@greenplank.se">info@greenplank.se</a> med er begäran på prover så löser vi det med er.
-                </p>
-              </div>
-              <div className="mb-40">
-                <h3 className="mt-10">Privatpersoner:
-                </h3>
-                <p className="mb-40">Skicka en betalning på 100 kr till följande Gankgiro – 5902-1543: För att beställa ett prov. (Priset på provbiten är gratis. detta är endast för att täcka fraktkostnaden.)
-                </p>
-              </div>
-              <div className=" col-12 mb-20">
+                <div>
+                  <h3 className="mt-10">Företag och Byggare:
+                  </h3>
+                  <p className="mt-10 mb-40">Vänligen skicka oss ett Email på <a href="mailto:info@greenplank.se">info@greenplank.se</a> med er begäran på prover så löser vi det med er.
+                  </p>
+                </div>
+                <div className="mb-40">
+                  <h3 className="mt-10">Privatpersoner:
+                  </h3>
+                  <p className="mb-40">Skicka en betalning på 100 kr till följande Gankgiro – 5902-1543: För att beställa ett prov. (Priset på provbiten är gratis. detta är endast för att täcka fraktkostnaden.)
+                  </p>
+                </div>
+                <div className=" col-12 mb-20">
 
-                <select id='product' name='product' value={selected} onChange={changeSelectOptionHandler}>
-                  <option>
-                    välj produkter...................</option>
-                  <option>Green Plank SMART™ Decking System – Smart Classic™</option>
-                  <option>Green Plank SMART™ Decking System – Smart Regular™</option>
-                  <option>Green Plank SMART™ Decking System – Smart Marine™</option>
-                  <option>Green Plank SMART™ Decking System – Smart Plus™</option>
-                  <option>Green Plank SMART CAP™ Decking System</option>
-                  <option>Green Plank MARINE 60™ Decking</option>
-                  <option>Green Plank ENTRA™ Decking</option>
-                  <option>Green Plank MARINE 40™ Decking</option>
-                  <option>Green Plank MARINE JUMBO™ Heavy Duty Decking</option>
-                  <option>Green Plank MARINE CAP™ Decking</option>
-                  <option>Green Plank MARINE ART™ Decking</option>
-                  <option>Green Plank CLASSIC™ Decking</option>
-                  <option>Green Plank SAPPHIRE™ Decking</option>
-                  <option>Green Plank EVERDECK™ Decking</option>
-                  <option>Green Plank PRIMACAP™ Facade Cladding – GP802</option>
-                  <option>Green Plank PRIMACAP™ Facade Cladding – GP801</option>
-                  <option>Green Plank NOVOCLAD™ Facade Cladding – GP798</option>
-                  <option>Green Plank NOVOFENCE™ Private™</option>
-                  <option>Green Plank NOVOFENCE™ Traditional™</option>
-                  <option>Green Plank NOVOFENCE™ Modern™</option>
-                  <option>NATURPLANK™ Composite Plank – GP7129 (40*140mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7121 (24*140mm)</option>
-                  <option>NATURTEAK™ Composite Plank – GP7241 (7*236mm)</option>
-                  <option>NATURPLANK™ Wide Board – GP729 (20*305mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7117 (17*68mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7118 (27*49mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7165 (40*70mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7119 (40*90mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP7120 (34*72mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP709 (10*80mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP733 (10*130mm)</option>
-                  <option>NATURPLANK™ Composite Plank – GP734 (10*230mm)</option>
-                </select>
+                  <select id='product' name='product' value={selected} onChange={changeSelectOptionHandler}>
+                    <option>
+                      välj produkter...................</option>
+                    <option>Green Plank SMART™ Decking System – Smart Classic™</option>
+                    <option>Green Plank SMART™ Decking System – Smart Regular™</option>
+                    <option>Green Plank SMART™ Decking System – Smart Marine™</option>
+                    <option>Green Plank SMART™ Decking System – Smart Plus™</option>
+                    <option>Green Plank SMART CAP™ Decking System</option>
+                    <option>Green Plank MARINE 60™ Decking</option>
+                    <option>Green Plank ENTRA™ Decking</option>
+                    <option>Green Plank MARINE 40™ Decking</option>
+                    <option>Green Plank MARINE JUMBO™ Heavy Duty Decking</option>
+                    <option>Green Plank MARINE CAP™ Decking</option>
+                    <option>Green Plank MARINE ART™ Decking</option>
+                    <option>Green Plank CLASSIC™ Decking</option>
+                    <option>Green Plank SAPPHIRE™ Decking</option>
+                    <option>Green Plank EVERDECK™ Decking</option>
+                    <option>Green Plank PRIMACAP™ Facade Cladding – GP802</option>
+                    <option>Green Plank PRIMACAP™ Facade Cladding – GP801</option>
+                    <option>Green Plank NOVOCLAD™ Facade Cladding – GP798</option>
+                    <option>Green Plank NOVOFENCE™ Private™</option>
+                    <option>Green Plank NOVOFENCE™ Traditional™</option>
+                    <option>Green Plank NOVOFENCE™ Modern™</option>
+                    <option>NATURPLANK™ Composite Plank – GP7129 (40*140mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7121 (24*140mm)</option>
+                    <option>NATURTEAK™ Composite Plank – GP7241 (7*236mm)</option>
+                    <option>NATURPLANK™ Wide Board – GP729 (20*305mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7117 (17*68mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7118 (27*49mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7165 (40*70mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7119 (40*90mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP7120 (34*72mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP709 (10*80mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP733 (10*130mm)</option>
+                    <option>NATURPLANK™ Composite Plank – GP734 (10*230mm)</option>
+                  </select>
 
-              </div>
+                </div>
 
-              <div className="col-12 mb-20">
+                <div className="col-12 mb-20">
 
-                <select id='color' name='color' value={selected} fullWidth label="Color">
+                  <select id='color' name='color' value={selected} fullWidth label="Color">
 
-                  {options}
-                </select>
+                    {options}
+                  </select>
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="name"
+                    fullWidth
+                    name="name"
+                    label="FÖRNAMN"
+                    value={name}
+                    onChange={(event) => setName(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="lastname"
+                    fullWidth
+                    name="lastname"
+                    label="EFTERNAMN"
+                    value={lastname}
+                    onChange={(event) => setLastName(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="email"
+                    fullWidth
+                    name="email"
+                    label="E-POSTADRESS"
+                    helperText={emailHelper}
+                    error={emailHelper.length !== 0}
+                    value={email}
+                    onChange={onChange}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="phone"
+                    fullWidth
+                    name="phone"
+                    label="TELEFONNUMMER"
+                    helperText={phoneHelper}
+                    error={phoneHelper.length !== 0}
+                    value={phone}
+                    onChange={onChange}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="adress"
+                    fullWidth
+                    name="address"
+                    label="Adress"
+                    helperText={phoneHelper}
+                    error={phoneHelper.length !== 0}
+                    value={adress}
+                    onChange={(event) => setAdress(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="postnumber"
+                    fullWidth
+                    name="postnumber"
+                    label="Postnummer"
+                    helperText={phoneHelper}
+                    error={phoneHelper.length !== 0}
+                    value={postnumber}
+                    onChange={(event) => setPostnumber(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="country"
+                    fullWidth
+                    name="country"
+                    controlId="formGridState"
+                    label="Land"
+                    value={country}
+                    onChange={(event) => setCountry(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <TextField
+                    id="city"
+                    fullWidth
+                    name="city"
+                    controlId="formGridCity"
+                    label="Stad"
+                    value={city}
+                    onChange={(event) => setCity(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-12 mb-20">
+                  <TextField
+                    id="subject"
+                    fullWidth
+                    name="subject"
+                    controlId="formGridCity"
+                    label="Subject"
+                    value={subject}
+                    onChange={(event) => setSubject(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-12 mb-20">
+                  <TextField
+                    id="message"
+                    fullWidth
+                    name="message"
+                    controlId="formGridCity"
+                    label="Meddelande "
+                    InputProps={{ disableUnderline: true }}
+                    multiline rows={10}
+                    value={message}
+                    onChange={(event) => setMessage(event.target.value)}
+                    variant="filled"
+                  />
+                </div>
+                <div className="col-12 mb-20">
+                  <FormControlLabel
+                    control={
+                      <Checkbox
+                        icon={<CheckBoxOutlineBlankIcon fontSize="small" />}
+                        checkedIcon={<CheckBoxIcon fontSize="small" />}
+                        value="checkedI"
+                        classes={{
+                          root: classes.root,
+                          checked: classes.checked,
+                        }}
+                      />
+                    }
+                    label="Jag godkänner villkoren"
+                  />
+                </div>
+                <div className="col-md-6 col-12 mb-20">
+                  <Button variant="contained"
+                    className={classes.sendButton}
+                    type="submit"
+                    disabled={name.length === 0 || message.length === 0 || email.length === 0 || phone.length === 0}
+                    onClick={() => setOpen(true)}>
+                    {/* {buttonContents} */}
+                    {loading ? <CircularProgress size={30} /> : buttonContents}
+                  </Button>
+                </div>
               </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" fullWidth label="FÖRNAMN" name="name" id="name" value={name} onChange={(event) => setName(event.target.value)} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" fullWidth label="EFTERNAMN" name="lastname" id="lastname" value={lastname} onChange={(event) => setLastName(event.target.value)} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" helperText={emailHelper} error={emailHelper.length !== 0} name="email" fullWidth label="E-POSTADRESS" id="email" value={email} onChange={onChange} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" helperText={phoneHelper} error={phoneHelper.length !== 0} name="phone" fullWidth label="TELEFONNUMMER" id="phone" value={phone} onChange={onChange} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" name="address" fullWidth label="Adress" id="adress" value={adress} onChange={(event) => setAdress(event.target.value)} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" name="postnumber" controlId="formGridZip" fullWidth label="Postnummer" id="postnumber" value={postnumber} onChange={(event) => setPostnumber(event.target.value)} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" name="country" controlId="formGridState" fullWidth label="Land" id="country" value={country} onChange={(event) => setCountry(event.target.value)} />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <TextField variant="outlined" name="city" controlId="formGridCity" fullWidth label="Stad" id="city" value={city} onChange={(event) => setCity(event.target.value)} />
-              </div>
-              <div className="col-12 mb-20">
-                <TextField variant="outlined" fullWidth label="Subject" name="subject" id="subject" value={subject} onChange={(event) => setSubject(event.target.value)} />
-              </div>
-              <div className="col-12 mb-20">
-                <TextField variant="outlined" fullWidth label="Meddelande " name="message" InputProps={{ disableUnderline: true }} id="message" multiline rows={10} value={message} onChange={(event) => setMessage(event.target.value)} />
-              </div>
-              <div className="col-12 mb-20">
-                <FormControlLabel
-                  control={
-                    <Checkbox
-                      icon={<CheckBoxOutlineBlankIcon fontSize="small" />}
-                      checkedIcon={<CheckBoxIcon fontSize="small" />}
-                      value="checkedI"
-                      classes={{
-                        root: classes.root,
-                        checked: classes.checked,
-                      }}
-                    />
-                  }
-                  label="Jag godkänner villkoren"
-                />
-              </div>
-              <div className="col-md-6 col-12 mb-20">
-                <Button variant="contained"
-                  className={classes.sendButton}
-                  type="submit"
-                  disabled={name.length === 0 || message.length === 0 || email.length === 0 || phone.length === 0}
-                  onClick={() => setOpen(true)}>
-                  {/* {buttonContents} */}
-                  {loading ? <CircularProgress size={30} /> : buttonContents}
-                </Button>
-              </div>
-            </div>
-          </form>
+            </form>
           </Col>
         </Row>
       </Container>

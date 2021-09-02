@@ -55,33 +55,33 @@ const MainSliderTwo = () => {
               </h3>
             </div>
             <h2 style={{ marginBottom: "1em", color: "white", fontSize: "1rem" }}>
-              Miljövänlig komposit produkter med lågt underhåll
+            Umweltfreundliche Verbundprodukte mit geringem Wartungsaufwand
             </h2>
 
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn" ><center>Smart komposittrall</center></a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn" ><center>Smart Terrassdielen</center></a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="https://deckplanner.greenplank.eu/" className="thm-btn" >Trall Planerare</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn" >Terrassen Planer</a>
               </Grid>
 
             </Grid>
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6} >
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-vs-traditionell" className="thm-btn" >Smart vs Traditionell</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-vs-traditionell" className="thm-btn" >Smart gegen andere</a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="https://fenceplanner.greenplank.eu/" className="thm-btn" >Staket Planerare</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://fenceplanner.greenplank.eu/" className="thm-btn" >Zaunplaner</a>
               </Grid>
 
             </Grid>
             <Grid container spacing={3}>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn" >Ihålig vs Massiv</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn" >Hohlkammer  versus solide</a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="hitta-hantverkare" className="thm-btn" >Hitta Hantverkare</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="hitta-hantverkare" className="thm-btn" >Monteur finden</a>
               </Grid>
 
             </Grid>
@@ -90,7 +90,7 @@ const MainSliderTwo = () => {
                 <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="galleri" className="thm-btn" >Inspiration</a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="aterfarsaljare" className="thm-btn">Återförsäljare</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="aterfarsaljare" className="thm-btn">Großhändler</a>
               </Grid>
 
             </Grid>

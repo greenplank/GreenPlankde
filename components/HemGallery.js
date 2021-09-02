@@ -19,7 +19,7 @@ const HemGallery = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title ">
-                            <h3>Green Plank komposittrall produkter</h3>
+                            <h3>Terrassenbodenbelag Produkte</h3>
                         </div>
                     </Col>
                 </Row>
@@ -31,7 +31,7 @@ const HemGallery = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={SmartTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
-                                            <h2 className="title" style={{ color: "white" }}><b>Smart Trall</b></h2>
+                                            <h2 className="title" style={{ color: "white" }}><b>Smart Terrassendielen</b></h2>
                                         </div>
                                     </div>
                                 </a>
@@ -67,7 +67,7 @@ const HemGallery = () => {
                                     <div className="mb-20 mt-20">
                                         <img src={MarineTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Marine Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>Marine Terrassendielen</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -77,7 +77,7 @@ const HemGallery = () => {
                                     <div className="mb-20 mt-20">
                                         <img src={EntraTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Entra Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>Entra Terrassendielen</b></h3>
                                         </div>
                                     </div>
                                 </a>
@@ -89,7 +89,7 @@ const HemGallery = () => {
                                     <div className="mt-10">
                                         <img src={ClassicTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
-                                            <h3 className="title" style={{ color: "white" }}><b>Classic Trall</b></h3>
+                                            <h3 className="title" style={{ color: "white" }}><b>Classic Terrassendielen</b></h3>
                                         </div>
                                     </div>
                                 </a>

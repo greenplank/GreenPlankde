@@ -9,19 +9,19 @@ const SERVICE_TWO_DATA = [
   {
     extraClassName: "background-primary",
     image: image1,
-    title: "Det Bästa för Pooler",
+    title: "Am besten für den Pool",
     link: "/bast-for-poolen"
   },
   {
     extraClassName: "background-secondary",
     image: image2,
-    title: "Bäst för använding runt pooler",
+    title: "Am besten für den Außenbereich",
     link: "/bast-for-utomhusbruk"
   },
   {
     extraClassName: "background-base",
     image: image3,
-    title: "Klarar alla klimater och väder",
+    title: "Alle Arten von Wetter",
     link: "/alla-typer-av-vader"
   }
 ];

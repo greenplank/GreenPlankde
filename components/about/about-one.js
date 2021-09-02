@@ -23,7 +23,8 @@ const AboutOne = () => {
       <Container>
         <Row>
           <Col lg={6}>
-            <img src={image2} alt="" className="img-fluid" />
+          <img src={image4} width="510px" alt="" className="img-fluid" />
+            
           </Col>
           <Col lg={6}>
             <img src={image3} alt="" className="img-fluid" />
@@ -54,7 +55,7 @@ const AboutOne = () => {
       <Container>
         <Row>
           <Col lg={6}>
-            <img src={image4} alt="" className="img-fluid" />
+          <img src={image2} alt="" className="img-fluid" />
           </Col>
           <Col lg={6}>
             <div className="block-title">
