@@ -13,7 +13,7 @@ const HemLastSection = () => {
                 <div className="text-center block-title" >
                     <h3 className="block title" style={{ marginBottom: "1em" }}>
                         <img src={heart} width="15" alt="" />
-                        Green Plank komposittrall jämfört med trä
+                        Green Plank – Macht Ihr Leben grüner!
                     </h3>
                     <h4>
                         När man jämför Komposit vs Trä är hållbarhet en av de största skillnaderna. Sedan 1980 har träplastkomposit, även känt som WPC, träalternativ eller naturfibrer komposit (NFC) snabbt blivit det snabbast växande terrassmaterialet för bostäder och kommersiellt bruk.

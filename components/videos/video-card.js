@@ -24,15 +24,15 @@ const VideoCard = () => {
       <Container className=" text-center pt-60 pb-60">
         <h3>
           <img src={heart} width="15" alt="" />
-          Varför Green Plank?
+          Warum Green Plank?
         </h3>
         <h4 style={{color:"white"}}>
-        Varumärket Green Plank är ett hållbart varumärke för byggprodukter som representerar kvalitet, expertis och innovation i mer än 15 år. Green Plank står för innovation, tillförlitlighet, kvalitet, förtroende och kompetens – det här är grunden för vår verksamhet. Vi drivs av en passion för hållbara byggprodukter och detta återspeglas i var och en av våra produkter.
+        Die Marke Green Plank ist eine Marke für nachhaltige Bauprodukte, die seit mehr als 15 Jahren für Qualität, Fachwissen und Innovation steht. Green Plank steht für Innovation, Zuverlässigkeit, Qualität, Vertrauen und Kompetenz - das sind die Grundlagen, auf denen unser Geschäft gedeiht. Wir sind von einer Leidenschaft für nachhaltige Bauprodukte getrieben und dies spiegelt sich in jedem unserer Produkte wider. 
         </h4>
-        <h5 style={{color:"white",marginTop:"1em"}}>Som ett paraplymärke omfattar Green Plank en bred varumärkesportfölj i de fyra kategorierna terrasser, fasadbeklädnad, plankor och staket, inklusive produktmärke som AVON Flooring. Green Plank är det perfekta valet för krävande applikationer som hotellplattformar, liksom andra allmänna utrymmen som parker, förfriskningsbarer, verandor och klubbhusplattformar. Green Plank kompositplattor är hållbara, barfota vänliga och lätta att hålla i utmärkt skick år efter år.</h5>
+        <h5 style={{color:"white",marginTop:"1em"}}>Als Dachmarke umfasst Green Plank ein breites Markenportfolio in den vier Kategorien Terrassen, Fassadenverkleidung, Dielen und Zaunsysteme, einschließlich Produktmarken wie AVON Flooring. Green Plank ist die ideale Wahl für anspruchsvolle Anwendungen wie Hotelterrassen sowie andere öffentliche Bereiche wie Parks, Erfrischungsbars im Freien, Veranden und Clubhausdecks. Green Plank Composite-Terrassen sind langlebig, barfußfreundlich und Jahr für Jahr in ausgezeichnetem Zustand zu halten.</h5>
         <div className="video-card__btn-block">
           <Link href="/bestall-prov">
-            <a className="thm-btn dynamic-radius">Beställ prov</a>
+            <a className="thm-btn dynamic-radius">Muster Bestellen</a>
           </Link>
         </div>
       </Container>

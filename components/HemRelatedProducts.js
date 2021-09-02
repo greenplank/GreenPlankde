@@ -17,7 +17,7 @@ const HemRelatedProducts = () => {
                     <Col xl={12}>
                         {/* section title */}
                         <div className="text-center block-title" style={{marginBottom:"2em"}}>
-                            <h3>Andra produkter</h3>
+                            <h3>Andere Produkte</h3>
                         </div>
                     </Col>
                 </Row>
@@ -29,7 +29,7 @@ const HemRelatedProducts = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={Fasadpanel} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Fasadpanel</b></h4>
+                                            <h4 className="title"><b>Fassadenverkleidung</b></h4>
                                         </div>
                                     </div>
                                 </a>
@@ -39,7 +39,7 @@ const HemRelatedProducts = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={StaketSystem} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Staket System</b></h4>
+                                            <h4 className="title"><b>Zaunsystem</b></h4>
                                         </div>
                                     </div>
                                 </a>
@@ -49,7 +49,7 @@ const HemRelatedProducts = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={Utomsuhbankar} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Utomsuhbankar</b></h4>
+                                            <h4 className="title"><b>Bretter</b></h4>
                                         </div>
                                     </div>
                                 </a>
@@ -59,7 +59,7 @@ const HemRelatedProducts = () => {
                                     <div className="mt-20 mb-20">
                                         <img src={Batgolv} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
-                                            <h4 className="title"><b>Batgolv</b></h4>
+                                            <h4 className="title"><b>Yacht Bodenbelag</b></h4>
                                         </div>
                                     </div>
                                 </a>
