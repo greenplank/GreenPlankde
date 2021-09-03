@@ -37,7 +37,7 @@ const ContactCardCarousel = () => {
               <i aria-label="contact icon" className="azino-icon-family"></i>
               <h3>Handla om</h3>
               <p>
-              Green Plank-produkter används av många svenska <br />kommuner över hela Sverige
+             Green Plank-Produkte werden von vielen schwedischen <br />Gemeinden in ganz Schweden verwendet
               </p>
             </div>
           </SwiperSlide>
@@ -62,7 +62,7 @@ const ContactCardCarousel = () => {
               <i aria-label="contact icon" className="azino-icon-contact"></i>
               <h3>Kontakt</h3>
               <p>
-                <a href="mailto:info@greenplank.se">info@greenplank.se</a> <br />{" "}
+                <a href="mailto:info@greenplank.se">info@greenplank.de</a> <br />{" "}
                 <a href="tel:+46 40 450 560">+46 40 450 560</a>
               </p>
             </div>

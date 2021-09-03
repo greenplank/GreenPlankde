@@ -17,7 +17,7 @@ const About = () => {
       </Head>
       <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Om sidan" crumbTitle="Om Oss" />
+        <PageHeader title="Über uns" crumbTitle="Über uns" />
         <StickyHeader />
         <AboutOne />
         <BrandCarousel />

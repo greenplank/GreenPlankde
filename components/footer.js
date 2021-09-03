@@ -12,28 +12,28 @@ const Footer = () => {
       <div className="main-footer pt-142 pb-80">
         <Container>
           <Row>
-            <Col lg={2} md={6} sm={12}>
+            <Col lg={2} md={6} sm={12} >
               <div className="footer-widget footer-widget__link mb-40">
                 <h3 className="footer-widget__title">KUNDTJÄNST</h3>
                 <ul className="list-unstyled" >
                   <li>
                     <Link href="/aterfarsaljare" >
-                      <a style={{color:"white"}}>Återförsäljare</a>
+                      <a style={{color:"white"}}>Händler</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/hitta-hantverkare">
-                      <a style={{color:"white"}}>Hitta Green Plank certifierade hantverkare</a>
+                      <a style={{color:"white"}}>Allgemeine Verkaufsbedingungen (AGB)</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/forsaljningsvillkor">
-                      <a style={{color:"white"}}>Försäljningsvillkor</a>
+                      <a style={{color:"white"}}>Nutzungsbedingungen</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/anvandarvillkor">
-                      <a style={{color:"white"}}>Användningsvillkor</a>
+                      <a style={{color:"white"}}>Datenschutzbestimmungen</a>
                     </Link>
                   </li>
                   <li>
@@ -45,7 +45,7 @@ const Footer = () => {
                 </ul>
               </div>
             </Col>
-            <Col lg={2} md={6} sm={12}>
+            <Col lg={2} md={6} sm={12} style={{paddingLeft:"3em"}}>
               <div className="footer-widget footer-widget__link mb-40">
                 <h3 className="footer-widget__title">Företagsinformation</h3>
                 <ul className="list-unstyled" >
@@ -61,35 +61,35 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/bli-aterforsaljare">
-                      <a style={{color:"white"}}>Bli en Återförsäljare</a>
+                      <a style={{color:"white"}}>Händler werden</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/bli-en-green-plank-certifierad-hantverkare">
-                      <a style={{color:"white"}}>Bli en Green Plank certifierad hantverkare</a>
+                      <a style={{color:"white"}}>Werden Sie ein Green-Monteur</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/rengoring">
-                      <a style={{color:"white"}}>Rengöring</a>
+                      <a style={{color:"white"}}>Reinigung</a>
                     </Link>
                   </li>
                   
                 </ul>
               </div>
             </Col>
-            <Col lg={2} md={6} sm={12}>
+            <Col lg={2} md={6} sm={12} style={{paddingLeft:"3em"}}>
               <div className="footer-widget footer-widget__link mb-40">
                 <h3 className="footer-widget__title">Resurser</h3>
                 <ul className="list-unstyled" >
                   <li>
                     <Link  href="https://storage.googleapis.com/greenplankdata1/Teknisk-Brochyr-ver-1.3.pdf"  >
-                      <a target="_blank" style={{color:"white"}}>Teknisk Brochyr</a>
+                      <a target="_blank" style={{color:"white"}}>Technische Broschüre</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/installation-och-underhall">
-                      <a style={{color:"white"}}>Installation och underhåll</a>
+                      <a style={{color:"white"}}>Installation und Wartung</a>
                     </Link>
                   </li>
                   <li>
@@ -99,22 +99,22 @@ const Footer = () => {
                   </li>
                   <li>
                     <Link href="/garantier">
-                      <a style={{color:"white"}}>Garantier</a>
+                      <a style={{color:"white"}}>Garantien</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/artiklar">
-                      <a style={{color:"white"}}>Artiklar</a>
+                      <a style={{color:"white"}}>Artikel</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/resurser">
-                      <a style={{color:"white"}}> Alla resurser</a>
+                      <a style={{color:"white"}}>Ressourcen</a>
                     </Link>
                   </li>
                   <li>
                     <Link href="/bibliotek">
-                      <a style={{color:"white"}}> Bibliotek</a>
+                      <a style={{color:"white"}}>Bücherei</a>
                     </Link>
                   </li>
                 </ul>
