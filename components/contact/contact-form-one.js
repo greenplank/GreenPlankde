@@ -108,7 +108,7 @@ const ContactFormOne = () => {
   }
   const buttonContents = (
     <React.Fragment>
-      Skicka meddelande
+      Nachricht senden
       {/* <img src={airplane} alt="paper airplane" style={{ marginLeft: "1em" }} /> */}
     </React.Fragment>
   )
@@ -119,11 +119,12 @@ const ContactFormOne = () => {
           <Col lg={5}>
             <div className="contact-page__content mb-40">
               <BlockTitle
-                title={`Skriv gärna till oss \n ett meddelande.`}
-                tagLine="Kontakta oss"
+                title={`Schreiben Sie uns gerne\n
+                eine Nachricht.`}
+                tagLine="Kontaktiere uns"
               />
               <p className="block-text mb-30 pr-10">
-                Han inspirerades av talet som hölls av en amerikansk professor om hållbara byggprodukter med träliknande egenskaper och utseende av en blandning av återvunnen plast och naturligt avfall som risskal, vetestrå, sågspån, bambuflis, kokosnötskal, sojabönor, jordnötsskal, bomullsstrå etc.{" "}
+              Inspiriert wurde er von der Rede eines amerikanischen Professors über nachhaltige Bauprodukte mit holzähnlichen Eigenschaften und dem Aussehen einer Mischung aus recyceltem Plastik und Naturabfällen wie Reishülsen, Weizenstroh, Sägemehl, Bambuschips, Kokosnussschalen, Sojabohnen, Erdnussschalen, Baumwollstroh etc.{" "}
               </p>
               <div className="footer-social black-hover">
 
@@ -148,16 +149,16 @@ const ContactFormOne = () => {
               <div className="row row-10">
 
                 <div className="col-md-6 col-12 mb-20">
-                  <TextField variant="outlined" fullWidth label="Ange ditt namn" name="name" id="name" value={name} onChange={(event) => setName(event.target.value)} />
+                  <TextField variant="outlined" fullWidth label="Vorname" name="name" id="name" value={name} onChange={(event) => setName(event.target.value)} />
                 </div>
                 <div className="col-md-6 col-12 mb-20">
-                  <TextField variant="outlined" helperText={emailHelper} error={emailHelper.length !== 0} name="email" fullWidth label="Ange din e-postadress" id="email" value={email} onChange={onChange} />
+                  <TextField variant="outlined" helperText={emailHelper} error={emailHelper.length !== 0} name="email" fullWidth label="Email Adresse" id="email" value={email} onChange={onChange} />
                 </div>
                 <div className="col-12 mb-20">
-                  <TextField variant="outlined" fullWidth label="Subject" name="subject" id="subject" value={subject} onChange={(event) => setSubject(event.target.value)} />
+                  <TextField variant="outlined" fullWidth label="Thema" name="subject" id="subject" value={subject} onChange={(event) => setSubject(event.target.value)} />
                 </div>
                 <div className="col-12 mb-20">
-                  <TextField variant="outlined" fullWidth label="Ange ditt meddelande " name="message" InputProps={{ disableUnderline: true }} id="message" multiline rows={10} value={message} onChange={(event) => setMessage(event.target.value)} />
+                  <TextField variant="outlined" fullWidth label="Gib deine Nachricht ein " name="message" InputProps={{ disableUnderline: true }} id="message" multiline rows={10} value={message} onChange={(event) => setMessage(event.target.value)} />
                 </div>
 
                 <div className="col-md-6 col-12 mb-20">

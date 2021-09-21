@@ -17,7 +17,7 @@ const Gallery = () => {
       </Head>
       <Layout pageTitle="Galleri Hållbara byggprodukter - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Gallerisida" crumbTitle="Galleri" />
+        <PageHeader title="Galerie" crumbTitle="Galleri" />
         <StickyHeader />
         <GalleryPage />
         <Footer />

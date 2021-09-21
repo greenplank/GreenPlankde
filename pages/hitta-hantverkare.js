@@ -17,7 +17,7 @@ const HittaHantverkare = () => {
       </Head>
       <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Hitta Green Plank Hantverkare" crumbTitle="HittaHantverkare" />
+        <PageHeader title="Finden Sie Green Plank Monteur" crumbTitle="Finden Sie Green Plank Monteur" />
         <StickyHeader />
         <HittaTextSection />
         <Footer />

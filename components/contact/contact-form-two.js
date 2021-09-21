@@ -143,7 +143,7 @@ export default function ContactFormTwo() {
   }
   const buttonContents = (
     <React.Fragment>
-      SKICKA IN
+      Einreichen
       {/* <img src={airplane} alt="paper airplane" style={{ marginLeft: "1em" }} /> */}
     </React.Fragment>
   )
@@ -386,22 +386,22 @@ export default function ContactFormTwo() {
               <div className="row row-10">
 
                 <div>
-                  <h3 className="mt-10">Företag och Byggare:
+                  <h3 className="mt-10">Um ein KOSTENLOSES Muster zu erhalten, füllen Sie bitte das Formular.
                   </h3>
-                  <p className="mt-10 mb-40">Vänligen skicka oss ett Email på <a href="mailto:info@greenplank.se">info@greenplank.se</a> med er begäran på prover så löser vi det med er.
+                  <p className="mt-10 mb-40">Versand für das Muster 10 €: <a href="mailto:info@greenplank.se">info@greenplank.de</a>
                   </p>
                 </div>
-                <div className="mb-40">
+                {/* <div className="mb-40">
                   <h3 className="mt-10">Privatpersoner:
                   </h3>
                   <p className="mb-40">Skicka en betalning på 100 kr till följande Gankgiro – 5902-1543: För att beställa ett prov. (Priset på provbiten är gratis. detta är endast för att täcka fraktkostnaden.)
                   </p>
-                </div>
+                </div> */}
                 <div className=" col-12 mb-20">
 
                   <select id='product' name='product' value={selected} onChange={changeSelectOptionHandler}>
                     <option>
-                      välj produkter...................</option>
+                    Wähle ein Produkt...................</option>
                     <option>Green Plank SMART™ Decking System – Smart Classic™</option>
                     <option>Green Plank SMART™ Decking System – Smart Regular™</option>
                     <option>Green Plank SMART™ Decking System – Smart Marine™</option>
@@ -450,7 +450,7 @@ export default function ContactFormTwo() {
                     id="name"
                     fullWidth
                     name="name"
-                    label="FÖRNAMN"
+                    label="Vorname"
                     value={name}
                     onChange={(event) => setName(event.target.value)}
                     variant="filled"
@@ -461,7 +461,7 @@ export default function ContactFormTwo() {
                     id="lastname"
                     fullWidth
                     name="lastname"
-                    label="EFTERNAMN"
+                    label="Nachname"
                     value={lastname}
                     onChange={(event) => setLastName(event.target.value)}
                     variant="filled"
@@ -485,7 +485,7 @@ export default function ContactFormTwo() {
                     id="phone"
                     fullWidth
                     name="phone"
-                    label="TELEFONNUMMER"
+                    label="Telefonnummer"
                     helperText={phoneHelper}
                     error={phoneHelper.length !== 0}
                     value={phone}
@@ -498,7 +498,7 @@ export default function ContactFormTwo() {
                     id="adress"
                     fullWidth
                     name="address"
-                    label="Adress"
+                    label="Adresse"
                     helperText={phoneHelper}
                     error={phoneHelper.length !== 0}
                     value={adress}
@@ -511,7 +511,7 @@ export default function ContactFormTwo() {
                     id="postnumber"
                     fullWidth
                     name="postnumber"
-                    label="Postnummer"
+                    label="Postleitzahl "
                     helperText={phoneHelper}
                     error={phoneHelper.length !== 0}
                     value={postnumber}
@@ -537,7 +537,7 @@ export default function ContactFormTwo() {
                     fullWidth
                     name="city"
                     controlId="formGridCity"
-                    label="Stad"
+                    label="Stadt / Gemeinde  "
                     value={city}
                     onChange={(event) => setCity(event.target.value)}
                     variant="filled"
@@ -549,7 +549,7 @@ export default function ContactFormTwo() {
                     fullWidth
                     name="subject"
                     controlId="formGridCity"
-                    label="Subject"
+                    label="Gegenstand"
                     value={subject}
                     onChange={(event) => setSubject(event.target.value)}
                     variant="filled"
@@ -561,7 +561,7 @@ export default function ContactFormTwo() {
                     fullWidth
                     name="message"
                     controlId="formGridCity"
-                    label="Meddelande "
+                    label="Nachricht"
                     InputProps={{ disableUnderline: true }}
                     multiline rows={10}
                     value={message}
@@ -582,7 +582,7 @@ export default function ContactFormTwo() {
                         }}
                       />
                     }
-                    label="Jag godkänner villkoren"
+                    label="Möchten Sie ein Angebot für Produkte? "
                   />
                 </div>
                 <div className="col-md-6 col-12 mb-20">

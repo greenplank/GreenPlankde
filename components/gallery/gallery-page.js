@@ -83,7 +83,7 @@ const GalleryPage = () => {
     <section className="gallery-page pt-120 pb-120">
       <div className="container">
         <BlockTitle
-          title={`Smart Cap komposittrall`}
+          title={`SmartCap Komposite Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage1} />
@@ -96,7 +96,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Smart Classic komposittrall`}
+          title={`Smart Classic Komposite Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage7} />
@@ -106,7 +106,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Primacap Komposit Fasadbeklädnad`}
+          title={`Primacap Komposit Fassadenverkleidung`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage10} />
@@ -116,7 +116,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Novofence Komposit Staket System`}
+          title={`Novofence Komposit Zaun System`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage13} />
@@ -135,7 +135,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Novoclad Komposit Fasadbeklädnad`}
+          title={`Novoclad Komposit Fassadenverkleidung `}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage25} />
@@ -145,7 +145,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Naturplank Solid Komposit Styrelser`}
+          title={`Naturplank Solid Komposit Planken`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage28} />
@@ -156,7 +156,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`MarineJumbo Solid komposittrall`}
+          title={`MarineJumbo Solid Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage32} />
@@ -166,7 +166,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Marine Cap Solid komposittrall`}
+          title={`MarineCap Solid Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage35} />
@@ -176,7 +176,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Marine40 Solid komposittrall`}
+          title={`Marine40 Solid Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage38} />
@@ -189,7 +189,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`EverComposite Däck komposittrall`}
+          title={`EverComposite Deck Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage44} />
@@ -202,7 +202,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Komposit balkongplattor`}
+          title={`Verbundbalkonfliesen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage50} />
@@ -212,7 +212,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Classic Jumbo komposittrall`}
+          title={`Classic Jumbo Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage53} />
@@ -225,7 +225,7 @@ const GalleryPage = () => {
       </div>
       <div className="container mt-80">
         <BlockTitle
-          title={`Classic komposittrall`}
+          title={`Classic Komposit Terrassendielen`}
         />
         <div className="gallery-3-col">
           <GalleryCard image={galleryImage59} />

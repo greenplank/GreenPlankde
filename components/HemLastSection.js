@@ -16,11 +16,13 @@ const HemLastSection = () => {
                         Green Plank – Macht Ihr Leben grüner!
                     </h3>
                     <h4>
-                        När man jämför Komposit vs Trä är hållbarhet en av de största skillnaderna. Sedan 1980 har träplastkomposit, även känt som WPC, träalternativ eller naturfibrer komposit (NFC) snabbt blivit det snabbast växande terrassmaterialet för bostäder och kommersiellt bruk.
-                        Många husägare väljer trädäck eftersom det är bekant, lättillgängligt och prisvärt. Samtidigt orsakar trästycksproblem som splinter, röta och högt underhåll många huvudvärk.
+                        Die Marke Green Plank ist eine Marke für nachhaltige Bauprodukte, die seit mehr als 15 Jahren für Qualität, Fachwissen und Innovation steht.
+
+                        Der “grüne” Konsumismus nimmt zu und Green Plank genießt das volle Vertrauen der Verbraucher.
+
+                        Green Plank steht für Innovation, Zuverlässigkeit, Qualität, Vertrauen und Kompetenz – das sind die Grundlagen unseres Geschäfts.
                     </h4>
-                    <h5>Även om träplattor i komposit är lättare att underhålla, oroar vissa husägare att kompositer inte ser lika bra ut som trä. Green Plank har dock utvecklat kompositer som efterliknar det rika, naturliga utseendet på trä utan besväret med att underhålla ett trädäck.
-                        Green Plank kompositplattor är ett miljövänligt träalternativ som kombinerar återvunnen plast och trä / ris skalfibrer. Green Plank komposittrall är lätt tillgänglig i de flesta stora byggvaruaffärer i hela Europa.</h5>
+                    <h4>Unsere Leidenschaft für nachhaltige Bauprodukte spiegelt sich in jedem unserer Produkte wider. Green Plank umfasst als Dachmarke ein breites Markenportfolio in den vier Kategorien Terrassendielen, Fassadenbekleidungen, Dielen und Zaunsystem, darunter Produktmarken wie AVON Flooring.</h4>
                 </div>
             </Container>
         </section>

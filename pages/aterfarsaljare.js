@@ -17,7 +17,7 @@ const Aterfarsaljare = () => {
       </Head>
       <Layout pageTitle="Om oss - Hållbart byggande produkter - GreenPlank.se">
         <HeaderTwo />
-        <PageHeader title="Hitta Green Plank Återförsäljare" crumbTitle="Aterfarsaljare" />
+        <PageHeader title="Finden Sie Green Plank-Händler" crumbTitle="Großhändler" />
         <StickyHeader />
         <AterfarsaljareTextSection />
         <Footer />
