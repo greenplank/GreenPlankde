@@ -1,0 +1,10 @@
+---
+# deployment:
+#   tasks:
+#     - export DEPLOYPATH=/home/woodvnos/demo2.greenplank.se/
+#     - /bin/cp * $DEPLOYPATH
+
+deployment:
+  tasks:
+    - composer install
+    - /bin/cp -a /home/woodvnos/git/GreenPlankSiteNext/public /home/woodvnos/demo2.greenplank.se/
