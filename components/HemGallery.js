@@ -27,7 +27,7 @@ const HemGallery = () => {
                     <Col xl={6}>
                         <Row>
                             <Col md={12}>
-                                <a href="smart-komposittrall">
+                                <a href="/smart-terrassendielen">
                                     <div className="mt-20 mb-20">
                                         <img src={SmartTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
@@ -39,7 +39,7 @@ const HemGallery = () => {
                         </Row>
                         <Row>
                             <Col md={6} xs={6}>
-                                <a href="smart-komposittrall-smart-classic">
+                                <a href="smart-wpc-terrassendielen-smart-classic">
                                     <div className="mt-10 mb-10 ">
                                         <img src={SmaertClassic} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
@@ -49,7 +49,7 @@ const HemGallery = () => {
                                 </a>
                             </Col>
                             <Col md={6} xs={6}>
-                                <a href="smart-komposittrall-smart-cap">
+                                <a href="smart-cap-system-terrassendielen">
                                     <div className="mt-10 mb-10">
                                         <img src={SmartCap} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner text-center">
@@ -63,7 +63,7 @@ const HemGallery = () => {
                     <Col xl={6}>
                         <Row>
                             <Col md={6} xs={6}>
-                                <a href="marine-komposittrall">
+                                <a href="/marine-terrassendielen">
                                     <div className="mb-20 mt-20">
                                         <img src={MarineTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
@@ -73,7 +73,7 @@ const HemGallery = () => {
                                 </a>
                             </Col>
                             <Col md={6} xs={6}>
-                                <a href="entra-trall">
+                                <a href="/entra-terrassendielen">
                                     <div className="mb-20 mt-20">
                                         <img src={EntraTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">
@@ -85,7 +85,7 @@ const HemGallery = () => {
                         </Row>
                         <Row>
                             <Col md={12}>
-                                <a href="classic-komposittrall">
+                                <a href="/classic-terrassendielen">
                                     <div className="mt-10">
                                         <img src={ClassicTrall} className="img-fluid" alt="" />
                                         <div className="service-two__box-inner">

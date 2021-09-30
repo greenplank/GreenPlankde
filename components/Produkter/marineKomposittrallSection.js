@@ -17,35 +17,35 @@ import proImage10 from "../../assets/images/products/komposittrall/marineart.web
 const DATA = [
    
       {
-        link: "/marine-cap-komposittrall",
+        link: "/terrassendielen-marine-cap",
         image: proImage6,
         title: "MARINE CAP™ Terrassendielen",
         text:
           "Mit Green Plank MARINE CAP™ beschichtete Terrassendielen...."
       },
       {
-        link: "/marine-40-komposittrall",
+        link: "/marine-40-terrassendielen",
         image: proImage7,
         title: "MARINE 40™ Terrassendielen",
         text:
           "MARINE40™ Naturfaser-Terrassendielen sind so konstruiert ......"
       },
       {
-        link: "/marine-60-komposittrall",
+        link: "/marine-60-terrassendielen",
         image: proImage8,
         title: "MARINE 60™ Terrassendielen",
         text:
           "Die Green Plank MARINE 60 ™ Komposit Terrassendiele ist keine........"
       },
       {
-        link: "/marine-jumbo-komposittrall",
+        link: "/wpc-terrassendielen-marine-jumbo-schwerlast",
         image: proImage9,
         title: "MARINE JUMBO™ Schwerlast Terrassendielen",
         text:
           "Die Hochleistungs-Naturfaser-Terrassendielen von MARINE JUMBO™........"
       },
         {
-          link: "/marine-art-komposittrall",
+          link: "/terrassendielen-marine-art",
           image: proImage10,
           title: "MARINE ART™ Terrassendielen",
           text:

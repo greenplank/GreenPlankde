@@ -17,9 +17,9 @@ const staketsystem = () => {
             <Head>
                 <title>Zaunsystem</title>
                 <meta name="title" content="Zaunsystem | Moderna staket - GreenPlank.se" />
-                <meta name="description" content="Staket väggar är nu allmänt används som gränsen för att binda din trädgård, klimax ditt landskap struktur, eller vara i fokus för din exponering." />
+                <meta name="description" content="Zaunsystem väggar är nu allmänt används som gränsen för att binda din trädgård, klimax ditt landskap struktur, eller vara i fokus för din exponering." />
             </Head>
-            <Layout pageTitle="Staket System">
+            <Layout pageTitle="Zaunsystem">
                 <HeaderTwo />
                 <PageHeader title="Zaunsystem" crumbTitle="Zaunsystem" />
                 <StickyHeader />

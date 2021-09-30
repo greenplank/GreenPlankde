@@ -25,7 +25,7 @@ const HemRelatedProducts = () => {
                     <Col xl={12}>
                         <Row>
                             <Col md={3} xs={6}>
-                                <a href="fasadpanel">
+                                <a href="fassadenverkleidung">
                                     <div className="mt-20 mb-20">
                                         <img src={Fasadpanel} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
@@ -35,7 +35,7 @@ const HemRelatedProducts = () => {
                                 </a>
                             </Col>
                             <Col md={3} xs={6}>
-                                <a href="staket-system">
+                                <a href="zaunsystem">
                                     <div className="mt-20 mb-20">
                                         <img src={StaketSystem} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">
@@ -45,7 +45,7 @@ const HemRelatedProducts = () => {
                                 </a>
                             </Col>
                             <Col md={3} xs={6}>
-                                <a href="plankor">
+                                <a href="bretter">
                                     <div className="mt-20 mb-20">
                                         <img src={Utomsuhbankar} className="img-fluid" alt="" />
                                         <div className="mt-20 text-center">

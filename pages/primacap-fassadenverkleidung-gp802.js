@@ -4,16 +4,15 @@ import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
 import PageHeader from "../components/page-header";
 import { Container, Row, Col } from "react-bootstrap";
-
+import Head from "next/head";
 import Grid from '@material-ui/core/Grid';
 
-import Image11 from "../assets/images/products/innerPages/fasadpanel/GP801/image.webp";
-import Head from "next/head";
+import Image11 from "../assets/images/products/innerPages/fasadpanel/GP802/image.webp";
+
 import Imagecolor1 from "../assets/images/colors/primacap-fasadpanel-gp801/Charcoal.png";
 
 
-
-import Imagesurface from "../assets/images/surface/Primacap-801-8.png";
+import Imagesurface from "../assets/images/surface/Primacap-802-8.png";
 
 import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
@@ -23,23 +22,23 @@ import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technica
 
 import Footer from "../components/footer";
 
-const fasadpanelgp801 = () => {
+const fasadpanelgp802 = () => {
   return (
     <>
       <Head>
-        <title>PRIMA CAP ™ Fassadenverkleidung – GP801</title>
-        <meta name="title" content="PRIMA CAP ™ Fassadenverkleidung – GP801 - GreenPlank.de" />
-        <meta name="description" content="Green Plank erbjuder PRIMA CAP™ fasadpanel GP801 till bästa pris. Det är innovationen bakom skönhet med utmärkt färghållning." />
+        <title>PRIMA CAP™ Premium Fassadenverkleidung – GP802</title>
+        <meta name="title" content="PRIMA CAP™ Premium Fassadenverkleidung – GP802 - GreenPlank.se" />
+        <meta name="description" content="Komposit fasadpanel GP802. Denna lätta, brandhämmande, supertåliga kompositpanel med låg underhåll, är belagd med en revolutionerande ASA-mantel." />
       </Head>
-      <Layout pageTitle="PRIMA CAP ™ Fassadenverkleidung – GP801">
+      <Layout pageTitle="PRIMA CAP™ Premium Fassadenverkleidung – GP802">
         <HeaderTwo />
         <StickyHeader />
-        <PageHeader title="PRIMA CAP ™ Fassadenverkleidung – GP801" crumbTitle="gp801" />
+        <PageHeader title="PRIMA CAP™ Premium Fassadenverkleidung – GP802" crumbTitle="gp802" />
         <section className="blog-details pt-120 pb-40">
           <Container>
             <Row>
               <Col md={12} lg={12}>
-                <div className="page-wrapper pt-40 pb-40">
+                <div className="page-wrapper section-space--inner--120">
                   {/*Smart Classic section start*/}
                   <div className="project-section">
                     <div className="container">
@@ -48,20 +47,20 @@ const fasadpanelgp801 = () => {
                         {/*====================  Star Smart Classic Section-1 content ====================*/}
                         <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                           <div className="project-details">
-                            <h2>PRIMA CAP ™ Fassadenverkleidung – GP801</h2>
+                            <h2>PRIMA CAP™ Premium Fassadenverkleidung – GP802</h2>
                             <strong>Es ist die Innovation hinter der Schönheit mit ausgezeichneter Farbbeständigkeit Farbbeständigkeit</strong>
                             <div class="et_pb_text_inner">
                               <div class="ce_text block">
 
                                 <strong>PRIMA CAP™ Composite Facade Cladding System ist ein innovatives Fassadensystem, das speziell als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde und mit einer 25-jährigen Garantie gegen Verblassen und Verrotten ausgestattet ist. Diese leichte, wartungsarme, feuerhemmende und äußerst haltbare Fassadenverkleidung aus Verbundwerkstoff ist mit einer revolutionären, lichtechten ASA-Kappe beschichtet, die extremen Temperaturen, hoher Luftfeuchtigkeit, Gefrieren / Auftauen und allem dazwischen standhält.</strong>
                                 <p>
-                                  PRIMA CAP™ Composite Facade Cladding System ist ein innovatives Fassadensystem, das speziell als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde und mit einer 25-jährigen Garantie gegen Verblassen und Verrotten ausgestattet ist. Diese leichte, wartungsarme, feuerhemmende und äußerst haltbare Fassadenverkleidung aus Verbundwerkstoff ist mit einer revolutionären, lichtechten ASA-Kappe beschichtet, die extremen Temperaturen, hoher Luftfeuchtigkeit, Gefrieren / Auftauen und allem dazwischen standhält.
+                                PRIMA CAP™ Composite Facade Cladding System ist ein innovatives Fassadensystem, das speziell als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde und mit einer 25-jährigen Garantie gegen Verblassen und Verrotten ausgestattet ist. Diese leichte, wartungsarme, feuerhemmende und äußerst haltbare Fassadenverkleidung aus Verbundwerkstoff ist mit einer revolutionären, lichtechten ASA-Kappe beschichtet, die extremen Temperaturen, hoher Luftfeuchtigkeit, Gefrieren / Auftauen und allem dazwischen standhält.
                                 </p>
                                 <p>
-                                  PRIMA CAP™ GP801-Verbundfassadenplatten werden normalerweise in horizontaler oder vertikaler Richtung ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungslöcher an den Trägern befestigt.
+                                PRIMA CAP™ GP802-Verbundfassadenplatten werden normalerweise in horizontaler oder vertikaler Richtung ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungslöcher an den Trägern befestigt.
                                 </p>
                                 <div>
-                                  <ul>
+                                <ul>
                                     <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
                                     <li><strong>Lange andauernd</strong> –   Die PRIMA CAP™ Verbundfassade ist langlebig und widersteht dem Wetter, Verschleiß, UV-Sonnenlicht und Insekten.</li>
                                     <li><strong>Keine Clips </strong>– Sie benötigen keine Befestigungsklammern, um unsere Verbundfassadenplatte mit Nut und Feder zu montieren.</li>
@@ -84,6 +83,7 @@ const fasadpanelgp801 = () => {
                               <div className="col-md-6 col-mobile-6 mb-20">
                                 <div className="single-gallery-project">
                                   <div className="single-gallery-project__image">
+                                    {/* <img src="assets/img/projects/img12.PNG" className="img-fluid" alt="" /> */}
                                     <img src={Image11} className="img-fluid" alt="" />
                                   </div>
                                 </div>
@@ -95,11 +95,11 @@ const fasadpanelgp801 = () => {
                                     <tbody>
                                       <tr>
                                         <td align="left"><strong>Oberfläche:</strong></td>
-                                        <td align="left">  Schützende, matt glänzende Oberfläche</td>
+                                        <td align="left">Schützende, matt glänzende Oberfläche</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Abmessungen:</strong></td>
-                                        <td align="left"> ca. 12.5 * 173 mm</td>
+                                        <td align="left"><strong>Größe:</strong></td>
+                                        <td align="left"> ca. 10 * 149 mm</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Länge:</strong></td>
@@ -107,30 +107,33 @@ const fasadpanelgp801 = () => {
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Bedarf:</strong></td>
-                                        <td align="left"> 	ca. 6.60 meters für 1 m²</td>
+                                        <td align="left"> Ca. 8,00 Meter für 1 m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Gewicht:</strong></td>
-                                        <td align="left">ca. 9.76 kg / m²</td>
+                                        <td align="left">ca. 8.91 kg / m²</td>
                                       </tr>
                                       <tr>
                                         <td align="left"><strong>Stützweite:</strong></td>
-                                        <td align="left">45 cm c/c für Wohnanwendungen*</td>
+                                        <td align="left">45 cm c/c för bostadsapplikationer</td>
                                       </tr>
                                     </tbody>
                                   </table>
                                 </div>
                                 {/* </div> */}
                                 <div className="row mt-40 mb-30">
+
                                   <div className="row" style={{ marginTop: ".5em", marginRight: "8px", marginLeft: "4px" }}>
                                     <img src={Imagesurface} />
                                   </div>
+
+
                                 </div>
                                 <div className="row mt-60">
 
                                   <Grid container spacing={3}>
                                     <Grid item xs={6} sm={4} lg={6}>
-                                      <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                    <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                     </Grid>
                                   </Grid>
                                 </div>
@@ -144,7 +147,7 @@ const fasadpanelgp801 = () => {
                         {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                         <div className="col-12 mb-80">
-                          <h3> SEHEN SIE DIE FARBTRENDS AN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
+                          <h3>SEHEN SIE DIE FARBTRENDS AN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                           <hr />
                           <Grid container spacing={3}>
                             <Grid item xs={6} sm={2}>
@@ -260,4 +263,4 @@ const fasadpanelgp801 = () => {
   );
 };
 
-export default fasadpanelgp801;
+export default fasadpanelgp802;

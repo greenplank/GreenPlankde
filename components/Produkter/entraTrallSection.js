@@ -10,7 +10,7 @@ import proImage11 from "../../assets/images/products/komposittrall/entra.png";
 const DATA = [
     
       {
-        link: "/entra-komposittrall",
+        link: "/entra-dielen",
         image: proImage11,
         title: "ENTRA™ Terrassendielen",
         text:

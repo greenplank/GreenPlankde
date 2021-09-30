@@ -12,14 +12,14 @@ import proImage2 from "../../assets/images/products/golvplattor/evertile.webp";
 
 const DATA = [
       {
-        link: "/instaclik-balkongplattor-gp702t",
+        link: "/instaclik-terrassenfliesen-gp702t",
         image: proImage1,
         title: "INSTACLIK™ Terrassenfliesen– GP702T",
         text:
           "INSTACLIK™ -Terrassenfliesen- und -Balkonfliesen  ......"
       },
       {
-        link: "/evertile-balkongplattor-et703t",
+        link: "/evertile-terrassenfliesen-et703t",
         image: proImage2,
         title: "EVERTILE™ Terrassenfliesen– ET703T",
         text:

@@ -13,28 +13,28 @@ import proImage5 from "../../assets/images/products/komposittrall/ultrasmart.web
 
 const DATA = [
     {
-        link: "/smart-komposittrall-smart-classic",
+        link: "/smart-wpc-terrassendielen-smart-classic",
         image: proImage1,
         title: "SMART™ System Terrassendielen – Smart Classic™",
         text:
           "Unser SMART Classic™ Terrassendielen ist inspiriert von ....."
       },
       {
-        link: "/smart-komposittrall-smart-regular",
+        link: "/smart-terrassendielen-smart-regular",
         image: proImage2,
         title: "SMART™ System Terrassendielen – Smart Regular™",
         text:
           "Die breiten und geraden Rillen von SMART Regular™ terrassendielen...."
       },
       {
-        link: "/smart-komposittrall-smart-marine",
+        link: "/smart-terrassendielen-smart-marine",
         image: proImage3,
         title: "SMART™ System Terrassendielen – Smart Marine™",
         text:
           "Mit einem soliden Kern, einer glatten und eleganten .........."
       },
       {
-        link: "/smart-komposittrall-smart-cap",
+        link: "/smart-cap-system-terrassendielen",
         image: proImage4,
         title: "SMART CAP™ System Terrassendielen",
         text:

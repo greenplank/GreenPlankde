@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import image1 from "../assets/images/IhaligMassiv.webp";
+import image1 from "../assets/images/Hollow-VS-sOLID-German.png";
 import image2 from "../assets/images/backgrounds/about-1.webp";
 import image3 from "../assets/images/backgrounds/about-2.webp";
 import image4 from "../assets/images/backgrounds/about-profile.webp";

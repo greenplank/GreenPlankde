@@ -111,7 +111,7 @@ const HeaderTwo = () => {
       <nav className="main-menu">
         <Container>
           <NavLinks />
-          <Link href="/bestall-prov">
+          <Link href="/muster-bestellen">
             <a className="thm-btn rounded-pill">Muster Bestellen</a>
           </Link>
         </Container>

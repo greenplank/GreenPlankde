@@ -1,6 +1,6 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import image1 from "../assets/images/SmartTraditionell.webp";
+import image1 from "../assets/images/SmartTraditionell.png";
 
 const SmartTraditionalSection = () => {
   return (

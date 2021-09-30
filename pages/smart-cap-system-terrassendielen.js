@@ -4,38 +4,36 @@ import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
 import PageHeader from "../components/page-header";
 import { Container, Row, Col } from "react-bootstrap";
-import Head from "next/head";
 
 import Grid from '@material-ui/core/Grid';
 
-import Image11 from "../assets/images/products/innerPages/Komposittrall/smartregular/Charcoal_Thumbnail.webp";
+import Image11 from "../assets/images/products/innerPages/Komposittrall/smartcap/BalticGrey_Thumbnail.webp";
 
-import Imagecolor1 from "../assets/images/colors/smart_regular/Beach-Grey.png";
-import Imagecolor2 from "../assets/images/colors/smart_regular/Chocolate.png";
-import Imagecolor3 from "../assets/images/colors/smart_regular/Charcoal.png";
+import Imagecolor1 from "../assets/images/colors/smart_cap/Baltic-Brown.png";
+import Imagecolor2 from "../assets/images/colors/smart_cap/Baltic-Grey.png";
 
 
-import Imagesurface from "../assets/images/surface/smart_regular/Smart-Regular-8.png";
+import Imagesurface from "../assets/images/surface/smart_cap/Smart-Cap-8.png";
 
 import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
 import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
-
+import Head from "next/head";
 import Footer from "../components/footer";
 
-const smartregular = () => {
+const smartcap = () => {
   return (
-    <Layout pageTitle="SMART™ Terrassendielen – Smart Regular™">
+    <Layout pageTitle="SMART CAP™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="SMART™ Terrassendielen – Smart Regular™" crumbTitle="Smart Regular™" />
+      <PageHeader title="SMART CAP™" crumbTitle="SMART CAP™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>
-              <div className="page-wrapper section-space--inner--120">
+              <div className="page-wrapper pt-40 pb-40">
                 {/*Smart Classic section start*/}
                 <div className="project-section">
                   <div className="container">
@@ -44,19 +42,17 @@ const smartregular = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>SMART™ Terrassendielen – Smart Regular™</h2>
-                          <strong>Unglaubliche Auswahl mit unglaublicher Schönheit</strong>
+                          <h2>SMART CAP™ Premium Terrassendielen mit Schutzummantelung</h2>
+                          <strong>Die Innovation hinter der Schönheit</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Dank des einzigartigen Verriegelungssystems und der spaltfreien Oberfläche ist das SMART™ Terrassen System ist eine gute Wahl für Familien. Es ist für maximale Haltbarkeit ausgelegt. Es widersteht dem Ausbleichen, Flecken, Schimmel und verrottet, knackt oder verzieht sich nicht. Es ist ebenfalls insektensicher und splitterfrei, was es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</strong>
-                              Die breiten und geraden Rillen von SMART Regular™ terrassendielen bilden an der Oberfläche ein gleichmäßiges Muster, das nicht nur ein schönes Aussehen des Bangkirai-Holzes bietet, sondern auch eine effektive Wasserableitung und eine rutschfeste Lauffläche für eine gute Traktion in nassen Bereichen wie etwa um Schwimmbecken. SMART™ Terrassendielen aus Verbundwerkstoff sind barfuß begehbar.<br />
+                              <strong>SMART CAP ist unser coextrudierter Verbundbelag der 4. Generation, der mit einer Polymer-Schutzhülle versehen ist und beständig gegen die Elemente ist, denen jedes Belag standhält. Das SMART CAP™ Terrassensystem ist mit seinem einzigartigen Verriegelungssystem, seiner äußerst wartungsarmen und glatten Oberfläche eine gute Wahl für Familien. Es ist für maximale Haltbarkeit ausgelegt. Es widersteht dem Ausbleichen, Flecken, Schimmel und verrottet, knackt oder verzieht sich nicht. Es ist auch insektensicher und splitterfrei, was es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</strong>
+                              <p>
+                                Wenn Sie sich für SMART CAP™-Terassen von Green Plank entscheiden, zeigen Sie Ihre Smarts in einem Belag, der überholt und überdauert, ohne sein schönes, natürliches Aussehen zu verlieren. Die SMART CAP™-Technologie bietet eine beispiellose Barriere gegen die harten Einflüsse von ultraviolettem Licht, Schlagregen, hoher Luftfeuchtigkeit und extremer Hitze und Kälte. Es bietet auch einen zusätzlichen Bonus an Dimensionsstabilität und Schlagfestigkeit. Es sorgt dafür, dass die Farben Jahr für Jahr tief und satt aussehen.<br />
+                                SMART™-Verbundplatten werden ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungs- und Drainagelöcher an den Trägern befestigt.<br/>
 
-                              Unsere SMARTRegular™ Terrassendiele ist inspiriert von natürlichen Mineralien und Erdpigmenten. Die Farbpalette ist reich und lebendig und wird von Hausbesitzern und Architekten gegenüber anderen Terrassenmaterialien bevorzugt. Jede sorgfältig zusammengestellte Nuance enthält attraktive mehrfarbige Töne und Streifen, um ein zeitgemäßes Aussehen und eine natürliche Haptik zu bieten.<br />
-
-                              SMARTRegular™-Verbundplatten werden ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungs- und Drainagelöcher an den Trägern befestigt.<br />
-
-                              Durch die Verwendung von SMART™ Terrassen System können Sie eine vollständig geschlossene Terrassenfläche schaffen, auf der kein Schmutz herabfallen oder Unkraut wachsen kann.<br />
+                                Durch die Verwendung von SMART™ Decking System können Sie eine vollständig geschlossene Terrassenfläche schaffen, auf der kein Schmutz herabfallen oder Unkraut wachsen kann.</p>
                               <div>
                                 <ul>
                                   <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
@@ -80,7 +76,6 @@ const smartregular = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                  {/* <img src="assets/img/projects/img12.PNG" className="img-fluid" alt="" /> */}
                                   <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
@@ -92,11 +87,11 @@ const smartregular = () => {
                                   <tbody>
                                     <tr>
                                       <td align="left"><strong>Oberfläche:</strong></td>
-                                      <td align="left">Reichhaltige, vielfarbige Farben, rutschhemmend</td>
+                                      <td align="left">Rutschhemmende, matt glänzende Schutzausrüstung</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Größe:</strong></td>
-                                      <td align="left">ca. 22 * 142 mm</td>
+                                      <td align="left">ca. 23 * 138 mm</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Länge:</strong></td>
@@ -104,15 +99,15 @@ const smartregular = () => {
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Bedarf:</strong></td>
-                                      <td align="left">	Ca. 6,90 Meter für 1 m²</td>
+                                      <td align="left">ca. 6.94 meters for 1 m²</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Gewicht:</strong></td>
-                                      <td align="left">ca. 3.45 kg / m</td>
+                                      <td align="left">ca. 4.18 kg / m</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Balkenspannung:</strong></td>
-                                      <td align="left">	50 cm c / c für Wohnanwendungen *</td>
+                                      <td align="left">50 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -126,17 +121,17 @@ const smartregular = () => {
 
 
                               </div>
-                              <div className="row section-space--top--60">
+                              <div className="row mt-60">
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                    <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/pdfs/smart-regular-german-.pdf" className="thm-btn"  >Installationsanleitung</a>
+                                    <a target="_blank" href="/pdfs/smart-capped-German.pdf" className="thm-btn"  >Installationsanleitung</a>
                                   </Grid>
                                   <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="/pdfs/smart-regular.pdf" className="thm-btn" >Aluminiuminstallation</a>
+                                    <a target="_blank" href="/pdfs/smart-capped.pdf" className="thm-btn" >Aluminiuminstallation</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -156,19 +151,13 @@ const smartregular = () => {
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor1} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center"> Beach Grey</h4>
+                              <h4 className="mt-20 text-center">Baltic Brown</h4>
                             </div>
                           </Grid>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor2} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Chocolate</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor3} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Charcoal</h4>
+                              <h4 className="mt-20 text-center">Baltic Grey</h4>
                             </div>
                           </Grid>
                         </Grid>
@@ -248,7 +237,7 @@ const smartregular = () => {
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/smart-regular-german-.pdf">
+                            <a target="_blank" href="/pdfs/smart-capped-German.pdf">
                               <img src={pdfimg2} className="img-fluid" alt="" />
                             </a>
                           </Grid>
@@ -258,12 +247,12 @@ const smartregular = () => {
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/smart-regular.pdf">
+                            <a target="_blank" href="/pdfs/smart-capped.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/datenblatt-smart-regular-terrassendiele-wpc-bpc-greenplank.pdf">
+                            <a target="_blank" href="/pdfs/datenblatt-smartcap-terrassendiele-wpc-bpc-greenplank.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>
@@ -281,7 +270,6 @@ const smartregular = () => {
                 </div>
                 {/*Projects section end*/}
               </div>
-
             </Col>
           </Row>
         </Container>
@@ -291,4 +279,4 @@ const smartregular = () => {
   );
 };
 
-export default smartregular;
+export default smartcap;

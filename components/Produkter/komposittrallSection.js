@@ -25,28 +25,28 @@ import proImage15 from "../../assets/images/products/komposittrall/komposittillb
 
 const DATA = [
     {
-        link: "/smart-komposittrall-smart-classic",
+        link: "/smart-wpc-terrassendielen-smart-classic",
         image: proImage1,
         title: "SMART™ System Terrassendielen – Smart Classic™",
         text:
           "Unser SMART Classic™ Terrassendielen ist inspiriert von ....."
       },
       {
-        link: "/smart-komposittrall-smart-regular",
+        link: "/smart-terrassendielen-smart-regular",
         image: proImage2,
         title: "SMART™ System Terrassendielen – Smart Regular™",
         text:
           "Die breiten und geraden Rillen von SMART Regular™ ...."
       },
       {
-        link: "/smart-komposittrall-smart-marine",
+        link: "/smart-terrassendielen-smart-marine",
         image: proImage3,
         title: " SMART™ System Terrassendielen – Smart Marine™",
         text:
           "Mit einem soliden Kern, einer glatten und eleganten .........."
       },
       {
-        link: "/smart-komposittrall-smart-cap",
+        link: "/smart-cap-system-terrassendielen",
         image: proImage4,
         title: " SMART CAP™ System Terrassendielen",
         text:
@@ -60,70 +60,70 @@ const DATA = [
       //     "Med vår nya Smart Ultra får du en terrass som är 50% lättare........"
       // },
       {
-        link: "/marine-cap-komposittrall",
+        link: "/terrassendielen-marine-cap",
         image: proImage6,
         title: "MARINE CAP™ Terrassendielen",
         text:
           "Mit Green Plank MARINE CAP™ beschichtete Terrassendielen...."
       },
       {
-        link: "/marine-40-komposittrall",
+        link: "/marine-40-terrassendielen",
         image: proImage7,
         title: "MARINE 40™ Terrassendielen",
         text:
           "MARINE40™ Naturfaser-Terrassendielen sind so konstruiert ......"
       },
       {
-        link: "/marine-60-komposittrall",
+        link: "/marine-60-terrassendielen",
         image: proImage8,
         title: "MARINE 60™ Terrassendielen",
         text:
           "Die Green Plank MARINE 60 ™ Komposit Terrassendiele ist keine........"
       },
       {
-        link: "/marine-jumbo-komposittrall",
+        link: "/wpc-terrassendielen-marine-jumbo-schwerlast",
         image: proImage9,
         title: "MARINE JUMBO™ Schwerlast Terrassendielen",
         text:
           "Die Hochleistungs-Naturfaser-Terrassendielen von MARINE JUMBO™........"
       },
         {
-          link: "/marine-art-komposittrall",
+          link: "/terrassendielen-marine-art",
           image: proImage10,
           title: "MARINE ART™ Terrassendielen",
           text:
             "Mit einem rustikalen Look und einer angenehmen Haptik wurde ........"
         },
       {
-        link: "/entra-komposittrall",
+        link: "/entra-dielen",
         image: proImage11,
         title: "ENTRA™ Terrassendielen",
         text:
           "Green Plank ENTRA™ Naturfaser-Terrassendiele ist eine  ............"
       },
       {
-        link: "/classic-teak-komposittrall",
+        link: "/terrassendielen-classic",
         image: proImage12,
         title: "CLASSIC™ Terrassendielen",
         text:
           "Mit Green Plank CLASSIC Komposit können Sie einen  .............."
       },
       {
-        link: "/everdeck-komposittrall",
+        link: "/everdeck-terrassendielen",
         image:proImage13,
         title: "EVERDECK™ Terrassendielen",
         text:
           "Everdeck ist eine der beliebtesten Optionen für ..............."
       },
       {
-        link: "/sapphire-komposittrall",
+        link: "/terrassendielen-sapphire",
         image: proImage14,
         title: "SAPPHIRE™ Terrassendielen",
         text:
           "Unser SAPPHIRE™-Terrassendielen ist eine attraktive  .........."
       },
       {
-        link: "/tillbehor-till-komposittrall",
+        link: "/wpc-terrassendielen-zubehor",
         image: proImage15,
         title: "Terrassendielen-Zubehör",
         text:

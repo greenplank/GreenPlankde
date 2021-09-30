@@ -4,18 +4,18 @@ import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
 import PageHeader from "../components/page-header";
 import { Container, Row, Col } from "react-bootstrap";
+import Head from "next/head";
 
 import Grid from '@material-ui/core/Grid';
 
-import Image11 from "../assets/images/products/innerPages/Komposittrall/smartmarine/BeachGrey_Thumbnail.webp";
-import Head from "next/head";
-import Imagecolor1 from "../assets/images/colors/smart_marine/Beach-Grey.png";
-import Imagecolor2 from "../assets/images/colors/smart_marine/Chocolate.png";
-import Imagecolor3 from "../assets/images/colors/smart_marine/Teak.png";
-import Imagecolor4 from "../assets/images/colors/smart_marine/Charcoal.png";
+import Image11 from "../assets/images/products/innerPages/Komposittrall/smartregular/Charcoal_Thumbnail.webp";
+
+import Imagecolor1 from "../assets/images/colors/smart_regular/Beach-Grey.png";
+import Imagecolor2 from "../assets/images/colors/smart_regular/Chocolate.png";
+import Imagecolor3 from "../assets/images/colors/smart_regular/Charcoal.png";
 
 
-import Imagesurface from "../assets/images/surface/smart_marine/Smart-Marine-8.png";
+import Imagesurface from "../assets/images/surface/smart_regular/Smart-Regular-8.png";
 
 import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
@@ -25,12 +25,12 @@ import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technica
 
 import Footer from "../components/footer";
 
-const smartmarine = () => {
+const smartregular = () => {
   return (
-    <Layout pageTitle="SMART™ Terrassendielen – Smart Marine™">
+    <Layout pageTitle="SMART™ Terrassendielen – Smart Regular™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="SMART™ Terrassendielen – Smart Marine™" crumbTitle="smart-marine" />
+      <PageHeader title="SMART™ Terrassendielen – Smart Regular™" crumbTitle="Smart Regular™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -44,19 +44,19 @@ const smartmarine = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>SMART™ Terrassendielen – Smart Marine™</h2>
-                          <strong>Unglaubliche Auswahl mit unglaublicher Schönheit und maßgeschneidert für ultrahohe Leistung</strong>
+                          <h2>SMART™ Terrassendielen – Smart Regular™</h2>
+                          <strong>Unglaubliche Auswahl mit unglaublicher Schönheit</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Dank des einzigartigen Verriegelungssystems und der spaltfreien Oberfläche ist das SMART™ Decking System ist eine gute Wahl für Familien. Es ist für maximale Haltbarkeit ausgelegt. Es widersteht dem Ausbleichen, Flecken, Schimmel und verrottet, knackt oder verzieht sich nicht. Es ist ebenfalls insektensicher und splitterfrei, was es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</strong>
-                              Mit einem soliden Kern, einer glatten und eleganten Oberfläche sind SMART Marine™ Verbundplatten unglaublich stark, langlebig, langlebig und bieten eine ebenmäßige, natürlich aussehende Landschaft. SMART Marine™-Terrassendielen aus Verbundwerkstoff sind mit bloßen Füßen begehbar.<br />
+                              <strong>Dank des einzigartigen Verriegelungssystems und der spaltfreien Oberfläche ist das SMART™ Terrassen System ist eine gute Wahl für Familien. Es ist für maximale Haltbarkeit ausgelegt. Es widersteht dem Ausbleichen, Flecken, Schimmel und verrottet, knackt oder verzieht sich nicht. Es ist ebenfalls insektensicher und splitterfrei, was es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</strong>
+                              Die breiten und geraden Rillen von SMART Regular™ terrassendielen bilden an der Oberfläche ein gleichmäßiges Muster, das nicht nur ein schönes Aussehen des Bangkirai-Holzes bietet, sondern auch eine effektive Wasserableitung und eine rutschfeste Lauffläche für eine gute Traktion in nassen Bereichen wie etwa um Schwimmbecken. SMART™ Terrassendielen aus Verbundwerkstoff sind barfuß begehbar.<br />
 
-                              Unsere SMART Marine™ Terrassen sind von natürlichen Mineralien und Erdpigmenten inspiriert. Die Farbpalette ist reich und lebendig und wird von Hausbesitzern und Architekten gegenüber anderen Terrassenmaterialien bevorzugt. Jede sorgfältig zusammengestellte Nuance enthält attraktive mehrfarbige Töne und Streifen.<br />
+                              Unsere SMARTRegular™ Terrassendiele ist inspiriert von natürlichen Mineralien und Erdpigmenten. Die Farbpalette ist reich und lebendig und wird von Hausbesitzern und Architekten gegenüber anderen Terrassenmaterialien bevorzugt. Jede sorgfältig zusammengestellte Nuance enthält attraktive mehrfarbige Töne und Streifen, um ein zeitgemäßes Aussehen und eine natürliche Haptik zu bieten.<br />
 
-                              SMART Marine™ Verbundplatten werden ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungs- und Drainagelöcher an den Trägern befestigt.<br />
+                              SMARTRegular™-Verbundplatten werden ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungs- und Drainagelöcher an den Trägern befestigt.<br />
 
-                              Durch die Verwendung von SMART™ Decking System können Sie eine vollständig geschlossene Terrassenfläche schaffen, auf der kein Schmutz herabfallen oder Unkraut wachsen kann.<br />
+                              Durch die Verwendung von SMART™ Terrassen System können Sie eine vollständig geschlossene Terrassenfläche schaffen, auf der kein Schmutz herabfallen oder Unkraut wachsen kann.<br />
                               <div>
                                 <ul>
                                   <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
@@ -92,11 +92,11 @@ const smartmarine = () => {
                                   <tbody>
                                     <tr>
                                       <td align="left"><strong>Oberfläche:</strong></td>
-                                      <td align="left">Satte, holzfarbene Farben, rutschhemmend</td>
+                                      <td align="left">Reichhaltige, vielfarbige Farben, rutschhemmend</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Größe:</strong></td>
-                                      <td align="left">ca. 22 * 138 mm</td>
+                                      <td align="left">ca. 22 * 142 mm</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Länge:</strong></td>
@@ -104,7 +104,7 @@ const smartmarine = () => {
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Bedarf:</strong></td>
-                                      <td align="left">ca. 6.45 meters for 1 m²</td>
+                                      <td align="left">	Ca. 6,90 Meter für 1 m²</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Gewicht:</strong></td>
@@ -112,7 +112,7 @@ const smartmarine = () => {
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Balkenspannung:</strong></td>
-                                      <td align="left">50 cm c / c für Wohnanwendungen *</td>
+                                      <td align="left">	50 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -126,17 +126,17 @@ const smartmarine = () => {
 
 
                               </div>
-                              <div className="row mt-60">
+                              <div className="row section-space--top--60">
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                    <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/pdfs/smart-Marine-German.pdf" className="thm-btn"  >Installationsanleitung</a>
+                                    <a target="_blank" href="/pdfs/smart-regular-german-.pdf" className="thm-btn"  >Installationsanleitung</a>
                                   </Grid>
                                   <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="/pdfs/smart-Marine.pdf" className="thm-btn" >Aluminiuminstallation</a>
+                                    <a target="_blank" href="/pdfs/smart-regular.pdf" className="thm-btn" >Aluminiuminstallation</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -150,34 +150,26 @@ const smartmarine = () => {
                       {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>FARBENTRENDS ANZEIGEN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor1} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Molnigt Grått</h4>
+                              <h4 className="mt-20 text-center"> Beach Grey</h4>
                             </div>
                           </Grid>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor2} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Ipé</h4>
+                              <h4 className="mt-20 text-center">Chocolate</h4>
                             </div>
                           </Grid>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor3} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Amerikansk valnöt</h4>
+                              <h4 className="mt-20 text-center">Charcoal</h4>
                             </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor4} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Strandgrå</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
                           </Grid>
                         </Grid>
                       </div>
@@ -256,7 +248,7 @@ const smartmarine = () => {
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/smart-Marine-German.pdf">
+                            <a target="_blank" href="/pdfs/smart-regular-german-.pdf">
                               <img src={pdfimg2} className="img-fluid" alt="" />
                             </a>
                           </Grid>
@@ -266,12 +258,12 @@ const smartmarine = () => {
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/smart-Marine.pdf">
+                            <a target="_blank" href="/pdfs/smart-regular.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/datenblatt-smartmarine-terrassendiele-wpc-bpc-greenplank.pdf">
+                            <a target="_blank" href="/pdfs/datenblatt-smart-regular-terrassendiele-wpc-bpc-greenplank.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>
@@ -289,6 +281,7 @@ const smartmarine = () => {
                 </div>
                 {/*Projects section end*/}
               </div>
+
             </Col>
           </Row>
         </Container>
@@ -298,4 +291,4 @@ const smartmarine = () => {
   );
 };
 
-export default smartmarine;
+export default smartregular;

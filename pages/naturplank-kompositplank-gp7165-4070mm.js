@@ -110,7 +110,7 @@ const naturplankkompositplankagp7165 = () => {
                               <div className="row mt-60">
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={4} lg={6}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                  <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                 </Grid>
                               </div>

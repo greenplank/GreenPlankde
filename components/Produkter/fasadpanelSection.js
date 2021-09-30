@@ -15,28 +15,28 @@ import proImage4 from "../../assets/images/products/fasadpanel/fasadpaneltillbeh
 
 const DATA = [
       {
-        link: "/novoclad-fasadpanel-gp798",
+        link: "/novoclad-fassadenverkleidung-gp798",
         image: proImage1,
         title: "NOVOCLAD™ Fassadenverkleidung – GP798",
         text:
           "Das NOVOCLAD ™ -Verbundfassadenprofil von Green Plank  ........"
       },
       {
-        link: "/primacap-fasadpanel-gp801",
+        link: "/primacap-fassadenverkleidung-gp801",
         image: proImage2,
         title: "PRIMACAP™ Fassadenverkleidung – GP801",
         text:
           "PRIMA CAP™ Composite Facade Cladding System ist  .............."
       },
       {
-        link: "/primacap-fasadpanel-gp802",
+        link: "/primacap-fassadenverkleidung-gp802",
         image:proImage3,
         title: "PRIMACAP™ Fassadenverkleidung – GP802",
         text:
           "PRIMA CAP™ Composite Facade Cladding System ist  ............."
       },
       {
-        link: "/fasadpanel-tillbehor",
+        link: "/zubehor-fur-fassadenverkleidung",
         image: proImage4,
         title: "Zubehör für Fassadenverkleidungen",
         text:

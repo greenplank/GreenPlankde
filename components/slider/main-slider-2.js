@@ -69,7 +69,7 @@ const MainSliderTwo = () => {
 
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn2 rounded-pill" ><center>Smart Terrassdielen</center></a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-terrassendielen" className="thm-btn thm-btn2 rounded-pill" ><center>Smart Terrassdielen</center></a>
               </Grid>
               <Grid item xs={6} sm={6}>
                 <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn2 rounded-pill" >Terrassen Planer</a>
@@ -87,7 +87,7 @@ const MainSliderTwo = () => {
             </Grid>
             <Grid container spacing={3}>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn thm-btn2 rounded-pill" >Hohlkammer  versus solide</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="hohlkammer-profile-versus-solide-profile" className="thm-btn thm-btn2 rounded-pill" >Hohlkammer  versus solide</a>
               </Grid>
               <Grid item xs={6} sm={6}>
                 <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="monteur-finden" className="thm-btn thm-btn2 rounded-pill" >Monteur finden</a>
@@ -217,7 +217,7 @@ const MainSliderTwo = () => {
 
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn3 rounded-pill" ><center>Smart Terrassdielen</center></a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-terrassendielen" className="thm-btn thm-btn3 rounded-pill" ><center>Smart Terrassdielen</center></a>
               </Grid>
               <Grid item xs={6} sm={6}>
                 <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn3 rounded-pill" >Terrassen Planer</a>
@@ -235,7 +235,7 @@ const MainSliderTwo = () => {
             </Grid>
             <Grid container spacing={3}>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn thm-btn3 rounded-pill" >Hohlkammer  versus solide</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="hohlkammer-profile-versus-solide-profile" className="thm-btn thm-btn3 rounded-pill" >Hohlkammer  versus solide</a>
               </Grid>
               <Grid item xs={6} sm={6}>
                 <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="monteur-finden" className="thm-btn thm-btn3 rounded-pill" >Monteur finden</a>

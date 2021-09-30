@@ -122,7 +122,7 @@ const marineart = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                    <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                   {/* <Grid item xs={6} sm={3} lg={6}>
                                     <a target="_blank" href="/pdfs/smart-Marine-German.pdf" className="thm-btn"  >Installationsanleitung</a>

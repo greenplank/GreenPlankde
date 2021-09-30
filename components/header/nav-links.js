@@ -97,7 +97,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/fasadpanel">
+              <Link href="/fassadenverkleidung">
                 <a>Fassadenverkleidung</a>
                 </Link>
                 <button
@@ -110,22 +110,22 @@ const NavLinks = ({ extraClassName }) => {
             </Link>
             <ul className="dropdown-list">
               <li>
-                <Link href="/novoclad-fasadpanel-gp798">
+                <Link href="/novoclad-fassadenverkleidung-gp798">
                   <a>Novoclad™-GP798</a>
                 </Link>
               </li>
               <li>
-                <Link href="/primacap-fasadpanel-gp801">
+                <Link href="/primacap-fassadenverkleidung-gp801">
                   <a>Primacap™-GP801</a>
                 </Link>
               </li>
               <li>
-                <Link href="/primacap-fasadpanel-gp802">
+                <Link href="/primacap-fassadenverkleidung-gp802">
                   <a>Primacap™-GP802</a>
                 </Link>
               </li>
               <li>
-                <Link href="/fasadpanel-tillbehor">
+                <Link href="/zubehor-fur-fassadenverkleidung">
                   <a>Zubehörteile</a>
                 </Link>
               </li>
@@ -134,7 +134,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/staket-system">
+              <Link href="/zaunsystem">
                 <a>Zaunsystem</a>
                 </Link>
                 <button
@@ -147,31 +147,31 @@ const NavLinks = ({ extraClassName }) => {
             </Link>
             <ul className="dropdown-list">
               <li>
-                <Link href="/komposit-staket-private">
+                <Link href="/novofence-zaunsystem-private">
                   <a>NOVOFENCE™ Private™</a>
                 </Link>
               </li>
               <li>
-                <Link href="/komposit-staket-traditional">
+                <Link href="/novofence-zaunsystem-traditional">
                   <a>NOVOFENCE™ Traditional™</a>
                 </Link>
               </li>
               <li>
-                <Link href="/komposit-staket-modern">
+                <Link href="/novofence-zaunsystem-modern">
                   <a>NOVOFENCE™ Modern™</a>
                 </Link>
               </li>
             </ul>
           </li>
           <li>
-            <Link href="/plankor">
+            <Link href="/bretter">
               <a>Planken</a>
             </Link>
           </li>
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/golvplattor">
+              <Link href="/terrassenfliesen">
                 <a>Terrassenfliesen</a>
                 </Link>
                 <button
@@ -184,12 +184,12 @@ const NavLinks = ({ extraClassName }) => {
             </Link>
             <ul className="dropdown-list">
               <li>
-                <Link href="/instaclik-balkongplattor-gp702t">
+                <Link href="/instaclik-terrassenfliesen-gp702t">
                   <a>INSTACLIK™-GP702T</a>
                 </Link>
               </li>
               <li>
-                <Link href="/evertile-balkongplattor-et703t">
+                <Link href="/evertile-terrassenfliesen-et703t">
                   <a>EVERTILE ™ – ET703T</a>
                 </Link>
               </li>
@@ -198,7 +198,7 @@ const NavLinks = ({ extraClassName }) => {
         </ul>
       </li>
       <li>
-        <Link href="/kontakata-oss">
+        <Link href="/kontaktiere-uns">
           <a>Kontaktiere uns</a>
         </Link>
       </li>

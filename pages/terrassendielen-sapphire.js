@@ -3,21 +3,12 @@ import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
 import PageHeader from "../components/page-header";
-import Grid from '@material-ui/core/Grid';
 import { Container, Row, Col } from "react-bootstrap";
 import Head from "next/head";
+import Grid from '@material-ui/core/Grid';
 
+import Image11 from "../assets/images/products/innerPages/Komposittrall/SAPPHIREKomposittrall.webp";
 
-import Image11 from "../assets/images/products/innerPages/Komposittrall/marine60/AmericanWalnut_thumbnail.webp";
-
-import Imagecolor1 from "../assets/images/colors/marine_60/Beach-Grey.png";
-import Imagecolor2 from "../assets/images/colors/marine_60/Charcoal.png";
-import Imagecolor3 from "../assets/images/colors/marine_60/Chocolate.png";
-import Imagecolor4 from "../assets/images/colors/marine_60/Ipe.png";
-import Imagecolor5 from "../assets/images/colors/marine_60/Walnut.png";
-import Imagecolor6 from "../assets/images/colors/marine_60/Stone-Grey.png";
-
-import Imagesurface from "../assets/images/surface/marine_60/Marine60-8.png";
 
 import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
@@ -27,39 +18,39 @@ import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technica
 
 import Footer from "../components/footer";
 
-const marine60 = () => {
+const sapphirekomposittrall = () => {
   return (
-    <Layout pageTitle="MARINE 60™">
+    <Layout pageTitle="SAPPHIRE™ Terrassendielen">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="MARINE 60™" crumbTitle="MARINE 60™" />
+      <PageHeader title="SAPPHIRE™ Terrassendielen" crumbTitle="SAPPHIRE™ Terrassendielen" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
             <Col md={12} lg={12}>
-              <div className="page-wrapper section-space--inner--120">
+              <div className="page-wrapper pt-40 pb-40">
                 {/*Smart Classic section start*/}
                 <div className="project-section">
                   <div className="container">
                     <div className="row">
 
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
-                      <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
+                      <div className="col-lg-12 col-12 mb-60 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>MARINE 60™ Terrassendielen</h2>
-                          <strong>zeitlose Eleganz für gehobene Ansprüche – PVC-frei!</strong>
+                          <h2>SAPPHIRE™ Terrassendielen</h2>
+                          <strong>Zuhause fühlt man sich wohl und entspannt</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Inspiriert von der Natur und für das Leben im Freien konzipiert, finden Sie MARINE 60 ™ Deck Bodenbelege wunderschön realistisch und sehr praktisch mit zeitloser Qualität.</strong>
-                              <p>Die Green Plank MARINE 60 ™ Komposit Terrassendiele ist keine gewöhnlicher Diele. Das zart, von der Natur inspiriertes Aussehen von Marine60 ™ Verbunddecks mit rutschfester Oberfläche und wunderschönen Farben passt zum skandinavischen ästhetischen Stil. Mit reversiblen gerippten / gerillten gebürsteten Oberflächen, verbesserter Rutschfestigkeit und lang anhaltender Leistung ist unser MARINE 60 ™ die professionelle Wahl für gewerbliche Projekte und Wohngebäude.</p>
-                              <p>Die hoch rutschfeste, feine, gerippte Oberfläche im europäischen Stil bildet ein gleichmäßiges Muster und ermöglicht einen gute Halt in feuchten Bereichen wie Pools. Es ist sicher mit blossen Füssen darauf zu gehen.</p>
-                              <p>Genau wie Echtholzbretter können unsere MARINE 60 ™ Verbunddielen in jede gewünschte Form geschliffen oder gesägt werden, ohne den echten Holzeffekt zu verlieren.</p>
+                              <strong>Inspiriert von den traditionellen Holzterrassen, die sich durch Ästhetik, Langlebigkeit und Funktionalität auszeichnen.</strong>
+                              <p>Unser SAPPHIRE™-Terrassendielen ist eine attraktive Alternative zu Holzdeckmaterialien. Mit solch einer überraschend günstigen Alternative gibt es einfach keinen Grund, sich mit Flecken, Versiegelung, Splittern und ständigem Unterhalt zufrieden zu geben.</p>
+                              <p>Hochrutschhemmende, elegante, gerippte / gerillte, gebürstete Oberflächen ermöglichen eine gute Traktion in nassen Bereichen.</p>
+                              <p>Mit einer skandinavisch anmutenden Ästhetik ist unser Sapphire™ Composite-Terrassendielen seit mehr als 10 Jahren das meistverkaufte Terrassendielenbrett und ist es noch heute.</p>
                               <div>
                                 <ul>
                                   <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
                                   <li><strong>Gleichmäßigkeit</strong> – HidLoc – Verdeckte Deckbefestigungen sorgen für eine glatte und gleichmäßige Oberfläche, auf der Sie sicher gehen können.</li>
-                                  <li><strong>Ergänzendes Zubehör</strong>–Ergänzen Sie Ihre Traum-Terrassendielen mit unseren Abdeckleisten – die perfekte Ergänzung für Ihre Hochleistungsdielen MARINE 60 ™.</li>
+                                  <li><strong>Ergänzendes Zubehör</strong>–Vervollständigen Sie Ihr Traumterrassendesign mit unseren Blenden und Abdeckungen – die perfekte Ergänzung für Ihre leistungsstarke SAPPHIRE™ Terrasse.</li>
                                 </ul>
                               </div>
                             </div>
@@ -69,13 +60,13 @@ const marine60 = () => {
                       {/*====================  End of Smart Classic Section-1 content  ====================*/}
 
                       {/*====================  Star Smart Classic Section-2 content  ====================*/}
-                      <div className="col-lg-12 mb-80">
+                      <div className="col-lg-12 mb-60">
                         <div className="project-gallery-wrapper">
                           <div className="row">
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                  {/* <img src="assets/img/projects/img12.PNG" className="img-fluid" alt="" /> */}
+
                                   <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
@@ -87,12 +78,12 @@ const marine60 = () => {
                                   <tbody>
                                     <tr>
                                       <td align="left"><strong>Oberfläche:</strong></td>
-                                      <td align="left">	Rutschhemmende tiefrippige Rippen mit rückseitiger glatter
-                                        Oberfläche, exotische Holztöne; Wendebretter</td>
+                                      <td align="left">Rutschhemmende geriffelte Oberflächen, authentische und
+                                        natürliche Holzfarben; Wendebretter</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Größe:</strong></td>
-                                      <td align="left">ca. 22 * 150 mm</td>
+                                      <td align="left">ca. 25 * 150 mm</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Länge:</strong></td>
@@ -100,11 +91,11 @@ const marine60 = () => {
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Bedarf:</strong></td>
-                                      <td align="left">Ca. 6,50 Meter für 1 m²</td>
+                                      <td align="left">Ca. 6,5 Meter für 1 m²</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Gewicht:</strong></td>
-                                      <td align="left">ca. 4.00 kg / m</td>
+                                      <td align="left">ca. 2.82 kg / m</td>
                                     </tr>
                                     <tr>
                                       <td align="left"><strong>Balkenspannung:</strong></td>
@@ -114,26 +105,12 @@ const marine60 = () => {
                                 </table>
                               </div>
                               {/* </div> */}
-                              <div className="row mt-40 mb-30">
-
-                                <div className="row" style={{ marginTop: ".5em", marginRight: "8px", marginLeft: "4px" }}>
-                                  <img src={Imagesurface} />
-                                </div>
-
-
-                              </div>
-                              <div className="row mt-60">
+                              <div className="row section-space--top--60">
 
                                 <Grid container spacing={3}>
-                                  <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
+                                  <Grid item xs={6} sm={4} lg={6}>
+                                    <a target="_blank" href="/muster-bestellen" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
-                                  <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/pdfs/marine-60-german-.pdf" className="thm-btn"  >Installationsanleitung</a>
-                                  </Grid>
-                                  {/* <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="/pdfs/smart-Marine.pdf" className="thm-btn" >Aluminiuminstallation</a>
-                                  </Grid> */}
                                 </Grid>
                               </div>
                             </div>
@@ -143,56 +120,6 @@ const marine60 = () => {
                       </div>
                       {/*====================  End of Smart Classic Section-2 content  ====================*/}
 
-                      {/*====================  Star Smart Classic Section-3 content  ====================*/}
-
-                      <div className="col-12 mb-80">
-                        <h3>FARBENTRENDS ANZEIGEN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
-                        <hr />
-                        <Grid container spacing={3}>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor6} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Stone Grey</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor5} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">American Walnut</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor4} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Ipé</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project__image">
-                              <img src={Imagecolor3} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Chocolate</h4>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project">
-                              <div className="single-gallery-project__image">
-                                <img src={Imagecolor2} className="img-fluid" alt="" />
-                                <h4 className="mt-20 text-center">Charcoal</h4>
-                              </div>
-                            </div>
-                          </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <div className="single-gallery-project">
-                              <div className="single-gallery-project__image">
-                                <img src={Imagecolor1} className="img-fluid" alt="" />
-                                <h4 className="mt-20 text-center">Beach Grey</h4>
-                              </div>
-                            </div>
-                          </Grid>
-                        </Grid>
-                      </div>
-
-                      {/*====================  End of Smart Classic Section-3 content  ====================*/}
 
                       {/*====================  Star Smart Classic Section-4 content ====================*/}
                       <div className="col-lg-12 mb-80">
@@ -241,7 +168,7 @@ const marine60 = () => {
                         <hr />
                         <p className="mb-40">Das Green Plank MARINE CAP™-Zubehör für Terrassendielen erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihr MARINE CAP™-Terrassendielen integrieren, die sowohl seine Schönheit als auch seine Funktionalität verbessern. Von F-Borten und L-Borten bis hin zu Riser-Brettern, belüfteten Aluminium-Borten, Decksockeln, Unterzügen usw. finden Sie hier alle Deckteile, die Sie benötigen, um Ihr MARINE CAP™-Deckprojekt abzuschließen.</p>
 
-                        <Grid container spacing={3}>
+                        {/* <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
                             <iframe width="360" height="315" src="https://www.youtube.com/embed/sYQVb4_tHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
@@ -250,7 +177,7 @@ const marine60 = () => {
                           </Grid>
                           <Grid item xs={12} sm={4}>
                           </Grid>
-                        </Grid>
+                        </Grid> */}
                       </div>
                       {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
@@ -266,23 +193,23 @@ const marine60 = () => {
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/marine-60-german-.pdf">
+                          {/* <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/smart-regular-german-.pdf">
                               <img src={pdfimg2} className="img-fluid" alt="" />
                             </a>
-                          </Grid>
+                          </Grid> */}
                           <Grid item xs={6} sm={2}>
                             <a target="_blank" href="/pdfs/greenplank-wpc-nfc-terrassendielen-Installationsanleitung.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/marine-60-german-with-aluminum-1.pdf">
+                          {/* <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/marine-capped-german-with-aluminum.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
-                          </Grid>
+                          </Grid> */}
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="/pdfs/datenblatt-marine60-terrassendiele-wpc-bpc-greenplank.pdf">
+                            <a target="_blank" href="/pdfs/datenblatt-sapphire-terrassendiele-wpc-bpc-greenplank.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>
@@ -292,7 +219,7 @@ const marine60 = () => {
 
                         </Grid>
                       </div>
-                      {/*====================  End of Smart Classic Section-6 content  ====================*/}
+                      {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
 
 
                     </div>
@@ -309,4 +236,4 @@ const marine60 = () => {
   );
 };
 
-export default marine60;
+export default sapphirekomposittrall;

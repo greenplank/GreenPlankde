@@ -12,21 +12,21 @@ import proImage3 from "../../assets/images/products/staket_system/novofencemoder
 const DATA = [
     
       {
-        link: "/komposit-staket-private",
+        link: "/novofence-zaunsystem-private",
         image: proImage1,
         title: "NOVOFENCE™ Private™",
         text:
           "Wenn Sie auf der Suche nach einem leistungsstarken....."
       },
       {
-        link: "/komposit-staket-traditional",
+        link: "/novofence-zaunsystem-traditional",
         image: proImage2,
         title: "NOVOFENCE™ Traditional™",
         text:
           "Traditional™ – ein idealer guter Nachbarzaun hat...."
       },
       {
-        link: "/komposit-staket-modern",
+        link: "/novofence-zaunsystem-modern",
         image: proImage3,
         title: "NOVOFENCE™ Modern™",
         text:

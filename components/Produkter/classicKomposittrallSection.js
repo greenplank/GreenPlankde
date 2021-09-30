@@ -13,7 +13,7 @@ import proImage12 from "../../assets/images/products/komposittrall/classic.webp"
 const DATA = [
     
       {
-        link: "/classic-teak-komposittrall",
+        link: "/terrassendielen-classic",
         image: proImage12,
         title: "CLASSIC™ Terrassendielen",
         text:

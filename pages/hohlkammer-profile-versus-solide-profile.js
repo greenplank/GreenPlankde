@@ -10,9 +10,9 @@ import Head from "next/head";
 
 const IhaligMassiv = () => {
   return (
-    <Layout pageTitle="Ihalig-vs-Massiv">
+    <Layout pageTitle="Hohlkammer Profile versus solide Profile">
       <HeaderTwo/>
-      <PageHeader title="Ihalig-vs-Massiv" crumbTitle="ihalig-vs-massiv" />
+      <PageHeader title="Hohlkammer Profile versus solide Profile" crumbTitle="Hohlkammer versus solide Profile" />
       <StickyHeader />
       <IhaligMassivSection />
       <BrandCarousel />

@@ -31,7 +31,7 @@ const VideoCard = () => {
         </h4>
         <h5 style={{color:"white",marginTop:"1em"}}>Als Dachmarke umfasst Green Plank ein breites Markenportfolio in den vier Kategorien Terrassen, Fassadenverkleidung, Dielen und Zaunsysteme, einschließlich Produktmarken wie AVON Flooring. Green Plank ist die ideale Wahl für anspruchsvolle Anwendungen wie Hotelterrassen sowie andere öffentliche Bereiche wie Parks, Erfrischungsbars im Freien, Veranden und Clubhausdecks. Green Plank Composite-Terrassen sind langlebig, barfußfreundlich und Jahr für Jahr in ausgezeichnetem Zustand zu halten.</h5>
         <div className="video-card__btn-block">
-          <Link href="/bestall-prov">
+          <Link href="/muster-bestellen">
             <a className="thm-btn dynamic-radius">Muster Bestellen</a>
           </Link>
         </div>
