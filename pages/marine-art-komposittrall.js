@@ -25,10 +25,10 @@ import Footer from "../components/footer";
 
 const marineart = () => {
   return (
-    <Layout pageTitle="marine-art-komposittrall">
+    <Layout pageTitle="MARINE ART™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="marine-art-komposittrall" crumbTitle="marine-art-komposittrall" />
+      <PageHeader title="MARINE ART™" crumbTitle="MARINE ART™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -42,20 +42,20 @@ const marineart = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>MARINE ART™ Komposittrall</h2>
-                          <strong>Konstgjort med en hållbar, naturlig, tidlös estetik – PVC-fri!</strong>
+                          <h2>MARINE ART™ Composite Premium WPC/NFC-Terrassendiele</h2>
+                          <strong>kunstvoll gestaltet mit einer langlebigen, natürlichen, zeitlosen Ästhetik – PVC-frei!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>MARINE ART™ komposittrall av naturfiber erbjuder 3D-utseende och känsla av autentisk, rustik lövträstruktur och visar en mängd ljus och skuggor.</strong>
-                              <p>Med en rustik look och en behaglig känsla, MARINE ART™ komposittrall är konstgjord för att ge din trädgård en modernare look. Precis som äkta träplankor, vår MARINE ART™ komposittrall kan slipas eller sågas till vilken önskad form som helst utan att förlora ytträbrädans äkta träeffekt.</p>
-                              <p>Djup träprägling för förbättrade halkmotståndiga ytor möjliggör bra dragkraft i våta områden som runt pooler, de är säkra och bekväma att gå på barfota.</p>
-                              <p>Precis som äkta träplankor kan vårt MARINE ART™ -kompositbrädor slipas eller sågas till vilken önskad form som helst utan att tappa täckbrädans äkta träeffekt.</p>
+                              <strong>MARINE ART™ Naturfaser Terrassendielen bieten eine authentische, rustikale Hartholzstruktur in 3D-Optik und zeigen eine Vielzahl von Lichtern und Schatten.</strong>
+                              <p>Mit einem rustikalen Look und einer angenehmen Haptik wurde der MARINE ART™ -Verbundboden kunstvoll konstruiert, um Ihrem Garten ein modernes Aussehen zu verleihen. Genau wie echte Hartholz-Terrassendielen kann unsere MARINE ART™ -Composite-Terrassendiele in jede gewünschte Form geschliffen oder gesägt werden, ohne dass das Echtholz-Erscheinungsbild der Terrassendiele verloren geht.</p>
+                              <p>Die hochrutschfeste, tiefgeprägte, vielfarbige Holzmaserung oder die glatt gebüschten Oberflächen sorgen für eine gute Traktion in nassen Bereichen, z. B. um Schwimmbecken herum.</p>
+                              <p>Wie Echtholzbretter kann auch unser MARINE ART™-Terrassendielen-Verbundbrett in jede gewünschte Form geschliffen oder gesägt werden, ohne dass das Echtholz-Effekt-Erscheinungsbild des Terrassendielen verloren geht.</p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Enhetlighet  </strong>– HidLoc™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.</li>
-                                  <li><strong>Komplimerande tillbehör</strong> Komplettera dina drömuteplatser med våra täckbrädor – den perfekta matchen för ditt högpresterande MARINE ART™- Komposittrall.</li>
+                                  <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                  <li><strong>Gleichmäßigkeit</strong> – HidLoc – Verdeckte Deckbefestigungen sorgen für eine glatte und gleichmäßige Oberfläche, auf der Sie sicher gehen können.</li>
+                                  <li><strong>Ergänzendes Zubehör</strong>– Vervollständigen Sie Ihre Traumterrassendesigns mit unseren Blenden und Abdeckungen – die perfekte Ergänzung zu Ihrem leistungsstarken MARINE ART™ -Terrassendielen.</li>
                                 </ul>
                               </div>
                             </div>
@@ -82,28 +82,29 @@ const marineart = () => {
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">	Halkmotståndig, En trätexturerad sida och en slät.</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left">Rutschhemmende, gerillte und gerippte Looks ahmen
+                                        exotische tropische Harthölzer nach. Wendebretter</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Größe:</strong></td>
                                       <td align="left">ca. 18 * 130 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 3.8 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">ca. 7.52 meter för 1 m²</td>
+                                      <td align="left"><strong>Bedarf:</strong></td>
+                                      <td align="left">ca. 7,52 meters for 1 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 3.60 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">40 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Balkenspannung:</strong></td>
+                                      <td align="left">40 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -121,14 +122,14 @@ const marineart = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
-                                  {/* <Grid item xs={6} sm={3}>
-                                                        <a target="_blank" href={`${process.env.PUBLIC_URL}/assets/pdfs/smart-classic-deck-swedish.pdf`} className="thm-btn"  >installationsguide</a>
-                                                        </Grid> */}
-                                  <Grid item xs={8} sm={6} lg={6}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-art-swedish-with-aluminum.pdf" className="thm-btn" >installation av aluminium</a>
+                                  {/* <Grid item xs={6} sm={3} lg={6}>
+                                    <a target="_blank" href="/pdfs/smart-Marine-German.pdf" className="thm-btn"  >Installationsanleitung</a>
                                   </Grid>
+                                  <Grid item xs={8} sm={6} lg={8}>
+                                    <a target="_blank" href="/pdfs/smart-Marine.pdf" className="thm-btn" >Aluminiuminstallation</a>
+                                  </Grid> */}
                                 </Grid>
                               </div>
                             </div>
@@ -141,7 +142,7 @@ const marineart = () => {
                       {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>FARBENTRENDS ANZEIGEN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -168,31 +169,32 @@ const marineart = () => {
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
                                 <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h3>Farbauswahl</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Natürliche Schönheit</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                <h3>Erhalten Sie die Schönheit</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Installerad med HidLoc™ dolda fästelement för att skapa enhetlig yta, vilket gör det säkrare och mer bekvämt för familjer med barn och husdjur.</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.</li>
-                                  <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Hög glidmotstånd ger en säker yta, även i våta förhållanden</li>
-                                  <li><strong>7. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Lämplig för privat sektor</li>
+                                  <li><strong>1. </strong>Mit HidLoc™ verdeckte Befestigungselemente installiert für eine gleichmäßige Oberfläche, die es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</li>
+                                  <li><strong>2. </strong>Die mehrfarbigen Streifen auf jedem Brett erzeugen ein authentisches Masernmuster und laden Sie ein, sich zu entspannen und Ihr persönliches tropisches Paradies zu genießen.</li>
+                                  <li><strong>3. </strong>Markantes Inlay-Design, Stil und Farboptionen</li>
+                                  <li><strong>4. </strong>Kein jährliches Streichen, Versiegelung oder Lackierung erforderlich</li>
+                                  <li><strong>5. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen</li>
+                                  <li><strong>6. </strong>Hohe Rutschfestigkeit sorgt für eine sichere Oberfläche, auch bei Nässe</li>
+                                  <li><strong>7. </strong>Extrem geringe Wasseraufnahme</li>
+                                  <li><strong>8. </strong>Frei von giftigen Zusätzen</li>
+                                  <li><strong>9. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
+                                  <li><strong>10. </strong>Splittert, spaltet, verfault oder kriegt nicht</li>
                                 </ul>
                               </div>
                             </div>
@@ -203,16 +205,16 @@ const marineart = () => {
 
                       {/*====================  Star Smart Classic Section-5 content ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>TILLBEHÖR</h3>
+                        <h3>Terrassendielen-Zubehör</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Das Green Plank MARINE CAP™-Zubehör für Terrassendielen erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihr MARINE CAP™-Terrassendielen integrieren, die sowohl seine Schönheit als auch seine Funktionalität verbessern. Von F-Borten und L-Borten bis hin zu Riser-Brettern, belüfteten Aluminium-Borten, Decksockeln, Unterzügen usw. finden Sie hier alle Deckteile, die Sie benötigen, um Ihr MARINE CAP™-Deckprojekt abzuschließen.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/SO9_1Pm42Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/sYQVb4_tHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/oSyrH7w1qA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
                           </Grid>
@@ -228,21 +230,30 @@ const marineart = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Marine-Decking-System-Installation-Guide-2019.pdf">
+                          {/* <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/smart-regular-german-.pdf">
+                              <img src={pdfimg2} className="img-fluid" alt="" />
+                            </a>
+                          </Grid> */}
+                           <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/greenplank-wpc-nfc-terrassendielen-Installationsanleitung.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/marine-art-swedish-with-aluminum.pdf">
+                            <a target="_blank" href="/pdfs/marine-art-german-with-aluminum.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-  
+                          <Grid item xs={6} sm={2}>
+                            <a target="_blank" href="/pdfs/datenblatt-marine-art-terrassendiele-wpc-bpc-greenplank-1.pdf">
+                              <img src={pdfimg5} className="img-fluid" alt="" />
+                            </a>
+                          </Grid>
                           <Grid item xs={6} sm={2}>
 
                           </Grid>

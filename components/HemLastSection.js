@@ -6,7 +6,7 @@ import heart from "../assets/images/shapes/192-by-192.png";
 
 const HemLastSection = () => {
     return (
-        <section className=" text-center pt-120 pb-120">
+        <section className=" text-center pt-10 pb-20">
 
 
             <Container>

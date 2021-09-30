@@ -12,13 +12,13 @@ const BastUtomhusbruk = () => {
   return (
     <>
       <Head>
-        <title>Bäst för utomhusbruk</title>
+        <title>Am besten für den Außenbereich geeignet</title>
         <meta name="title" content="Bäst för utomhusbruk - GreenPlank.se" />
         <meta name="description" content="Green Plank kompositplank GP7117 är idealiska för olika utomhusapplikationer som ledstänger, uteplats, däck, trädgårdsmöbler, parkbänkar och bord, soptunnor" />
       </Head>
-      <Layout pageTitle="Bast-for-utomhusbruk">
+      <Layout pageTitle="Am besten für den Außenbereich geeignet">
         <HeaderTwo />
-        <PageHeader title="Bast-for-utomhusbruk" crumbTitle="bast-for-utomhusbruk" />
+        <PageHeader title="Am besten für den Außenbereich geeignet" crumbTitle="Am besten für den Außenbereich" />
         <StickyHeader />
         <Bastforutomhusbruk />
         <BrandCarousel />

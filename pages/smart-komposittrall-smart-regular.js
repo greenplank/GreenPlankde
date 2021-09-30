@@ -27,10 +27,10 @@ import Footer from "../components/footer";
 
 const smartregular = () => {
   return (
-    <Layout pageTitle="smart-komposittrall-smart-regular">
+    <Layout pageTitle="SMART™ Terrassendielen – Smart Regular™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="smart-komposittrall-smart-regular" crumbTitle="smart-komposittrall-smart-regular" />
+      <PageHeader title="SMART™ Terrassendielen – Smart Regular™" crumbTitle="Smart Regular™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -44,23 +44,27 @@ const smartregular = () => {
                       {/*====================  Star Smart Classic Section-1 content ====================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>SMART™ Komposittrall – Smart Regular™</h2>
-                          <strong>Otroligt val med otrolig skönhet</strong>
+                          <h2>SMART™ Terrassendielen – Smart Regular™</h2>
+                          <strong>Unglaubliche Auswahl mit unglaublicher Schönheit</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>SMART ™ Komposit trall är ett utmärkt val för familjer på grund av det unika Not och Spont systemet och den gap fria ytan. Det är designat för maximal hållbarhet. Den motstår blekning, färgning, mögel och kommer inte att ruttna, spricka eller varpa. Den är också insekt säker och splintfri, vilket gör det säkrare och bekvämare för familjer med barn och husdjur.</strong>
-                              Vårt SMART Regular ™- trall är inspirerad av naturliga mineraler och jord pigment, med ett estetiskt tilltalande av kontinuerliga och texturerade spår, färg paletten är rik och livlig – och föredras av husägare och arkitekter framför andra däck material. Varje noggrant formulerade nyans innehåller attraktiva multi kromatiska toner och strimmiga. SMART Regular ™ komposit trall skivor är säkra att gå på med bara fötter.
-                              SMART Regular – komposit brädor installeras utan några klämmor och fästs på bjälkarna med skruvar genom de för konstruerade långa fixerings- och dränerings hålen.
-                              Genom att använda SMART ™ trall System kan du skapa en helt stängd terrass yta som inte tillåter smuts att falla ner eller ogräs att växa upp.
+                              <strong>Dank des einzigartigen Verriegelungssystems und der spaltfreien Oberfläche ist das SMART™ Terrassen System ist eine gute Wahl für Familien. Es ist für maximale Haltbarkeit ausgelegt. Es widersteht dem Ausbleichen, Flecken, Schimmel und verrottet, knackt oder verzieht sich nicht. Es ist ebenfalls insektensicher und splitterfrei, was es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</strong>
+                              Die breiten und geraden Rillen von SMART Regular™ terrassendielen bilden an der Oberfläche ein gleichmäßiges Muster, das nicht nur ein schönes Aussehen des Bangkirai-Holzes bietet, sondern auch eine effektive Wasserableitung und eine rutschfeste Lauffläche für eine gute Traktion in nassen Bereichen wie etwa um Schwimmbecken. SMART™ Terrassendielen aus Verbundwerkstoff sind barfuß begehbar.<br />
+
+                              Unsere SMARTRegular™ Terrassendiele ist inspiriert von natürlichen Mineralien und Erdpigmenten. Die Farbpalette ist reich und lebendig und wird von Hausbesitzern und Architekten gegenüber anderen Terrassenmaterialien bevorzugt. Jede sorgfältig zusammengestellte Nuance enthält attraktive mehrfarbige Töne und Streifen, um ein zeitgemäßes Aussehen und eine natürliche Haptik zu bieten.<br />
+
+                              SMARTRegular™-Verbundplatten werden ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungs- und Drainagelöcher an den Trägern befestigt.<br />
+
+                              Durch die Verwendung von SMART™ Terrassen System können Sie eine vollständig geschlossene Terrassenfläche schaffen, auf der kein Schmutz herabfallen oder Unkraut wachsen kann.<br />
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Inga klips Clips</strong> – Du behöver inga klips ( clips )för att montera vår Smart™ Komposit med Not och Spont.</li>
-                                  <li><strong>Enhetlighet </strong>– Vår komposit Not och Spont trall ger mycket enhetliga och släta ytor.</li>
-                                  <li><strong>Enkel installation</strong> – Det är också enkelt att installera vår Komposit Not och Spont trall, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
-                                  <li><strong>Förfabrikerade hål </strong> ( för fabrikerade hål )– Våra Not och Spont trall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra skivorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri ( skruv fri ) finish.</li>
-                                  <li><strong>Komplimerande</strong> ( kompletterande ) tillbehör – Komplettera dina dröm uteplatser med våra ventilerade klädsel och skydd – den perfekta matchen för din högpresterande SMART ™- komposit trall.</li>
+                                  <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                  <li><strong>Keine Clips</strong> – Sie benötigen keine Deckbefestigungsklammern, um unsere wpc terrassendielen mit Nut und Feder zu befestigen.</li>
+                                  <li><strong>Gleichmäßigkeit </strong>– Unser wpc terrassendielen mit Nut und Feder Verbindung sorgt für sehr gleichmäßige und glatte Oberflächen.</li>
+                                  <li><strong>Erleichterte Installation</strong> – Die Installation unserer Verbundplatten mit Nut und Feder ist ebenfalls einfach. Die Platte lässt sich leicht einrasten, ohne dass der Abstand zwischen den Platten beeinträchtigt wird.</li>
+                                  <li><strong>Vorgefertigte Löcher </strong> Unsere Nut- und Federböden werden mit vorgefertigten Löchern geliefert, sodass Sie die Bretter einfach und problemlos an ihrem Platz befestigen können, ohne dass das Risiko einer Verlagerung oder Bewegung besteht.</li>
+                                  <li><strong>Ergänzendes Zubehör </strong> Vervollständigen Sie Ihr Traumterrassendesign mit unseren belüfteten Zierleisten und Abdeckungen – die perfekte Ergänzung für Ihren leistungsstarken SMART Decking.</li>
                                 </ul>
                               </div>
                             </div>
@@ -87,28 +91,28 @@ const smartregular = () => {
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left">Rika, mångfärgade färger, halksäker</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left">Reichhaltige, vielfarbige Farben, rutschhemmend</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Größe:</strong></td>
                                       <td align="left">ca. 22 * 142 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 2.8 m | 3.8 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">ca. 6.45 meters for 1 m²</td>
+                                      <td align="left"><strong>Bedarf:</strong></td>
+                                      <td align="left">	Ca. 6,90 Meter für 1 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 3.45 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">50 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Balkenspannung:</strong></td>
+                                      <td align="left">	50 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -126,13 +130,13 @@ const smartregular = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={4}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-regular-Swedish%20(1).pdf" className="thm-btn"  >installationsguide</a>
+                                    <a target="_blank" href="/pdfs/smart-regular-german-.pdf" className="thm-btn"  >Installationsanleitung</a>
                                   </Grid>
                                   <Grid item xs={8} sm={6} lg={8}>
-                                    <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-regular-Swedish.pdf" className="thm-btn" >installation av aluminium</a>
+                                    <a target="_blank" href="/pdfs/smart-regular.pdf" className="thm-btn" >Aluminiuminstallation</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -146,25 +150,25 @@ const smartregular = () => {
                       {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>FARBENTRENDS ANZEIGEN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor1} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Strandgrå</h4>
+                              <h4 className="mt-20 text-center"> Beach Grey</h4>
                             </div>
                           </Grid>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor2} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Choklad</h4>
+                              <h4 className="mt-20 text-center">Chocolate</h4>
                             </div>
                           </Grid>
                           <Grid item xs={6} sm={2}>
                             <div className="single-gallery-project__image">
                               <img src={Imagecolor3} className="img-fluid" alt="" />
-                              <h4 className="mt-20 text-center">Träkol</h4>
+                              <h4 className="mt-20 text-center">Charcoal</h4>
                             </div>
                           </Grid>
                         </Grid>
@@ -179,32 +183,31 @@ const smartregular = () => {
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
                                 <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h3>Farbauswahl</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Natürliche Schönheit</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                <h3>Erhalten Sie die Schönheit</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Var smart – Köp SMART™</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Sei smart – Kauf SMART</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Tätt, enhetlig yta, vilket gör den säkrare och bekvämare för familjer med barn och husdjur.</li>
-                                  <li><strong>2. </strong>Flerfärgade strimmor i varje bräda skapar ett äkta korn mönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.</li>
-                                  <li><strong>3. </strong>Utmärkande inslag av design, stil och färg alternativ</li>
-                                  <li>4.Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>4. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>5. </strong>Hög glid motstånd ger en säker yta, även i våta förhållanden</li>
-                                  <li><strong>6. </strong>Inga fixerings klipp krävs</li>
-                                  <li><strong>7. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>8. </strong>Lämplig för offentlig och privat sektor</li>
-                                  <li><strong>9. </strong>Upp till 60% snabbare installation</li>
+                                  <li><strong>1. </strong>Lückenlose, gleichmäßige Oberfläche, die es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</li>
+                                  <li><strong>2. </strong>Die mehrfarbigen Streifen auf jedem Brett erzeugen ein authentisches Masernmuster und laden Sie ein, sich zu entspannen und Ihr persönliches tropisches Paradies zu genießen.</li>
+                                  <li><strong>3. </strong>Markantes Inlay-Design, Stil und Farboptionen</li>
+                                  <li><strong>4. </strong>Kein jährliches Streichen, Versiegelung oder Lackierung erforderlich</li>
+                                  <li><strong>5. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen</li>
+                                  <li><strong>6. </strong>Hohe Rutschfestigkeit sorgt für eine sichere Oberfläche, auch bei Nässe</li>
+                                  <li><strong>7. </strong>Keine Befestigungsklammern erforderlich</li>
+                                  <li><strong>8. </strong>Frei von giftigen Zusätzen</li>
+                                  <li><strong>9. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
                                 </ul>
                               </div>
                             </div>
@@ -215,19 +218,19 @@ const smartregular = () => {
 
                       {/*====================  Star Smart Classic Section-5 content ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>TILLBEHÖR</h3>
+                        <h3>WPC Terrassendielen-Zubehör</h3>
                         <hr />
-                        <p className="mb-40">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                        <p className="mb-40">Green Plank SMART Terrassenzubehör erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Funktionen in Ihren SMART Deck integrieren, wodurch sich sowohl seine Schönheit als auch Funktionalität verbessert. Von F-Blenden und L-Blenden bis hin zu Riser-Brettern, belüfteten Aluminiumblenden, Decksockeln, Balken usw. finden Sie hier alle Deckteile aufgeführt, die Sie zur Vervollständigung Ihres SMART Decks benötigen.</p>
 
                         <Grid container spacing={3}>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/hqPj65OSR0E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/2CtOcT9Bf9g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
                           <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                            <iframe width="360" height="315" src="https://www.youtube.com/embed/oSyrH7w1qA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                           </Grid>
-                          <Grid item xs={12} sm={4}>
-                          </Grid>
+                          {/* <Grid item xs={12} sm={4}>
+                          </Grid> */}
                         </Grid>
                       </div>
                       {/*====================  End of Star Smart Classic Section-5 content  ===============*/}
@@ -240,27 +243,27 @@ const smartregular = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-regular-Swedish%20(1).pdf">
+                            <a target="_blank" href="/pdfs/smart-regular-german-.pdf">
                               <img src={pdfimg2} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Smart-Installation-SV-1.pdf">
+                            <a target="_blank" href="pdfs/green-plank-montageanleitung-fur-smart-terrassendielen-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/smart-regular-Swedish.pdf">
+                            <a target="_blank" href="/pdfs/smart-regular.pdf">
                               <img src={pdfimg4} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Datablad-Smart-Decking.pdf">
+                            <a target="_blank" href="/pdfs/datenblatt-smart-regular-terrassendiele-wpc-bpc-greenplank.pdf">
                               <img src={pdfimg5} className="img-fluid" alt="" />
                             </a>
                           </Grid>

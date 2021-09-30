@@ -10,7 +10,7 @@ import Batgolv from "../assets/images/backgrounds/Batgolv.webp";
 
 const HemRelatedProducts = () => {
     return (
-        <section className="about-two pt-120 pb-120 faq-one">
+        <section className="about-two pt-50 pb-110 faq-one">
 
             <Container>
                 <Row>

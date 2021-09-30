@@ -29,13 +29,13 @@ const fasadpanelgp798 = () => {
         <>
             <Head>
                 <title>Fasadpanel</title>
-                <meta name="title" content="NOVOCLAD™ Fasadpanel – GP798 - GreenPlank.se" />
+                <meta name="title" content="NOVOCLAD ™ Fassadenverkleidungsprofil – GP798 - GreenPlank.de" />
                 <meta name="description" content="Underhållsfri komposit fasadpanel GP798. Fasadbeklädnad av naturligt kompositmaterial." />
             </Head>
-            <Layout pageTitle="novoclad-fasadpanel-gp798">
+            <Layout pageTitle="NOVOCLAD ™ Fassadenverkleidungsprofil – GP798">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="novoclad-fasadpanel-gp798" crumbTitle="novoclad-fasadpanel-gp798" />
+                <PageHeader title="NOVOCLAD ™ Fassadenverkleidungsprofil – GP798" crumbTitle="NOVOCLAD ™-gp798" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>
@@ -49,26 +49,26 @@ const fasadpanelgp798 = () => {
                                                 {/*====================  Star Smart Classic Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>NOVOCLAD™ Fasadpanel – GP798</h2>
-                                                        <strong>innovativt fasadbeklädnadssystem för ditt hem – PVC-fri!</strong>
+                                                        <h2>NOVOCLAD ™ Fassadenverkleidungsprofil – GP798</h2>
+                                                        <strong>innovatives Fassadenverkleidungssystem für Ihr Zuhause – PVC-frei!</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Traditionell och tidlös. Elegant och stark. NOVOCLAD ™ komposit Fasadpanel är inte bara en av Green Planks mest sålda fasadpanel profilen under de senaste åtta åren. Det är en hållbar, kostnadseffektiv och estetiskt tilltalande beklädnadsprofil som är speciellt utformad för att användas som ett integrerat system för att skydda ditt hems exteriör.</strong>
+                                                                <strong>Traditionell und zeitlos. Schlank und stark. Green Plank NOVOCLAD ™ Fassadenverkleidung aus Verbundwerkstoff ist nicht nur eines der meistverkauften Fassadenverkleidungsprofile von Green Plank seit 8 Jahren. Es ist ein langlebiges, kostengünstiges und ästhetisch ansprechendes Verkleidungsprofil, das speziell für die Verwendung als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde.</strong>
                                                                 <p>
-                                                                    NOVOCLAD? kompositfasad profil är konstnärligt konstruerad för att se ut som äkta trä utan oljning, målning eller tätning. Det vackra traditionella utseendet på trä och lång livslängd gör NOVOCLAD? komposit fasadpanel profil valet för nya eller utbytbara fasadbeklädnadsprojekt.
+                                                                    Das NOVOCLAD ™ -Verbundfassadenprofil von Green Plank wurde kunstvoll so konstruiert, dass es wie echtes Holz aussieht, ohne dass Öl, Anstrich oder Abdichten erforderlich sind. Das schöne traditionelle Aussehen von Holz und die lange Lebensdauer machen NOVOCLAD ™ Fassadenverkleidungsprofile aus Verbundwerkstoff zur Wahl für neue oder Ersatzfassadenverkleidungsprojekte.
                                                                 </p>
                                                                 <p>
-                                                                    NOVOCLAD – GP798 kompositfasad profiler installeras normalt antingen i horisontell eller vertikal riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
+                                                                    NOVOCLAD ™ GP798-Verbundfassadenprofile werden normalerweise in horizontaler oder vertikaler Richtung ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungslöcher an den Trägern befestigt.
                                                                 </p>
                                                                 <div>
                                                                     <ul>
-                                                                        <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                                                        <li><strong>Långvarig</strong> –  NOVOCLAD™ Den komposit fasadprofilen är långvarig och tål väder, slitage, UV-solljus och insekter.</li>
-                                                                        <li><strong>Inga klips </strong>– Du behöver inga klips för att montera vår PrimaCap™ Komposit med Not och Spont.</li>
-                                                                        <li><strong>Enkel installation</strong>– Installation av vår kompositfasad är också enkel, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
-                                                                        <li><strong>Förfabrikerade hål </strong>– Våra Not och Spont Komposittrall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra plankorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri finish</li>
-                                                                        <li><strong>Komplimerande tillbehör</strong>– En serie av lister i matchande färger i NOVOCLAD™ -profilerna gör att din fasad är lätt att avsluta. Profilerna kan installeras snabbt och säkerställa en fin kantfinish.</li>
+                                                                        <li><strong>Premium-Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                                                        <li><strong>Langlebig </strong> –  Das NOVOCLAD ™ -Fassaden-Verbundprofil ist langlebig und widersteht Witterungseinflüssen, Abnutzung, Sonnenlicht, UV-Strahlen und Insekten.</li>
+                                                                        <li><strong>Keine Clips</strong>– Sie benötigen keine Befestigungsclips, um unsere Verbundfassadenplatte mit Nut und Feder zu montieren. </li>
+                                                                        <li><strong>Einfache Installation</strong>– Die Installation unserer Verbundfassade ist ebenfalls einfach. Die Platte lässt sich leicht einrasten</li>
+                                                                        <li><strong>Vorgefertigte Löcher </strong>– Unsere Fassade aus Nut- und Federverbundwerkstoff wird mit vorgefertigten Löchern geliefert, sodass Sie die Bretter einfach und problemlos an ihrem Platz befestigen können, ohne dass das Risiko einer Verschiebung oder Bewegung besteht.</li>
+                                                                        <li><strong>Ergänzendes Zubehör</strong>– Eine Reihe farblich abgestimmter Zierprofile der NOVOCLAD ™ -Profile erleichtert die Veredelung Ihrer Fassade. Die Profile lassen sich schnell montieren und sorgen für ein sauberes Kantenfinish.</li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -95,28 +95,28 @@ const fasadpanelgp798 = () => {
                                                                     <table width="100%">
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td align="left"><strong>Yta:</strong></td>
-                                                                                <td align="left"> Jämn yta med trätonade färger</td>
+                                                                                <td align="left"><strong>Oberfläche:</strong></td>
+                                                                                <td align="left"> Glatte Oberfläche mit holzfarbenen Farben</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Storlek:</strong></td>
+                                                                                <td align="left"><strong>Abmessungen:</strong></td>
                                                                                 <td align="left">ca. 21 * 125 mm</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Längd:</strong></td>
+                                                                                <td align="left"><strong>Länge:</strong></td>
                                                                                 <td align="left">ca. 3.71 m</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Åtgång:</strong></td>
+                                                                                <td align="left"><strong>Bedarf:</strong></td>
                                                                                 <td align="left">ca. 8.00 meter för 1 m²</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Vikt:</strong></td>
+                                                                                <td align="left"><strong>Gewicht:</strong></td>
                                                                                 <td align="left">ca. 2.26 kg / m</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Regelavstånd:</strong></td>
-                                                                                <td align="left">60 cm c/c för bostadsapplikationer</td>
+                                                                                <td align="left"><strong>Stützweite:</strong></td>
+                                                                                <td align="left">60 cm c/c for Wohneinrichtungen*</td>
                                                                             </tr>
                                                                         </tbody>
                                                                     </table>
@@ -134,7 +134,7 @@ const fasadpanelgp798 = () => {
 
                                                                     <Grid container spacing={3}>
                                                                         <Grid item xs={6} sm={4} lg={6}>
-                                                                        <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                                                            <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                                                         </Grid>
 
                                                                     </Grid>
@@ -149,7 +149,7 @@ const fasadpanelgp798 = () => {
                                                 {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                                                 <div className="col-12 mb-80">
-                                                    <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                                                    <h3>SEHEN SIE DIE FARBTRENDS AN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                                                     <hr />
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={6} sm={2}>
@@ -183,34 +183,32 @@ const fasadpanelgp798 = () => {
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
                                                                     <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                                                    <h3>Färgval</h3>
+                                                                    <h3>Farbauswahl</h3>
                                                                     <p>
-                                                                        Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                                                        Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                                                     </p>
-                                                                    <h3>Naturlig skönhet</h3>
+                                                                    <h3>Natürliche Schönheit</h3>
                                                                     <p>
-                                                                        Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                                                    <h3>Behåll skönheten</h3>
+                                                                        Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                                                    <h3>Erhalten Sie die Schönheit</h3>
                                                                     <p>
-                                                                        Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                                                        Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                                                                 </div>
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-40 mt-20"><strong>PÅLITLIG HÅLLBARHET, LEVERANSKVALITET</strong></h2>
+                                                                    <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
                                                                     <ul>
-                                                                        <li><strong>1. </strong>25 års garanti för fläck- och blekningsmotstånd</li>
-                                                                        <li><strong>2. </strong>Endast fasadbeklädnadspanel med ASA-lock</li>
-                                                                        <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
-                                                                        <li><strong>4. </strong>Beklädnad för ventilerade fasader</li>
-                                                                        <li><strong>5. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                                                        <li><strong>6. </strong>Exceptionell motståndskraft mot UV-ljus och skyddande beläggning innebär minimal färg blekning över tid</li>
-                                                                        <li><strong>7. </strong>Används för nya eller ersättande fasadpanel projekt</li>
-                                                                        <li><strong>8. </strong>Inga fixeringsklipp krävs</li>
-                                                                        <li><strong>9. </strong>Fri från giftiga tillsatser</li>
-                                                                        <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
-                                                                        <li><strong>11. </strong>Upp till 60% snabbare installation</li>
-                                                                        <li><strong>12. </strong>Kan installeras vertikalt eller horisontellt</li>
+                                                                        <li><strong>1. </strong>25 Jahre Garantie auf Flecken- und Lichtbeständigkeit</li>
+                                                                        <li><strong>2. </strong>Nur Fassadenverkleidung mit ASA-Kappe</li>
+                                                                        <li><strong>3. </strong>Markantes Inlay-Design, Stil und Farboptionen</li>
+                                                                        <li><strong>4. </strong>Verkleidung für hinterlüftete Fassaden</li>
+                                                                        <li><strong>5. </strong>Keine jährliche Färbung, Versiegelung oder Lackierung erforderlich</li>
+                                                                        <li><strong>6. </strong>Außergewöhnliche UV-Beständigkeit und Schutzbeschichtung sorgen für ein minimales Verblassen der Farbe im Laufe der Zeit</li>
+                                                                        <li><strong>7. </strong>Wird für neue oder Ersatzfassadenverkleidungsprojekte verwendet</li>
+                                                                        <li><strong>8. </strong>Keine Befestigungsklammern erforderlich</li>
+                                                                        <li><strong>9. </strong>Frei von giftigen Zusätzen</li>
+                                                                        <li><strong>10. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
                                                                     </ul>
                                                                 </div>
                                                             </div>
@@ -221,9 +219,9 @@ const fasadpanelgp798 = () => {
 
                                                 {/*====================  Star Smart Classic Section-5 content ====================*/}
                                                 <div className="col-12 mb-80">
-                                                    <h3>Fasadpanel tillbehör</h3>
+                                                    <h3>Fassadenbekleidungszubehör</h3>
                                                     <hr />
-                                                    <p className="mb-40">Green Plank PRIMA CAP™ Kompositfasad tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i din fasad som förbättrar både skönhet och funktionalitet. Från kantlister till startande aluminiumstartlister, expansionsklipp, etc., här är alla fasadtillbehör du behöver för att slutföra ditt PRIMA CAP™ fasadpanel projekt.</p>
+                                                    <p className="mb-40">Das Fassadenzubehör PRIMA CAP ™ aus Verbundwerkstoff von Green Plank erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihre Fassade integrieren, die sowohl ihre Schönheit als auch ihre Funktionalität verbessern. Hier finden Sie alles Zubehör für die Fassadenverkleidung PRIMA CAP ™, von Kantenverkleidungen bis hin zu Einstiegsverkleidungen aus Aluminium, Dehnungsverkleidungen usw.</p>
 
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={12} sm={4}>
@@ -246,13 +244,13 @@ const fasadpanelgp798 = () => {
 
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                                                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                                                                 <img src={pdfimg1} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
 
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Primacap-Installeringsanvisning.pdf">
+                                                            <a target="_blank" href="/pdfs/green-plank-primacap-facade-cladding-installation-guide-2019.pdf">
                                                                 <img src={pdfimg3} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>

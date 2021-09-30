@@ -28,10 +28,10 @@ import Footer from "../components/footer";
 
 const kompositstaketmodern = () => {
   return (
-    <Layout pageTitle="komposit-staket-modern">
+    <Layout pageTitle="NOVOFENCE™ Zaunsystem Modern™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit-staket-modern" crumbTitle="komposit-staket-modern" />
+      <PageHeader title="NOVOFENCE™ Zaunsystem Modern™" crumbTitle="NOVOFENCE™ Modern™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -45,27 +45,25 @@ const kompositstaketmodern = () => {
                       {/*====================  Star Staket Modern Section-1 content ============*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>NOVOFENCE ™ Horisontellt Komposit staket – Modern™</h2>
-                          <strong>enkel design och estetisk look – använd din fantasi – PVC-fri!</strong>
+                          <h2>NOVOFENCE™ Zaunsystem Modern™</h2>
+                          <strong>Ein einfach zu bauender, wartungsfreier, hochwertiger, maßgeschneiderter Zaun, der Ihren spezifischen Anforderungen entspricht. Diese horizontal gelattete Abschirmung / Umzäunung in modernem Stil schafft eine atemberaubende zeitgemäße Grenze zu Ihrem Eigentum.</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
-
-                              <strong>En enkel att bygga utan underhåll, högkvalitativ, anpassad staket för att möta dina specifika behov. Den här moderna stilen lantstaket med liggande brädor skapar en fantastisk modern gräns till din egendom. Om man vill har insynsskydd kan brädorna överlappar på motstående sida.</strong>
                               <p>
-                                Bra staket gör goda grannar. Novofence™ Modern™ slitstark horisontell avskärmning / staket kommer att förbättra din trädgård och värdet för ert hem. Modern™ lameller av skärmning / staket är idealiska som ett alternativ till fasta staketpaneler i högblåsiga områden eftersom de tillåter luft att passera genom dem.
+                                Gute Zäune sind gute Nachbarn. Novofence™ Modern™ ist ein langlebiger horizontaler Lattenrost / Zaun, der Ihren Garten aufwerten und den Wert und die Attraktivität Ihres Hauses verbessern wird. Modern™ Lattenrost- / Zaunelemente sind eine ideale Alternative zu massiven Zaunelementen in Gebieten mit starkem Wind, da sie Luft durchlassen.
                               </p>
                               <p>
-                                Novofence™ Modern™ staket system är extremt mångsidigt och kan fungera som ett subtilt tillägg eller ett uttalande stycke i alla bostads- eller kommersiella utomhusområden. Förmågan hos vår komposit staket att motstå de tuffaste väderförhållandena – och motstå termiter – gör det också till ett fantastiskt, kostnadseffektivt alternativ till användning av träskärmar och staketprodukter.
+                                Das Novofence™ Modern™ Zaunsystem ist äußerst vielseitig und kann in Wohn- und Gewerbegebieten im Freien entweder als subtile Ergänzung oder als Statement-Element eingesetzt werden. Die Fähigkeit unserer Zaunsystem, den härtesten Wetterbedingungen standzuhalten, und Termiten widerstehen, macht es auch zu einer fantastischen, kostengünstigen Alternative zur Verwendung von Naturholzgittern und Zaunprodukten.
                               </p>
                               <p>
-                                Modern™ komposit staket ger ett vackert, unikt, lågt underhållsalternativ till trä- och vinylstaket. Våra komposit staketskivor och stolpar är konstgjorda för att se ut som äkta trä utan krav på oljning, målning eller tätning.
+                                Der moderne™ Zaunsystem ist eine schöne, einzigartige und wartungsarme Alternative zu Holz- und Vinylzäunen. Unsere Zaunsystembretter und -pfosten sind kunstvoll so konstruiert, dass sie wie echtes Holz aussehen, ohne dass Ölen, Malen oder Verstemmen erforderlich sind.
                               </p>
 
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Lågt underhåll</strong> –   Med tiden kräver Green Plank staket mindre underhåll och produktersättning än trä eller vinyl.</li>
-                                  <li><strong>Förstärkta stolpar och räls</strong>–  Högkvalitativ, lågt underhållsstark ram av aluminium + kompositstolpar och horisontella rostfritt stål + kompositskenor.</li>
+                                  <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                  <li><strong>Geringer Wartungsaufwand</strong> –   Im Laufe der Zeit erfordert der Green Plank-Zaun weniger Wartung und Produktaustausch als Holz oder Vinyl.</li>
+                                  <li><strong>Verstärkte Pfosten</strong>–  Hochwertiger, wartungsarmer stabiler Rahmen aus Aluminium + Verbundpfosten und horizontalen Edelstahl + Verbundschienen.</li>
                                 </ul>
                               </div>
                             </div>
@@ -91,28 +89,28 @@ const kompositstaketmodern = () => {
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> Slät borstad med trätonade och lyxiga brokiga färger</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left">Gerillt, gebürstet mit holzfarbenen und luxuriösen, bunten Farben</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Größe:</strong></td>
                                       <td align="left">ca. 25 * 135 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 1.8 m,   3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">5 – 12 stolpar</td>
+                                      <td align="left"><strong>Bedarf:</strong></td>
+                                      <td align="left">12 Bretter (1,8 m lang) für 1,8 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 2.66 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
-                                      <td align="left">150 cm c/c för bostadsapplikationer*</td>
+                                      <td align="left"><strong>Max Abstand:</strong></td>
+                                      <td align="left">60 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -134,7 +132,7 @@ const kompositstaketmodern = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={4} lg={6}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
 
                                 </Grid>
@@ -148,7 +146,7 @@ const kompositstaketmodern = () => {
 
                       {/*=============  Star Staket Modern Section-3 content  ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>FARBENTRENDS ANZEIGEN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -170,9 +168,9 @@ const kompositstaketmodern = () => {
 
                       {/*====================  Star Staket Modern Section-4 content ==========*/}
                       <div className="col-12 mb-80">
-                        <h2>Staketdelar</h2>
+                        <h2>ZAUNTEILE</h2>
                         <hr />
-                        <p className="mb-40">Green Plank NOVOFENCE™ -Tillbehör för staket i komposit utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och förtjusande funktioner i ditt NOVOFENCE ™ -komposit staket som förbättrar både skönheten och funktionaliteten. Från aluminiumstolpar, stolpehattar, skenor till stolparna, staketfästena etc., här är alla staketet delar du behöver för att slutföra dina NOVOFENCE™ Staket projekt.</p>
+                        <p className="mb-40">Green Plank NOVOFENCE™ Composite-Zaunzubehör erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihre NOVOFENCE integrieren Zaunsystem, der sowohl seine Schönheit als auch Funktionalität verbessert. Von Aluminiumpfosten, Pfostenhüten, Schienen bis hin zu Pfostenfüßen, Zaunhalterungen usw. sind hier alle Zäune Teile, die Sie benötigen, um Ihre zu vervollständigen NOVOFENCE™ zuan project.</p>
 
 
                       </div>
@@ -185,7 +183,7 @@ const kompositstaketmodern = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image1} className="img-fluid" alt="" />
+                                  <img src={Image1} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -194,19 +192,19 @@ const kompositstaketmodern = () => {
                                 <ul>
                                   <li>
                                     <strong>1.</strong>
-                                    Pulverlackerade stolpar
+                                    Pulverbeschichtete Pfostenkappen
                                   </li>
                                   <li>
-                                    <strong>2.</strong>Aluminium + kompositstolpe
+                                    <strong>2.</strong>Aluminium + Verbundpfostenhülse
                                   </li>
                                   <li>
-                                    <strong>3.</strong>Basplattor av metall
+                                    <strong>3.</strong>Metallpfosten-Grundplatten
                                   </li>
                                   <li>
-                                    <strong>4.</strong>Komposit staketplank
+                                    <strong>4.</strong>Verbundzaunbretter / Lamellen
                                   </li>
                                   <li>
-                                    <strong>5.</strong>Ändlock för staketplank
+                                    <strong>5.</strong>Endkappen für Verbundzaunbretter / -latten
                                   </li>
                                 </ul>
                               </div>
@@ -225,18 +223,20 @@ const kompositstaketmodern = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Ändlock används för att täta ändarna på ihåliga kärnstaket för att ge din Modern ™ Composite Fencing en professionell färdig look.
-                                    Ändlock skyddar staketbrädor från att skräp tränger in.
+                                    <strong>Nutzen:</strong>
+                                    Endkappen werden verwendet, um die Enden
+                                    von Hohlkern-Zaunbrettern abzudichten, um Ihrem
+                                    Modern™ Composite-Fechten für einen professionellen Look.
+                                    Endkappen schützen Zaunbretter vor eindringendem Schmutz.
                                   </li>
                                   <li>
-                                    <strong>Förpackning:</strong>Låda
+                                    <strong>Verpackung:</strong>Box
                                   </li>
                                   <li>
-                                    <strong>Innehåll:</strong>25 Ändlock
+                                    <strong>Inhalt:</strong>25 Endkappen
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Komposit
+                                    <strong>Material:</strong>Composite Endkappen für Hohlzaunbretter
                                   </li>
                                 </ul>
                               </div>
@@ -244,7 +244,7 @@ const kompositstaketmodern = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image2} className="img-fluid" alt="" />
+                                  <img src={Image2} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -260,7 +260,7 @@ const kompositstaketmodern = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image3} className="img-fluid" alt="" />
+                                  <img src={Image3} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -268,23 +268,25 @@ const kompositstaketmodern = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Med träets skönhet och hållbarheten hos aluminium + komposit, Modern ™ Stolpe garanterar varaktig hållbarhet med lågt underhåll.
+                                    <strong>Nutzen:</strong>
+                                    Mit der Schönheit von Holz und der Langlebigkeit von
+                                    Aluminium + Verbundwerkstoff, Traditional? fence post sleeve
+                                    ensures lasting durability with low-maintenance.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 80 * 80 mm
+                                    <strong>Größe:</strong>ca. 80 * 80 mm
                                   </li>
                                   <li>
                                     <strong>Längd:</strong>ca. 2.0 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong>Rillad borstad med träfärgade och lyxiga brokiga färger
+                                    <strong>Oberfläche:</strong>Gerillt, gebürstet mit holzfarbenen und luxuriösen, bunten Farben
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 2.34 kg / m
+                                    <strong>Gewicht:</strong>ca. 2.34 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Hållbar komposithylsa över aluminiumhylsa
+                                    <strong>Material:</strong>Robuste Verbundhülse über Aluminiumhülse
                                   </li>
                                 </ul>
                               </div>
@@ -302,21 +304,27 @@ const kompositstaketmodern = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Basplattor av metall finns i två typer, vilket ger säkra monteringsalternativ för Novofence ™ Private-systemet.
-                                    Förankringsplattan har ett betonguppsättningsben som ligger under flänsen för att sätta i betong när du häller fot, medan basplattan är fixerad genom fyra borrhål och kan monteras på betong- och träbänk, uteplatser etc.
+                                    <strong>Nutzen:</strong>
+                                    Metallpfosten-Grundplatten sind in zwei Ausführungen erhältlich
+                                    und bieten sichere Befestigungsmöglichkeiten für den
+                                    Novofence Traditional™ System.
+                                    Die Ankerplatte verfügt
+                                    über ein betoniertes Bein, das sich unterhalb des
+                                    Flansches befindet, um beim Gießen von Fundamenten in Beton
+                                    einzusteigen. Die Grundplatte ist durch vier Schraubenlöcher befestigt und
+                                    kann auf Beton- und Holztischen, Terrassen usw. montiert werden.
                                   </li>
                                   <li>
-                                    <strong>Storlek 1:</strong>ca. 86*86*400 mm
+                                    <strong>Größe 1:</strong>ca. 86*86*400 mm
                                   </li>
                                   <li>
-                                    <strong>Storlek 2:</strong>ca. 86*86*700 mm
+                                    <strong>Größe 2:</strong>ca. 86*86*700 mm
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 1.70 kg / pc,   ca. 2.70 kg / pc
+                                    <strong>Gewicht:</strong>ca. 1.70 kg / pc,   ca. 2.70 kg / pc
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad rostfritt stål
+                                    <strong>Material:</strong>Robuster pulverbeschichteter Edelstahl
                                   </li>
                                 </ul>
                               </div>
@@ -325,7 +333,7 @@ const kompositstaketmodern = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image4} className="img-fluid" alt="" />
+                                  <img src={Image4} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -342,32 +350,32 @@ const kompositstaketmodern = () => {
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
                                 <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h3>Farbauswahl</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                  Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Natürliche Schönheit</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                  Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                <h3>Erhalten Sie die Schönheit</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                  Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Verkligt fullständigt integritetsstaket med rika naturliga färger</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som gör att du känner dig stolt över att välja ett hållbart och hållbart material för ditt projekt.</li>
-                                  <li><strong>3. </strong>Board-on-board-stil ger estetisk appell</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Horisontella staketpaneler ger ett vackert utbud av utomhusestetik</li>
-                                  <li><strong>7. </strong>Extremt låg vattenabsorption</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
+                                  <li><strong>1. </strong>Echter Vollsichtschutzzaun mit satten natürlichen Farben</li>
+                                  <li><strong>2. </strong>Holzgetönte Farben erzeugen ein authentisches Masernmuster, sodass Sie stolz darauf sind, ein haltbares und nachhaltiges Material für Ihr Projekt zu wählen.</li>
+                                  <li><strong>3. </strong>Board-on-Board-Stil bietet ästhetische Anziehungskraft</li>
+                                  <li><strong>4. </strong>Kein jährliches Streichen, Versiegelung oder Lackierung erforderlich</li>
+                                  <li><strong>5. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen</li>
+                                  <li><strong>6. </strong>Nachbarschaftsfreundliches Design, beliebt für gemeinsam genutzte Leitungen</li>
+                                  <li><strong>7. </strong>Extrem geringe Wasseraufnahme</li>
+                                  <li><strong>8. </strong>Frei von giftigen Zusätzen</li>
+                                  <li><strong>9. </strong>Splittert, verrottet oder verzieht sich nicht</li>
+                                  <li><strong>10. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
                                 </ul>
                               </div>
                             </div>
@@ -376,40 +384,26 @@ const kompositstaketmodern = () => {
                       </div>
                       {/*===========  End of Staket Modern Section-5 content  ===============*/}
 
-                      {/*============  Star Staket Modern Section-6 content ================*/}
-                      <div className="col-12 mb-80">
-                        <Grid container spacing={3}>
-                          <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/2IPWj7OjYCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                          </Grid>
-                          <Grid item xs={12} sm={4}>
-                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                          </Grid>
-                          <Grid item xs={12} sm={4}>
-                          </Grid>
-                        </Grid>
-                      </div>
-                      {/*=============  End of Star Staket Modern Section-6 content  ========*/}
+
 
                       {/*==============  Star Staket Modern Section-7 content  ============*/}
                       <div className="col-12 mb-30 mt-40" >
                         <h3>
                           Ladda ner Pdfs</h3>
                         <hr />
-
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                  
+
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Modern-Installeringsanvisning.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-modern-fence-installation-guide-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          
+
                           <Grid item xs={6} sm={2}>
 
                           </Grid>

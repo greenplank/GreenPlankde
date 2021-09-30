@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import { Swiper, SwiperSlide } from "swiper/react";
 import Grid from '@material-ui/core/Grid';
+import Hidden from '@material-ui/core/Hidden';
 import SwiperCore, { Autoplay, Pagination, EffectFade } from "swiper";
 import banner1 from "../../assets/images/main-slider/slider1.webp";
 import banner2 from "../../assets/images/main-slider/slider2.webp";
@@ -36,18 +37,26 @@ const MainSliderTwo = () => {
     }
   };
 
-  const isDesktopOrLaptop = useMediaQuery({
-    query: '(min-width: 1224px)'
-  })
+ 
   const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })
+  const isBigSmallScreen = useMediaQuery({ query: '(max-width: 1823px)' })
+  const isDesktopSHFile = useMediaQuery({query: '(max-width: 1311px)'})
+  const isDesktopnewfile = useMediaQuery({query: '(max-width: 1243px)'})
+  const isDesktopOrLaptop = useMediaQuery({query: '(min-width: 1224px)'})
+  const isDesktopOrLaptopmin = useMediaQuery({query: '(min-width: 1120px)'})
+  const isTabletmode = useMediaQuery({query: '(min-width: 996px)'})
+  const isDesktoporLaptopminfile = useMediaQuery({ query: '(max-width: 1172px)' })
   const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-  const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
-  const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
+  // const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
+  // const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
 
   return (
     <div className="row">
-      <div className="col-lg-5 p-0">
-        <section style={{ padding:isBigScreen? "7em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isTabletOrMobile?".1em 2em .1em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black" }}>
+
+      <Hidden lgUp mdUp>
+      <div className="col-lg-5 p-0" >
+        <section style={{ padding:isBigScreen? "7em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isTabletOrMobile?".1em 2em .1em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black"
+      }}>
           <div>
             <div className="block-title text-left">
               <h3>
@@ -60,37 +69,185 @@ const MainSliderTwo = () => {
 
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn" ><center>Smart Terrassdielen</center></a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn2 rounded-pill" ><center>Smart Terrassdielen</center></a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn" >Terrassen Planer</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn2 rounded-pill" >Terrassen Planer</a>
               </Grid>
 
             </Grid>
             <Grid container spacing={3} >
               <Grid item xs={6} sm={6} >
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-vs-traditionell" className="thm-btn" >Smart gegen andere</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-vs-traditionell" className="thm-btn thm-btn2 rounded-pill" >Smart gegen andere</a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://fenceplanner.greenplank.eu/" className="thm-btn" >Zaunplaner</a>
-              </Grid>
-
-            </Grid>
-            <Grid container spacing={3}>
-              <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn" >Hohlkammer  versus solide</a>
-              </Grid>
-              <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="hitta-hantverkare" className="thm-btn" >Monteur finden</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://fenceplanner.greenplank.eu/" className="thm-btn thm-btn2 rounded-pill" >Zaunplaner</a>
               </Grid>
 
             </Grid>
             <Grid container spacing={3}>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="galleri" className="thm-btn" >Inspiration</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn thm-btn2 rounded-pill" >Hohlkammer  versus solide</a>
               </Grid>
               <Grid item xs={6} sm={6}>
-                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="aterfarsaljare" className="thm-btn">Großhändler</a>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="monteur-finden" className="thm-btn thm-btn2 rounded-pill" >Monteur finden</a>
+              </Grid>
+
+            </Grid>
+            <Grid container spacing={3}>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="galerie" className="thm-btn thm-btn2 rounded-pill" >Inspiration</a>
+              </Grid>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="groshandler" className="thm-btn thm-btn2  rounded-pill">Großhändler</a>
+              </Grid>
+
+            </Grid>
+          </div>
+        </section>
+      </div>
+      <div className="col-lg-7 p-0">
+        <section className="main-slider main-slider__two">
+          <Swiper {...mainSlideOptions}>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner1})` }}
+              ></div>
+
+              <Container>
+                <Row className=" justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+
+                    <img src={icon1} alt="icon1" width="300px"/>
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner2})` }}
+              ></div>
+              <Container>
+                <Row className=" justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+
+                    <img src={icon2} alt="icon2" width="300px" />
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner3})` }}
+              ></div>
+
+              <Container>
+                <Row className="justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+                    <img src={icon3} alt="icon3" width="300px" />
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner4})` }}
+              ></div>
+
+              <Container>
+                <Row className="justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+                    <img src={icon4} alt="icon4" width="300px" />
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner5})` }}
+              ></div>
+
+              <Container>
+                <Row className="justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+                    <img src={icon5} alt="icon5" width="300px" />
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <SwiperSlide>
+              <div
+                className="image-layer"
+                style={{ backgroundImage: `url(${banner6})` }}
+              ></div>
+
+              <Container>
+                <Row className="justify-content-start">
+                  <Col xl={6} lg={12} className="text-left">
+                    <img src={icon6} alt="icon6" width="300px" />
+                  </Col>
+                </Row>
+              </Container>
+            </SwiperSlide>
+            <div className="swiper-pagination" id="main-slider-pagination"></div>
+          </Swiper>
+        </section>
+      </div>
+      </Hidden>
+
+
+      <Hidden smDown>
+      <div className="col-lg-5 p-0" >
+        <section id="hero-banner" style={{ padding:isBigScreen? "6em 2em 6em 4em":isBigSmallScreen?"5em 2em 6em 4em":isDesktopSHFile?"5em 2em 4em 4em":isDesktopnewfile?"5em 2em 3em 4em":isDesktopOrLaptop?"5em 2em 4em 4em":isDesktopOrLaptopmin?".1em 2em 4em 4em":isTabletmode?".1em 2em 3em 4em":isDesktoporLaptopminfile?".1em 2em 5em 4em":isTabletmode?".1em 2em 5em 4em":isTabletOrMobile?".1em 2em 3em 4em":isTabletOrMobile?"1em 2em .6em 4em":"5em 2em 4em 4em", background: "black"
+      }}>
+          <div style={{fontSize:"12px"}}>
+            <div className="block-title text-left">
+              <h3>
+                <span style={{ color: "white" }}>Green Plank</span>
+              </h3>
+            </div>
+            <h2 style={{ marginBottom: "1em", color: "white", fontSize: "1rem" }}>
+            Umweltfreundliche Verbundprodukte mit geringem Wartungsaufwand
+            </h2>
+
+            <Grid container spacing={3} >
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-komposittrall" className="thm-btn thm-btn3 rounded-pill" ><center>Smart Terrassdielen</center></a>
+              </Grid>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://deckplanner.greenplank.eu/" className="thm-btn thm-btn3 rounded-pill" >Terrassen Planer</a>
+              </Grid>
+
+            </Grid>
+            <Grid container spacing={3} >
+              <Grid item xs={6} sm={6} >
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="smart-vs-traditionell" className="thm-btn thm-btn3 rounded-pill" >Smart gegen andere</a>
+              </Grid>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="http://fenceplanner.greenplank.eu/" className="thm-btn thm-btn3 rounded-pill" >Zaunplaner</a>
+              </Grid>
+
+            </Grid>
+            <Grid container spacing={3}>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="ihalig-vs-massiv" className="thm-btn thm-btn3 rounded-pill" >Hohlkammer  versus solide</a>
+              </Grid>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="monteur-finden" className="thm-btn thm-btn3 rounded-pill" >Monteur finden</a>
+              </Grid>
+
+            </Grid>
+            <Grid container spacing={3}>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="galerie" className="thm-btn thm-btn3 rounded-pill" >Inspiration</a>
+              </Grid>
+              <Grid item xs={6} sm={6}>
+                <a style={{ margin: ".4em", justifyContent: "center", display: "flex" }} href="groshandler" className="thm-btn thm-btn3 rounded-pill">Großhändler</a>
               </Grid>
 
             </Grid>
@@ -189,7 +346,11 @@ const MainSliderTwo = () => {
           </Swiper>
         </section>
       </div>
+      </Hidden>
+
     </div>
+
+    
   );
 };
 

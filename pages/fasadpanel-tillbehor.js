@@ -19,14 +19,14 @@ const fasadpaneltillbehor = () => {
     return (
         <>
             <Head>
-                <title>Tillbehör för komposit fasadpanel</title>
+                <title>Zubehörteile</title>
                 <meta name="title" content="Tillbehör för komposit fasadpanel - GreenPlank.se" />
                 <meta name="description" content="Green Plank fasadpanel tillbehör utvidgar din horisont ytterligare och låter dig bygga distinkta och förtjusande funktioner i din fasadbeklädnad." />
             </Head>
-            <Layout pageTitle="fasadpanel-tillbehor">
+            <Layout pageTitle="Zubehörteile">
                 <HeaderTwo />
                 <StickyHeader />
-                <PageHeader title="fasadpanel-tillbehor" crumbTitle="fasadpanel-tillbehor" />
+                <PageHeader title="Zubehörteile" crumbTitle="Zubehörteile" />
                 <section className="blog-details pt-120 pb-40">
                     <Container>
                         <Row>
@@ -40,19 +40,19 @@ const fasadpaneltillbehor = () => {
                                                 {/*====================  Star Fasadpanel Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>Fasadpanel tillbehör</h2>
-                                                        <strong>efterbehandlingen med design och säkerhet som gör ditt hem exteriör komplett</strong>
+                                                        <h2>Fassadenbekleidungszubehör</h2>
+                                                        <strong>Der letzte Schliff ist das Design und die Sicherheit, die das Äußere Ihres Hauses komplettieren</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Det är allt i detaljerna! Din uppmärksamhet på kvalitet och detaljer har aldrig varit viktigare. Green Plank-fasadpanel tillbehör utvidgar dina horisonter ytterligare och låter dig bygga distinkta och förtjusande funktioner i din Green Plank- fasadbeklädnad som förbättrar både skönhet och funktionalitet – utan att ruttna, skala eller bleka.</strong>
-                                                                <p>Som en del av vårt omfattande sortiment av tillbehör har vi en mängd efterbehandlingsprofiler som passar alla våra komposit Fasadpanel skivor. Profilerna ger ett estetiskt slutresultat för alla byggtyper.</p>
+                                                                <strong>Auf die Details kommt es an! Ihre Aufmerksamkeit für Qualität und Detail war noch nie so wichtig. Zubehör für Fassadenverkleidungen aus Verbundwerkstoffen von Green Plank erweitern Ihren Horizont noch weiter und lassen Sie unverwechselbare und reizvolle Merkmale in Ihre Fassadenverkleidung von Green Plank einbauen, die sowohl ihre Schönheit als auch ihre Funktionalität verbessern – ohne zu verfaulen, abzublättern oder zu verblassen.</strong>
+                                                                <p>Als Teil unseres umfangreichen Zubehörprogramms bieten wir eine Vielzahl von Abschlussprofilen an, die für alle unsere Fassadenverkleidungsplatten aus Verbundwerkstoff geeignet sind. Die Profile bieten ein ästhetisches Endergebnis für alle Gebäudetypen.</p>
                                                                 <p>
-                                                                    Efterbehandlingsprofilerna finns i matchande färger för ditt föredragna fasadskiva.
+                                                                    Die Veredelungsprofile werden in passenden Farben für Ihren bevorzugten Fassadenschwein geliefert.
                                                                 </p>
 
                                                                 <div>
-                                                                    <h2 className="section-space--top--60">PRIMACAP™ Tillbehör</h2>
+                                                                    <h2 className="section-space--top--60">PRIMACAP™ Fassadenverkleidung aus Verbundwerkstoff – KEINE CLIPS ERFORDERLICH</h2>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -76,20 +76,20 @@ const fasadpaneltillbehor = () => {
                                                                 <div className="project-information mb-20">
                                                                     <ul>
                                                                         <li>
-                                                                            <strong>Type:</strong>
-                                                                            PRIMACAP™ Aluminium Väggmonterad Startlist
+                                                                            <strong>Typ:</strong>
+                                                                            PRIMACAP™ Belüftete Aluminium-Wandhalterung
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 32 * 45.2 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 32 * 45.2 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 1.9 m
+                                                                            <strong>Länge:</strong> ca. 1.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Mit Schrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Vägg monterad ventilerad startlist
+                                                                            <strong>Verwendungszweck:</strong> Wandhalterung belüftete Startleiste / J-Leiste
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -110,19 +110,19 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Aluminium J-trim
+                                                                            PRIMACAP™ Aluminium J-Leiste
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 6 * 60 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 6 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Länge:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Stirnschrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Startlist för Primacap™
+                                                                            <strong>Verwendungszweck:</strong> 	Als Einstiegsleiste für Verbundfassadenplatte 30 St / box
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -155,19 +155,20 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Hörnlist / L-List
+                                                                            PRIMACAP™ Eckverkleidung / L-Verkleidung
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  	ca. 50 * 50
+                                                                            <strong>Abmessungen:</strong>  	ca. 50 * 50
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Länge:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Dolda Skruvar
+                                                                            <strong>Installation:</strong> 	Verdeckte Schrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Sóm avslutande kant eller hörnlist. Finns i matchande färger
+                                                                            <strong>Verwendungszweck:</strong> 	Als Abschlusskante oder Eckverkleidung. Verfügbar in zusammenpassenden Farben.
+                                                                            20 St / box
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -186,19 +187,20 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            PRIMACAP™ Expansionslist / T-List
+                                                                            PRIMACAP™ Dehnungsleisten/ T-Streifent
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 11.5 * 60 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 11.5 * 60 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Länge:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installation:</strong> Skruv
+                                                                            <strong>Installation:</strong> Mit Schrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> 	Expansionslist för att dölja ändarna. Finns i matchande färger.
+                                                                            <strong>Verwendungszweck:</strong> Dehnungsleiste zur Abdeckung der Fugen. Verfügbar in zusammenpassenden Farben.
+                                                                            20 St / box
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -232,22 +234,22 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NOVOCLAD™ Startlist i Komposit
+                                                                            NOVOCLAD™ Komposit-Startprofil
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 21 * 63 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 21 * 63 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.9 m
+                                                                            <strong>Länge:</strong> ca. 2.9 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong> ca. 1.42 kg / m
+                                                                            <strong>Gewicht:</strong> ca. 1.42 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Dolda skruvar i börborrade hål
+                                                                            <strong>Installation:</strong> Versteckte Schrauben durch vorgefertigte Löcher
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Startlist för Novoclad™ Profiler
+                                                                            <strong>Verwendungszweck:</strong> Als Startprofil für NOVOCLAD ™ Verbundfassadenplatten
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -266,22 +268,22 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            NATURPLANK™ Komposit Hörnlist / L-List
+                                                                            NATURPLANK™ Komposit L-Leiste
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>   ca. 40 * 40 mm
+                                                                            <strong>Abmessungen:</strong>   ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 2.4 m
+                                                                            <strong>Länge:</strong> ca. 2.4 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Vikt:</strong> ca. 0.65 kg / m
+                                                                            <strong>Gewicht:</strong> ca. 0.65 kg / m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Stirnschrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> För att ge hörnen ett snyggt avslut
+                                                                            <strong>Verwendungszweck:</strong> Zum Abschluss der Ecken Ihrer Fassadenverkleidung
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -315,19 +317,19 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Aluminium Hörnlist / L-List
+                                                                            Aluminium Eckleiste
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 40 * 40 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 40 * 40 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong> ca. 3.6 m
+                                                                            <strong>Länge:</strong> ca. 3.6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Stirnschrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong>För att ge hörnen ett snyggt avslut
+                                                                            <strong>Verwendungszweck:</strong>Zum Abschluss der Ecken Ihrer Fassadenverkleidung.
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -347,19 +349,19 @@ const fasadpaneltillbehor = () => {
                                                                     <ul>
                                                                         <li>
                                                                             <strong>Type:</strong>
-                                                                            Aluminium Expansionslist / T-list
+                                                                            Aluminium T-Zier- / Dehnungszierleiste
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Storlek:</strong>  ca. 10 * 45 mm
+                                                                            <strong>Abmessungen:</strong>  ca. 10 * 45 mm
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Längd:</strong>  ca. 3.6 m
+                                                                            <strong>Länge:</strong>  ca. 3.6 m
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Installering:</strong> Skruv
+                                                                            <strong>Installation:</strong> Stirnschrauben
                                                                         </li>
                                                                         <li>
-                                                                            <strong>Användning:</strong> Expansionslist för att dölja ändarna.
+                                                                            <strong>Verwendungszweck:</strong> Dehnungsstreifen zur Abdeckung der Fugen. Verfügbar in zusammenpassenden Farben.
                                                                         </li>
                                                                     </ul>
                                                                 </div>
@@ -384,28 +386,28 @@ const fasadpaneltillbehor = () => {
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
                                                                     <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                                                    <h3>Färgval</h3>
+                                                                    <h3>Farbauswahl</h3>
                                                                     <p>
-                                                                        Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                                                        Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                                                     </p>
-                                                                    <h3>Naturlig skönhet</h3>
+                                                                    <h3>Natürliche Schönheit</h3>
                                                                     <p>
-                                                                        Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                                                    <h3>Behåll skönheten</h3>
+                                                                        Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                                                    <h3>Erhalten Sie die Schönheit</h3>
                                                                     <p>
-                                                                        Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                                                        Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                                                                 </div>
                                                             </div>
                                                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                                                    <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
 
-                                                                    <strong>1. </strong>Ingen årlig färgning, tätning eller målning krävs<br />
-                                                                    <strong>2. </strong>Exceptionell motståndskraft mot UV-ljus och färgtoning<br />
-                                                                    <strong>3. </strong>Extremt låg vattenabsorption<br />
-                                                                    <strong>4. </strong>Fri från giftiga tillsatser<br />
-                                                                    <strong>5. </strong>Kommer inte spricka, ruttna, flisa sig eller vrida sig<br />
-                                                                    <strong>6. </strong>Lämplig för offentlig och privat sektor<br />
+                                                                    <strong>1. </strong>Keine jährliche Färbung, Versiegelung oder Lackierung erforderlich<br />
+                                                                    <strong>2. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen<br />
+                                                                    <strong>3. </strong>Extrem geringe Wasseraufnahme<br />
+                                                                    <strong>4. </strong>Frei von giftigen Zusätzen<br />
+                                                                    <strong>5. </strong>Splittert, splittert, verrottet oder verzieht sich nich<br />
+                                                                    <strong>6. </strong>Geeignet für den öffentlichen und privaten Bereich<br />
 
                                                                 </div>
                                                             </div>

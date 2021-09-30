@@ -21,6 +21,7 @@ import pdfimg1 from "../assets/images/projects/greenplank-brochure-title-1.jpg";
 import pdfimg2 from "../assets/images/projects/pic.png";
 import pdfimg3 from "../assets/images/projects/pic1.png";
 import pdfimg4 from "../assets/images/projects/swedish.png";
+import pdfimg5 from "../assets/images/projects/greenplank-tds-composite-technical-data-sheet-1.jpg";
 
 import Head from "next/head";
 import Grid from '@material-ui/core/Grid';
@@ -51,20 +52,22 @@ const classicTeak = () => {
                                                 {/*====================  Star Smart Classic Section-1 content ====================*/}
                                                 <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                                                     <div className="project-details">
-                                                        <h2>CLASSIC™ Komposittrall</h2>
-                                                        <strong>För hemmet är där du känner dig bekväm och avslappnad</strong>
+                                                        <h2>CLASSIC™ Terrassendielen in Premium Qualität</h2>
+                                                        <strong>Zuhause fühlt man sich wohl und entspannt</strong>
                                                         <div class="et_pb_text_inner">
                                                             <div class="ce_text block">
 
-                                                                <strong>Inspirerad av den skandinaviska designtraditionen som kännetecknas av estetik, enkelhet och funktionalitet.</strong>
-                                                                <p>Med Green Plank CLASSIC komposittrall, du kan skapa ett utomhusutrymme perfekt för din stil som också är lätt att rengöra och ta hand om. Med ett så överraskande prisvärt alternativ finns det helt enkelt ingen anledning att nöja sig med att färga, täta, flisor och ständigt underhåll.</p>
-                                                                <p>Halksäker, elegant, räfflad / räfflad borstad yta möjliggör god dragkraft i våta områden som runt pooler.</p>
-                                                                <p>Med en estetisk av skandinavisk designutseende har vårt Classic™ komposittrall varit den bästsäljande däckbrädan i mer än tio år och är fortfarande idag.</p>
+                                                                <strong>Inspiriert von der skandinavischen Designtradition, die sich durch Ästhetik, Einfachheit und Funktionalität auszeichnet.</strong>
+                                                                <p>Mit Green Plank CLASSIC Komposit können Sie einen Außenbereich schaffen, der perfekt zu Ihrem Stil passt und der auch leicht zu reinigen und zu pflegen ist. Bei solch einer überraschend günstigen Alternative gibt es einfach keinen Grund, sich mit Färben, Versiegeln, Absplittern und ständiger Wartung zufrieden zu geben.</p>
+                                                                <p>Die rutschfeste, elegante, gerillte gebürstete Oberfläche ermöglicht eine gute Traktion in feuchten Bereichen wie um den Pools.</p>
+                                                                <p>Mit einer Ästhetik von skandinavischem Design ist unser Classic Komposit Terrassendielen seit mehr als zehn Jahren das meistverkaufte Dielen bis heute noch.</p>
                                                                 <div>
 
-                                                                    <strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönt levande.<br />
-                                                                    <strong>Enhetlighet </strong>– HidLoc™ dolda fästelement säkerställer en slät och enhetlig yta som är säker att gå på.<br />
-                                                                    <strong>Komplimerande tillbehör</strong> Komplett dina dröm patio däck design med våra täckbrädor – den perfekta matchen för ditt högpresterande CLASSIC™ Komposittrall.<br />
+                                                                    <ul>
+                                                                        <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                                                        <li><strong>Gleichmäßigkeit</strong> – Die versteckten Befestigungselemente von HidLoc sorgen für eine glatte und gleichmäßige Oberfläche, auf der Sie sicher laufen können.</li>
+                                                                        <li><strong>Ergänzendes Zubehör</strong>–Vervollständigen Sie Ihr Traum-Terrassendeck -Design mit unseren Abdeckleisten – die perfekte Ergänzung für Ihren Hochleistungsdielen CLASSIC.Inspiriert von der skandinavischen Designtradition, die sich durch Ästhetik, Einfachheit und Funktionalität auszeichnet.</li>
+                                                                    </ul>
 
                                                                 </div>
                                                             </div>
@@ -90,28 +93,29 @@ const classicTeak = () => {
                                                                     <table width="100%">
                                                                         <tbody>
                                                                             <tr>
-                                                                                <td align="left"><strong>Yta:</strong></td>
-                                                                                <td align="left">Slipresistenta räfflade ytor, autentiska och naturliga träfärger; vändbara brädor</td>
+                                                                                <td align="left"><strong>Oberfläche:</strong></td>
+                                                                                <td align="left">Rutschhemmende geriffelte Oberflächen, authentische
+                                                                                    und natürliche Holzfarben; Wendebretter</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Storlek:</strong></td>
+                                                                                <td align="left"><strong>Größe:</strong></td>
                                                                                 <td align="left">ca. 25 * 135 mm</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Längd:</strong></td>
+                                                                                <td align="left"><strong>Länge:</strong></td>
                                                                                 <td align="left">ca, 3,8 och 4,8 L/M</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Åtgång:</strong></td>
-                                                                                <td align="left">ca. 6.71 meter för 1 m²</td>
+                                                                                <td align="left"><strong>Bedarf:</strong></td>
+                                                                                <td align="left">Ca. 7,10 Meter für 1 m²</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Vikt:</strong></td>
+                                                                                <td align="left"><strong>Gewicht:</strong></td>
                                                                                 <td align="left">ca. 2.82 kg / m</td>
                                                                             </tr>
                                                                             <tr>
-                                                                                <td align="left"><strong>Regelavstånd:</strong></td>
-                                                                                <td align="left">50 cm c/c för bostadsapplikationer</td>
+                                                                                <td align="left"><strong>Balkenspannung:</strong></td>
+                                                                                <td align="left">50 cm c / c für Wohnanwendungen *</td>
                                                                             </tr>
                                                                         </tbody>
                                                                     </table>
@@ -129,14 +133,14 @@ const classicTeak = () => {
 
                                                                     <Grid container spacing={3}>
                                                                         <Grid item xs={6} sm={3} lg={4}>
-                                                                            <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                                                            <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                                                         </Grid>
-                                                                        <Grid item xs={6} sm={3} lg={5}>
-                                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-swedish.pdf" className="thm-btn"  >installationsguide</a>
+                                                                        <Grid item xs={6} sm={3} lg={6}>
+                                                                            <a target="_blank" href="/pdfs/classic-deck-german.pdf" className="thm-btn"  >Installationsanleitung</a>
                                                                         </Grid>
-                                                                        <Grid item xs={8} sm={6} lg={6}>
-                                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-SWEDISH-aluminim-trim.pdf" className="thm-btn" >installation av aluminium</a>
-                                                                        </Grid>
+                                                                        {/* <Grid item xs={8} sm={6} lg={8}>
+                                                                            <a target="_blank" href="/pdfs/smart-Marine.pdf" className="thm-btn" >Aluminiuminstallation</a>
+                                                                        </Grid> */}
                                                                     </Grid>
                                                                 </div>
                                                             </div>
@@ -149,7 +153,7 @@ const classicTeak = () => {
                                                 {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                                                 <div className="col-12 mb-80">
-                                                    <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                                                    <h3>SEHEN SIE DIE FARBTRENDS AN – mit natürlichem und unverwechselbarem Charakter verwurzelt</h3>
                                                     <hr />
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={6} sm={2}>
@@ -217,35 +221,36 @@ const classicTeak = () => {
                                                 <div className="col-lg-12 mb-80">
                                                     <div className="project-gallery-wrapper">
                                                         <div className="row">
-                                                            <div className="col-md-6 col-mobile-6 mb-30 mt-20 pl-30 pl-sm-15 pl-xs-15">
+                                                            <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-30 mt-20"><strong>Produktinformation</strong></h2>
-                                                                    <h3>Färgval</h3>
+                                                                    <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
+                                                                    <h3>Farbauswahl</h3>
                                                                     <p>
-                                                                        Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                                                        Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                                                     </p>
-                                                                    <h3>Naturlig skönhet</h3>
+                                                                    <h3>Natürliche Schönheit</h3>
                                                                     <p>
-                                                                        Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                                                    <h3>Behåll skönheten</h3>
+                                                                        Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                                                    <h3>Erhalten Sie die Schönheit</h3>
                                                                     <p>
-                                                                        Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                                                        Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                                                                 </div>
                                                             </div>
-                                                            <div className="col-md-6 col-mobile-6 mb-30 mt-20 pl-30 pl-sm-15 pl-xs-15">
+                                                            <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                                                 <div className="project-details">
-                                                                    <h2 className="mb-30 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
-
-                                                                    <strong>1. </strong>Installerad med HidLoc™ dolda fästelement för att skapa enhetlig yta, vilket gör det säkrare och mer bekvämt för familjer med barn och husdjur.<br />
-                                                                    <strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som inbjuder dig att koppla av och njuta av ditt personliga tropiska paradis.<br />
-                                                                    <strong>3. </strong>Utmärkande inlay design, stil och färgalternativ<br />
-                                                                    <strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs<br />
-                                                                    <strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger<br />
-                                                                    <strong>6. </strong>Hög glidmotstånd ger en säker yta, även i våta förhållanden<br />
-                                                                    <strong>7. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.<br />
-                                                                    <strong>8. </strong>Fri från giftiga tillsatser<br />
-                                                                    <strong>9. </strong>Lämplig för privat sektor<br />
-
+                                                                    <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
+                                                                    <ul>
+                                                                        <li><strong>1. </strong>Mit HidLoc™ verdeckte Befestigungselemente installiert für eine gleichmäßige Oberfläche, die es für Familien mit Kindern und Haustieren sicherer und komfortabler macht.</li>
+                                                                        <li><strong>2. </strong>Die mehrfarbigen Streifen auf jedem Brett erzeugen ein authentisches Masernmuster und laden Sie ein, sich zu entspannen und Ihr persönliches tropisches Paradies zu genießen.</li>
+                                                                        <li><strong>3. </strong>Markantes Inlay-Design, Stil und Farboptionen</li>
+                                                                        <li><strong>4. </strong>Kein jährliches Streichen, Versiegelung oder Lackierung erforderlich</li>
+                                                                        <li><strong>5. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen</li>
+                                                                        <li><strong>6. </strong>Hohe Rutschfestigkeit sorgt für eine sichere Oberfläche, auch bei Nässe</li>
+                                                                        <li><strong>7. </strong>Extrem geringe Wasseraufnahme</li>
+                                                                        <li><strong>8. </strong>Frei von giftigen Zusätzen</li>
+                                                                        <li><strong>9. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
+                                                                        <li><strong>10. </strong>Splittert, spaltet, verfault oder kriegt nicht</li>
+                                                                    </ul>
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -255,16 +260,16 @@ const classicTeak = () => {
 
                                                 {/*====================  Star Smart Classic Section-5 content ====================*/}
                                                 <div className="col-12 mb-80">
-                                                    <h3>TILLBEHÖR</h3>
+                                                    <h3>Terrassendielen-Zubehör</h3>
                                                     <hr />
-                                                    <p className="mb-30">Green Plank SMART ™ -täcknings tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i ditt SMART ™ -trall som förbättrar både dess skönhet och funktionalitet. Från F-trim och L-trim till stige rörelser, ventilerade aluminium lister, trall pedaler, balk, etc., här är alla trall delar du behöver för att slutföra ditt SMART ™ trall projekt.</p>
+                                                    <p className="mb-40">Das Green Plank MARINE CAP™-Zubehör für Terrassendielen erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihr MARINE CAP™-Terrassendielen integrieren, die sowohl seine Schönheit als auch seine Funktionalität verbessern. Von F-Borten und L-Borten bis hin zu Riser-Brettern, belüfteten Aluminium-Borten, Decksockeln, Unterzügen usw. finden Sie hier alle Deckteile, die Sie benötigen, um Ihr MARINE CAP™-Deckprojekt abzuschließen.</p>
 
                                                     <Grid container spacing={3}>
-                                                        <Grid item xs={12} sm={5}>
-                                                            <iframe width="360" height="315" src="https://www.youtube.com/embed/SO9_1Pm42Rw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                        <Grid item xs={12} sm={4}>
+                                                            <iframe width="360" height="315" src="https://www.youtube.com/embed/sYQVb4_tHoA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                         </Grid>
-                                                        <Grid item xs={12} sm={5}>
-                                                            <iframe width="360" height="315" src="https://www.youtube.com/embed/u5aosoMYRt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                                        <Grid item xs={12} sm={4}>
+                                                            <iframe width="360" height="315" src="https://www.youtube.com/embed/oSyrH7w1qA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                         </Grid>
                                                         <Grid item xs={12} sm={4}>
                                                         </Grid>
@@ -280,30 +285,30 @@ const classicTeak = () => {
 
                                                     <Grid container spacing={3}>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf" target="_blank">
+                                                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                                                                 <img src={pdfimg1} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-swedish.pdf">
+                                                            <a target="_blank" href="/pdfs/classic-deck-german.pdf">
                                                                 <img src={pdfimg2} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Composite-Decking-hollow-boards-Installation-Guide-2019.pdf">
+                                                            <a target="_blank" href="/pdfs/greenplank-wpc-nfc-terrassendielen-Installationsanleitung.pdf">
                                                                 <img src={pdfimg3} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
                                                         <Grid item xs={6} sm={2}>
-                                                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/classic-deck-SWEDISH-aluminim-trim.pdf">
+                                                            <a target="_blank" href="/pdfs/classic-deck-GERMAN-aluminim-trim.pdf">
                                                                 <img src={pdfimg4} className="img-fluid" alt="" />
                                                             </a>
                                                         </Grid>
-                                                        {/* <Grid item xs={6} sm={2}>
-                                            <a href="assets/pdfs/Datablad-Smart-Decking.pdf">
-                                                <img src="assets/img/projects/greenplank-tds-composite-technical-data-sheet-1.jpg" className="img-fluid" alt="" />
-                                            </a>
-                                        </Grid> */}
+                                                        <Grid item xs={6} sm={2}>
+                                                            <a target="_blank" href="/pdfs/datenblatt-classic-terrassendiele-wpc-bpc-greenplank.pdf">
+                                                                <img src={pdfimg5} className="img-fluid" alt="" />
+                                                            </a>
+                                                        </Grid>
                                                         <Grid item xs={6} sm={2}>
 
                                                         </Grid>

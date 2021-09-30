@@ -16,7 +16,7 @@ import Icon8 from "../../assets/images/backgrounds/alll-icons-08.png";
 const VideoCard = () => {
     const [isOpen, setOpen] = useState(false);
     return (
-        <section className="about-two pt-120 pb-120">
+        <section className="about-two pt-70 pb-40">
 
             <Container>
                 <Row>

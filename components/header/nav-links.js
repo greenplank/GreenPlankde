@@ -14,22 +14,22 @@ const NavLinks = ({ extraClassName }) => {
         </Link>
       </li>
       <li>
-        <Link href="/om-oss">
+        <Link href="/uber-uns">
           <a>Über uns</a>
         </Link>
       </li>
       <li>
-        <Link href="/galleri">
+        <Link href="/galerie">
           <a>Galerie</a>
         </Link>
       </li>
       <li>
-        <Link href="/aterfarsaljare">
+        <Link href="/groshandler">
           <a>Großhändler</a>
         </Link>
       </li>
       <li>
-        <Link href="/hitta-hantverkare">
+        <Link href="/monteur-finden">
           <a>Monteur finden</a>
         </Link>
       </li>
@@ -50,7 +50,7 @@ const NavLinks = ({ extraClassName }) => {
           <li className="dropdown">
             <Link href="#">
               <>
-              <Link href="/komposittrall">
+              <Link href="/terrassendielen">
                 <a>Terrassendielen</a>
                 </Link>
                 <button
@@ -63,32 +63,32 @@ const NavLinks = ({ extraClassName }) => {
             </Link>
             <ul className="dropdown-list">
               <li>
-                <Link href="/smart-komposittrall">
+                <Link href="/smart-terrassendielen">
                   <a>Smart Terrassendielen</a>
                 </Link>
               </li>
               <li>
-                <Link href="/marine-komposittrall">
+                <Link href="/marine-terrassendielen">
                   <a>Marine Terrassendielen</a>
                 </Link>
               </li>
               <li>
-                <Link href="/entra-trall">
+                <Link href="/entra-terrassendielen">
                   <a>Entra Terrassendielen</a>
                 </Link>
               </li>
               <li>
-                <Link href="/classic-komposittrall">
+                <Link href="/classic-terrassendielen">
                   <a>Classic Terrassendielen</a>
                 </Link>
               </li>
               <li>
-                <Link href="/tillbehor-till-komposittrall">
+                <Link href="/wpc-terrassendielen-zubehor">
                   <a>WPC Terrassendielen-Zubehör</a>
                 </Link>
               </li>
               <li>
-                <Link href="/everdeck-komposittrall">
+                <Link href="/everdeck-terrassendielen">
                   <a>EVERDECK™ Terrassendielen</a>
                 </Link>
               </li>

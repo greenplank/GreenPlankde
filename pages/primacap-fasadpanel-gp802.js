@@ -26,14 +26,14 @@ const fasadpanelgp802 = () => {
   return (
     <>
       <Head>
-        <title>PRIMACAP™ Fasadpanel – GP802</title>
-        <meta name="title" content="PRIMACAP™ Fasadpanel – GP802 - GreenPlank.se" />
+        <title>PRIMA CAP™ Premium Fassadenverkleidung – GP802</title>
+        <meta name="title" content="PRIMA CAP™ Premium Fassadenverkleidung – GP802 - GreenPlank.se" />
         <meta name="description" content="Komposit fasadpanel GP802. Denna lätta, brandhämmande, supertåliga kompositpanel med låg underhåll, är belagd med en revolutionerande ASA-mantel." />
       </Head>
-      <Layout pageTitle="primacap-fasadpanel-gp802">
+      <Layout pageTitle="PRIMA CAP™ Premium Fassadenverkleidung – GP802">
         <HeaderTwo />
         <StickyHeader />
-        <PageHeader title="primacap-fasadpanel-gp802" crumbTitle="gp802" />
+        <PageHeader title="PRIMA CAP™ Premium Fassadenverkleidung – GP802" crumbTitle="gp802" />
         <section className="blog-details pt-120 pb-40">
           <Container>
             <Row>
@@ -47,27 +47,27 @@ const fasadpanelgp802 = () => {
                         {/*====================  Star Smart Classic Section-1 content ====================*/}
                         <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                           <div className="project-details">
-                            <h2>PRIMA CAP™ Fasadpanel av Komposit – GP802</h2>
-                            <strong>det är innovationen bakom skönheten med utmärkt färghållning</strong>
+                            <h2>PRIMA CAP™ Premium Fassadenverkleidung – GP802</h2>
+                            <strong>Es ist die Innovation hinter der Schönheit mit ausgezeichneter Farbbeständigkeit Farbbeständigkeit</strong>
                             <div class="et_pb_text_inner">
                               <div class="ce_text block">
 
-                                <strong>PRIMA CAP™ Fasadpanel av komposit är ett innovativt fasadesystem som är speciellt utformat för att användas som ett integrerat system för att skydda ditt hems exteriör och kommer med 25-årig ingen blekning och rotgaranti. Denna lätta, låga underhåll, brandskyddande, supertåliga komposit fasadbeklädnads panel är belagd med revolutionerande ASA-kapstock utan blekning för att motstå extrema temperaturer, tung fuktighet, frys / tö och allt däremellan.</strong>
+                                <strong>PRIMA CAP™ Composite Facade Cladding System ist ein innovatives Fassadensystem, das speziell als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde und mit einer 25-jährigen Garantie gegen Verblassen und Verrotten ausgestattet ist. Diese leichte, wartungsarme, feuerhemmende und äußerst haltbare Fassadenverkleidung aus Verbundwerkstoff ist mit einer revolutionären, lichtechten ASA-Kappe beschichtet, die extremen Temperaturen, hoher Luftfeuchtigkeit, Gefrieren / Auftauen und allem dazwischen standhält.</strong>
                                 <p>
-                                  Green Plank PRIMA CAP™ -kompositpanel är konstgjord för att se ut som äkta trä utan krav på oljning, målning eller tätning. PRIMA CAP™ erbjuder oöverträffad skönhet, jämn kvalitet, dimensionell stabilitet, naturligt träkornsmönster, blekningsbeständiga lyxfärger, tidslös look och är det perfekta valet för husägare som söker värde med fördelarna med en premiumpanel.
+                                PRIMA CAP™ Composite Facade Cladding System ist ein innovatives Fassadensystem, das speziell als integriertes System zum Schutz des Äußeren Ihres Hauses entwickelt wurde und mit einer 25-jährigen Garantie gegen Verblassen und Verrotten ausgestattet ist. Diese leichte, wartungsarme, feuerhemmende und äußerst haltbare Fassadenverkleidung aus Verbundwerkstoff ist mit einer revolutionären, lichtechten ASA-Kappe beschichtet, die extremen Temperaturen, hoher Luftfeuchtigkeit, Gefrieren / Auftauen und allem dazwischen standhält.
                                 </p>
                                 <p>
-                                  PRIMA CAP – GP802 Fasadpanel paneler installeras normalt antingen i horisontell eller vertikal riktning utan några klämmor och fästs på stöden med skruvar genom de förtillverkade långa fästhålen.
+                                PRIMA CAP™ GP802-Verbundfassadenplatten werden normalerweise in horizontaler oder vertikaler Richtung ohne Clips installiert und mit Schrauben durch die vorgefertigten langen Befestigungslöcher an den Trägern befestigt.
                                 </p>
                                 <div>
-                                  <ul>
-                                    <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                    <li><strong>Långvarig</strong> –  NOVOCLAD™ Den komposit fasadprofilen är långvarig och tål väder, slitage, UV-solljus och insekter.</li>
-                                    <li><strong>Inga klips </strong>– Du behöver inga klips för att montera vår PrimaCap™ Komposit med Not och Spont.</li>
-                                    <li><strong>Brandbeständig</strong>– PRIMA CAP™ -kompositfasad är brandbeständig på grund av användning av icke brandfarliga material i kompositionen.</li>
-                                    <li><strong>Enkel installation</strong>– Installation av vår kompositfasad är också enkel, plankan klickar enkelt på plats utan oro över jämnt avstånd mellan brädorna.</li>
-                                    <li><strong>Förfabrikerade hål </strong>– Våra Not och Spont Komposittrall kommer med förfabrikerade hål, så att du enkelt och enkelt kan säkra plankorna på plats utan risken för att växla eller förflytta dig så att du får en smidig, skruvfri finish</li>
-                                    <li><strong>Komplimerande tillbehör</strong>– En serie av lister i matchande färger i NOVOCLAD™ -profilerna gör att din fasad är lätt att avsluta. Profilerna kan installeras snabbt och säkerställa en fin kantfinish.</li>
+                                <ul>
+                                    <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                    <li><strong>Lange andauernd</strong> –   Die PRIMA CAP™ Verbundfassade ist langlebig und widersteht dem Wetter, Verschleiß, UV-Sonnenlicht und Insekten.</li>
+                                    <li><strong>Keine Clips </strong>– Sie benötigen keine Befestigungsklammern, um unsere Verbundfassadenplatte mit Nut und Feder zu montieren.</li>
+                                    <li><strong>Feuerresistent </strong>– PRIMA CAP™-Verbundfassade ist aufgrund der Verwendung von nicht brennbaren Materialien in der Zusammensetzung feuerfest.</li>
+                                    <li><strong>Erleichterte Installation</strong>– Die Installation unserer Verbundfassade ist ebenfalls einfach, die Platte lässt sich leicht einrasten, ohne auf gleichmäßige Abstände zwischen den Platten achten zu müssen.</li>
+                                    <li><strong>Vorgefertigte Löcher </strong>– Unsere Nut- und Feder-Verbundfassade wird mit vorgefertigten Löchern geliefert, sodass Sie die Bretter einfach und problemlos an ihrem Platz befestigen können, ohne dass die Gefahr einer Verschiebung oder Bewegung besteht.</li>
+                                    <li><strong>Ergänzendes Zubehör</strong>– Eine Reihe farblich abgestimmter Zierprofile der PRIMA CAP™-Platte macht das Veredeln Ihrer Fassade zum Kinderspiel. Die Profile lassen sich schnell montieren und sorgen für ein sauberes Kantenfinish.</li>
                                   </ul>
                                 </div>
                               </div>
@@ -94,27 +94,27 @@ const fasadpanelgp802 = () => {
                                   <table width="100%">
                                     <tbody>
                                       <tr>
-                                        <td align="left"><strong>Yta:</strong></td>
-                                        <td align="left">  	Skyddande, Matt yta med låg glans.</td>
+                                        <td align="left"><strong>Oberfläche:</strong></td>
+                                        <td align="left">Schützende, matt glänzende Oberfläche</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Storlek:</strong></td>
+                                        <td align="left"><strong>Größe:</strong></td>
                                         <td align="left"> ca. 10 * 149 mm</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Längd:</strong></td>
+                                        <td align="left"><strong>Länge:</strong></td>
                                         <td align="left">ca. 2.9 m</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Åtgång:</strong></td>
-                                        <td align="left"> ca. 8.00 meter för 1 m²</td>
+                                        <td align="left"><strong>Bedarf:</strong></td>
+                                        <td align="left"> Ca. 8,00 Meter für 1 m²</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Vikt:</strong></td>
+                                        <td align="left"><strong>Gewicht:</strong></td>
                                         <td align="left">ca. 8.91 kg / m²</td>
                                       </tr>
                                       <tr>
-                                        <td align="left"><strong>Regelavstånd:</strong></td>
+                                        <td align="left"><strong>Stützweite:</strong></td>
                                         <td align="left">45 cm c/c för bostadsapplikationer</td>
                                       </tr>
                                     </tbody>
@@ -133,7 +133,7 @@ const fasadpanelgp802 = () => {
 
                                   <Grid container spacing={3}>
                                     <Grid item xs={6} sm={4} lg={6}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                     </Grid>
                                   </Grid>
                                 </div>
@@ -147,7 +147,7 @@ const fasadpanelgp802 = () => {
                         {/*====================  Star Smart Classic Section-3 content  ====================*/}
 
                         <div className="col-12 mb-80">
-                          <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                          <h3>SEHEN SIE DIE FARBTRENDS AN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                           <hr />
                           <Grid container spacing={3}>
                             <Grid item xs={6} sm={2}>
@@ -168,34 +168,32 @@ const fasadpanelgp802 = () => {
                               <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                 <div className="project-details">
                                   <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                  <h3>Färgval</h3>
+                                  <h3>Farbauswahl</h3>
                                   <p>
-                                    Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                    Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                   </p>
-                                  <h3>Naturlig skönhet</h3>
+                                  <h3>Natürliche Schönheit</h3>
                                   <p>
-                                    Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                  <h3>Behåll skönheten</h3>
+                                    Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                  <h3>Erhalten Sie die Schönheit</h3>
                                   <p>
-                                    Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                    Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                                 </div>
                               </div>
                               <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                                 <div className="project-details">
-                                  <h2 className="mb-40 mt-20"><strong>PÅLITLIG HÅLLBARHET, LEVERANSKVALITET</strong></h2>
+                                  <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
                                   <ul>
-                                    <li><strong>1. </strong>25 års garanti för fläck- och blekningsmotstånd</li>
-                                    <li><strong>2. </strong>Endast fasadbeklädnadspanel med ASA-lock</li>
-                                    <li><strong>3. </strong>Utmärkande inlay design, stil och färgalternativ</li>
-                                    <li><strong>4. </strong>Beklädnad för ventilerade fasader</li>
-                                    <li><strong>5. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                    <li><strong>6. </strong>Exceptionell motståndskraft mot UV-ljus och skyddande beläggning innebär minimal färg blekning över tid</li>
-                                    <li><strong>7. </strong>Används för nya eller ersättande fasadpanel projekt</li>
-                                    <li><strong>8. </strong>Inga fixeringsklipp krävs</li>
-                                    <li><strong>9. </strong>Fri från giftiga tillsatser</li>
-                                    <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
-                                    <li><strong>11. </strong>Upp till 60% snabbare installation</li>
-                                    <li><strong>12. </strong>Kan installeras vertikalt eller horisontellt</li>
+                                    <li><strong>1. </strong>25 Jahre Garantie auf Flecken- und Lichtbeständigkeit</li>
+                                    <li><strong>2. </strong>Nur Fassadenverkleidung mit ASA-Kappe</li>
+                                    <li><strong>3. </strong>Markantes Inlay-Design, Stil und Farboptionen</li>
+                                    <li><strong>4. </strong>Verkleidung für hinterlüftete Fassaden</li>
+                                    <li><strong>5. </strong>Keine jährliche Färbung, Versiegelung oder Lackierung erforderlich</li>
+                                    <li><strong>6. </strong>Außergewöhnliche UV-Beständigkeit und Schutzbeschichtung sorgen für ein minimales Verblassen der Farbe im Laufe der Zeit</li>
+                                    <li><strong>7. </strong>Wird für neue oder Ersatzfassadenverkleidungsprojekte verwendet</li>
+                                    <li><strong>8. </strong>Keine Befestigungsklammern erforderlich</li>
+                                    <li><strong>9. </strong>Frei von giftigen Zusätzen</li>
+                                    <li><strong>10. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
                                   </ul>
                                 </div>
                               </div>
@@ -206,10 +204,9 @@ const fasadpanelgp802 = () => {
 
                         {/*====================  Star Smart Classic Section-5 content ====================*/}
                         <div className="col-12 mb-80">
-                          <h3>Fasadpanel tillbehör</h3>
+                          <h3>Fassadenbekleidungszubehör</h3>
                           <hr />
-                          <p className="mb-40">Green Plank PRIMA CAP™ Kompositfasad tillbehör utvidgar dina horisonter ytterligare, så att du kan bygga ut distinkta och förtjusande funktioner i din fasad som förbättrar både skönhet och funktionalitet. Från kantlister till startande aluminiumstartlister, expansionsklipp, etc., här är alla fasadtillbehör du behöver för att slutföra ditt PRIMA CAP™ fasadpanel projekt.</p>
-
+                          <p className="mb-40">Das Fassadenzubehör PRIMA CAP ™ aus Verbundwerkstoff von Green Plank erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihre Fassade integrieren, die sowohl ihre Schönheit als auch ihre Funktionalität verbessern. Hier finden Sie alles Zubehör für die Fassadenverkleidung PRIMA CAP ™, von Kantenverkleidungen bis hin zu Einstiegsverkleidungen aus Aluminium, Dehnungsverkleidungen usw.</p>
                           <Grid container spacing={3}>
                             <Grid item xs={12} sm={4}>
                               <iframe width="360" height="315" src="https://www.youtube.com/embed/YswcUeBvhg4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -231,15 +228,17 @@ const fasadpanelgp802 = () => {
 
                           <Grid container spacing={3}>
                             <Grid item xs={6} sm={2}>
-                              <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                              <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                                 <img src={pdfimg1} className="img-fluid" alt="" />
                               </a>
                             </Grid>
+
                             <Grid item xs={6} sm={2}>
-                              <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Primacap-Installeringsanvisning.pdf">
+                              <a target="_blank" href="/pdfs/green-plank-primacap-facade-cladding-installation-guide-2019.pdf">
                                 <img src={pdfimg3} className="img-fluid" alt="" />
                               </a>
                             </Grid>
+
                             <Grid item xs={6} sm={2}>
 
                             </Grid>

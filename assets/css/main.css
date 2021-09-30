@@ -323,7 +323,9 @@
   line-height: 1;
   margin-bottom: 15px;
 }
-
+.logo-box img {
+  width: 201px;
+}
 .video-card .container p img {
   margin-right: 10px;
 }
@@ -1855,6 +1857,31 @@ h6 {
   }
 }
 
+
+@media only screen and (max-width: 1311px) and (min-width: 1244px)  {
+  #hero-banner{
+    padding: 5em 2em 3em 4em !important;
+  }
+  }
+  
+  @media only screen and (max-width: 1244px) and (min-width: 1200px)  {
+    #hero-banner{
+      padding: 5em 2em 3em 4em !important;
+    }
+    }
+    @media only screen and (max-width: 1200px) and (min-width: 1020px)  {
+      #hero-banner{
+        padding: 1em 2em 2em 4em !important;
+      }
+      }
+      @media only screen and (max-width: 1020px) and (min-width: 992px)  {
+        #hero-banner{
+          padding: 0.3em 2em 0em 4em !important;
+          margin-bottom: 28px;
+        }
+        }
+  
+
 .thm-btn {
   display: inline-block;
   vertical-align: middle;
@@ -1872,6 +1899,15 @@ h6 {
   color: #fff;
   border-bottom-left-radius: 0px;
   border-top-left-radius: 0px;
+}
+.thm-btn2{
+  font-size: 10px !important;
+  padding: 3px 6px !important;
+}
+
+.thm-btn3{
+  font-size: 13px !important;
+  padding: 14px 39.5px;
 }
 
 .thm-btn:hover {
@@ -7169,7 +7205,7 @@ h6 {
 
 .service-two__box {
   margin-bottom: 34px;
-  min-height: 460px;
+  min-height: 290px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;

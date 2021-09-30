@@ -19,10 +19,10 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp729 = () => {
   return (
-    <Layout pageTitle="naturplank-bred-kompositplanka-gp729-20305mm">
+    <Layout pageTitle="NATURPLANK™ Bretter-gp729-20305mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturplank-bred-kompositplanka-gp729-20305mm" crumbTitle="gp729" />
+      <PageHeader title="NATURPLANK™ Bretter-gp729-20305mm" crumbTitle="gp729" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -37,27 +37,26 @@ const naturplankkompositplankagp729 = () => {
                       <div className="col-lg-12 col-12 section-space--bottom--80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURPLANK™ Kompositplank – GP729 – det gröna alternativet</h2>
-                          <strong>hållbart träalternativ med oändliga kreativa och designmöjligheter – PVC-fri!</strong>
+                            NATURPLANK™ Bretter – GP729 – Die grüne Alternative</h2>
+                          <strong>Nachhaltige Holzalternative mit unendlichen Gestaltungsmöglichkeiten – PVC frei!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiska och mycket praktisk med en tidlös kvalitet NATURPLANK ™ komposit plankor är ett idealiskt val av landskapsarkitekter och byggare för att maximera livslängden för elementen i landskapet.</strong>
+                              <strong>Schön realistisch und äußerst praktisch mit einer zeitlosen Qualität NATURPLANK ™ Bretter sind eine ideale Wahl für Landschaftsarchitekten und Bauherren, um die Lebensdauer der Elemente in der Landschaft zu maximieren.</strong>
                               <p>
-                                Green Plank NATURPLANK ™ högpresterande naturfibrer marina klassiska Kompositplank GP729 är idealiska för olika exteriörstillämpningar som ljudbarriärer för vägbanor, utomhusskärmar, uteplatser, däck och trädgårdsmöbler, parkbänkar, bord, pergola, förvaring och kustapplikationer.
+                                Green Plank NATURPLANK ™ Hochleistungs-Naturfaser-Verbundplatten in Marinequalität GP729 eignen sich ideal für verschiedene Anwendungen im Außenbereich wie Schallschutzwände für Straßen, Sichtschutzwände im Freien, Terrassen-, Terrassen- und Gartenmöbel, Parkbänke, Tische, Pergola, Lagerung und Küstenanwendungen.
                               </p>
                               <p>
-                                Också känd som WPC, trä-plast-komposit, naturfibrer komposit eller komposit, är denna supertåliga komposittavla, som uteslutande distribueras av Green Plank, består av naturliga trä- / risskalfiber och polymerer (återvunnen plast) för att få en komposit med större styrka och hållbarhet än traditionellt trä. Detta ger det utmärkta motståndet mot sol, frost, regn och plötsliga temperaturförändringar.
+                                Diese extrem haltbare Verbundplatte, die ausschließlich von Green Plank vertrieben wird und auch als WPC, Holz-Kunststoff-Verbund, Naturfaser-Verbund oder Verbund bezeichnet wird, besteht aus natürlichen Holz- / Reisschalenfasern und Polymeren (recycelte Kunststoffe), um einen Verbund zu erhalten mit größerer Festigkeit und Haltbarkeit als herkömmliches Holz. Dies verleiht ihm eine hervorragende Beständigkeit gegen Sonne, Frost, Regen und plötzliche Temperaturschwankungen.
                               </p>
                               <p>
-                                Precis som äkta träskivor kan våra NATURPLANK ™ fyrkantiga GP729-komposit breda skivor slipas eller sågas till vilken önskad form som helst utan att tappa kompositskivans verkliga träeffekt.
+                                Genau wie echte Holzbretter können unsere NATURPLANK ™ -Viereck-GP729-Verbund-Breitbretter in jede gewünschte Form geschliffen oder gesägt werden, ohne dass das Echtholz-Effekt-Erscheinungsbild der Verbundplatte verloren geht.
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
-                                  <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig teakträ design.</li>
-                                  <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för marina väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                  <li><strong>Premium-Qualität</strong> –  Bewährte nordische Qualitätsdielen für raues Wetter und umweltbewusstes Wohnen.</li>
+                                  <li><strong>Praktisch </strong> –  Perfekte Kombination aus Ästhetik und Funktionalität mit einem natürlichen Holz-Look.</li>
+                                  <li><strong>Außergewöhnlich wartungsarm</strong> –  Ideal für nordische Wetterbedingungen mit minimalem Verblassen, langer Lebensdauer und minimaler Wartung.</li>
                                 </ul>
                               </div>
                             </div>
@@ -80,28 +79,28 @@ const naturplankkompositplankagp729 = () => {
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt Information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> halkmotståndig slät yta, slående
-                                        utseende efterliknar exotiska, tropiska lövträ; vändbara brädor</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left"> Rutschhemmende, glatte Oberfläche, auffällige Optik, die
+                                        exotische tropische Harthölzer nachahmt; Wendebretter</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Abmessungen:</strong></td>
                                       <td align="left">	ca. 20 * 305 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 8.20 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Regelavstånd:</strong></td>
+                                      <td align="left"><strong>Balkenspannung:</strong></td>
                                       <td align="left">40 cm c/c för kommersiell användning</td>
                                     </tr>
                                   </tbody>
@@ -111,7 +110,7 @@ const naturplankkompositplankagp729 = () => {
                               <div className="row mt-60">
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={4} lg={6}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -130,12 +129,12 @@ const naturplankkompositplankagp729 = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-marine-composite-decking-brochure-en.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Kompositbrador-Installeringsanvisning.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-naturplank-boards-installation-guide-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>

@@ -4,7 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import causeImage from "../assets/images/resources/1.webp";
 const FeaturedCause = () => {
   return (
-    <section className="about-two pt-120 pb-120 featured-cause"> 
+    <section className="about-two pt-80 pb-80 featured-cause"> 
       <Container>
         <div className="inner-container background-secondary ">
           <Row>

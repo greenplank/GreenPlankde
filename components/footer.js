@@ -17,7 +17,7 @@ const Footer = () => {
                 <h3 className="footer-widget__title">KUNDTJÄNST</h3>
                 <ul className="list-unstyled" >
                   <li>
-                    <Link href="/aterfarsaljare" >
+                    <Link href="/groshandler" >
                       <a style={{color:"white"}}>Händler</a>
                     </Link>
                   </li>
@@ -50,7 +50,7 @@ const Footer = () => {
                 <h3 className="footer-widget__title">Företagsinformation</h3>
                 <ul className="list-unstyled" >
                   <li>
-                    <Link href="/om-oss" >
+                    <Link href="/uber-uns" >
                       <a style={{color:"white"}}>Über uns</a>
                     </Link>
                   </li>

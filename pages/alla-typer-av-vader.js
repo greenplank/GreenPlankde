@@ -12,13 +12,13 @@ const AllaTyperVader = () => {
   return (
     <>
       <Head>
-        <title>Alla typer av väder - GreenPlank.se</title>
+        <title>Alle Arten von Wetter</title>
         <meta name="title" content="Alla typer av väder - GreenPlank.se" />
         <meta name="description" content="Ge oss en chans att vara ditt favoritmärke; Eftersom Green Plank är ett hållbart varumärke för byggprodukter som representerar kvalitet, expertis och" />
       </Head>
-      <Layout pageTitle="Alla typer av väder - GreenPlank.se">
+      <Layout pageTitle="Alle Arten von Wetter">
         <HeaderTwo />
-        <PageHeader title="Alla-typer-av-vader" crumbTitle="alla-typer-av-vader" />
+        <PageHeader title="Alle Arten von Wetter" crumbTitle="Alle Arten von Wetter" />
         <StickyHeader />
         <AllaTyperVaders />
         <BrandCarousel />

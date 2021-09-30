@@ -32,10 +32,10 @@ import Footer from "../components/footer";
 
 const kompositstaketprivate = () => {
   return (
-    <Layout pageTitle="komposit-staket-private">
+    <Layout pageTitle="NOVOFENCE™ WPC zaun & Sichtschutz – Private™">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="Komposit-staket-private" crumbTitle="komposit-staket-private" />
+      <PageHeader title="NOVOFENCE™ WPC zaun & Sichtschutz – Private™" crumbTitle="NOVOFENCE™– Private™" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -49,26 +49,26 @@ const kompositstaketprivate = () => {
                       {/*====================  Star Staket Private Section-1 content ================*/}
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
-                          <h2>NOVOFENCE ™ Komposit staket – Private™</h2>
-                          <strong>bra grannstaket med stil och styrka – PVC-fri!</strong>
+                          <h2>NOVOFENCE™ WPC zaun & Sichtschutz – Private™</h2>
+                          <strong>Guter Nachbarzaun mit Stil und Stärke – PVC frei!</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Ett enkelt att bygga utan underhåll, högkvalitativt, anpassat modernt staket som dramatiskt kommer att förbättra skönheten i din egendom och vara avundsjuka för dina grannar.</strong>
+                              <strong>Ein einfach zu bauender, wartungsfreier, hochwertiger, zeitgemäßer Zaun, der die Schönheit Ihres Eigentums dramatisch verbessert und die Neid der Nachbarn auf sich zieht.</strong>
                               <p>
-                                Om du letar efter ett högpresterande och vackert integritetsstaket kan den här naturliga designen för integritetsstaket vara för dig. Board-on-board med Not och Spont design och aluminiumstyrka garanterar massor av avskildhet och sinnesfrid för dig. Detta staket skulle se bra ut på nästan alla fastigheter, eftersom det är vackert och annorlunda.
+                                Wenn Sie auf der Suche nach einem leistungsstarken und schönen Sichtschutzzaun sind, ist dieser natürlich wirkende Sichtschutzzaun möglicherweise das Richtige für Sie. Das Board-on-Board mit Nut & Feder-Design und der Stärke von Aluminium bietet Ihnen viel Privatsphäre und Seelenfrieden. Dieser Zaun würde auf fast jedem Grundstück toll aussehen, da er wunderschön und anders ist
                               </p>
                               <p>
-                                Private™ ett horisontellt avskärmande staket runt din pool eller annan trädgård skapar en säkrare omkrets för att blockera vandrande ögon och hålla dina barn och husdjur trygga och säkra i på din egendom.
+                                Privat™ Ein horizontaler Sichtschutzzaun um Ihren Pool oder einen anderen Hinterhof bildet einen sichereren Rahmen, um umherirrende Augen zu blockieren und Ihre Kinder und pelzigen Freunde in Ihrem Eigentum zu schützen.
                               </p>
                               <p>
-                                Private™ Komposit staket är ett toppval bland husägarföreningar i nyare stadsdelar. Det är ett kostnadseffektivt alternativ eftersom det är enkelt att underhålla – ingen målning, färgning eller tätning krävs.
+                                In neueren Stadtvierteln ist der Privat™ Verbundzaun die erste Wahl unter den Eigenheimbesitzerverbänden. Es ist eine kostengünstige Option, da es leicht zu warten ist und keine Lackierung, Beizung oder Versiegelung erforderlich ist.
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> – Beprövad nordisk kvalitet för hårt väder och grönare levande.</li>
-                                  <li><strong>Lågt underhåll</strong> –   Med tiden kräver Green Plank staket mindre underhåll och produktersättning än trä eller vinyl.</li>
-                                  <li><strong>Aluminiumstolpar och skenor </strong>–  Högkvalitativ, låg underhållsstark ram av pulverlackerade aluminiumstolpar och horisontella skenor.</li>
+                                  <li><strong>Premium Qualität</strong> – Bewährte Terrassendielen in nordischer Qualität für raues Wetter und ein umweltfreundlicheres Leben.</li>
+                                  <li><strong>Geringer Wartungsaufwand</strong> –  Im Laufe der Zeit erfordert der Green Plank-Zaun weniger Wartung und Produktaustausch als Holz oder Vinyl.</li>
+                                  <li><strong>Aluminiumpfosten und Schienen </strong>–  Hochwertiger, wartungsarmer stabiler Rahmen aus pulverbeschichteten Aluminiumpfosten und horizontalen Schienen.</li>
                                 </ul>
                               </div>
                             </div>
@@ -95,28 +95,28 @@ const kompositstaketprivate = () => {
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> 	Slät borstad yta med trätonade och lyxiga brokiga färger</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left"> Glatt gebürstet mit holzfarbenen und luxuriösen bunten Farben</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Größe:</strong></td>
                                       <td align="left">ca. 19 * 158 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 1.8 m,   3.6 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Åtgång:</strong></td>
-                                      <td align="left">12 brädor (1.8 m långa) används for 1.8 m²</td>
+                                      <td align="left"><strong>Bedarf:</strong></td>
+                                      <td align="left">12 Bretter (1,8 m lang) für 1,8 m²</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 2.66 kg / m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Stolpavstånd:</strong></td>
-                                      <td align="left">180 cm c/c för bostadsapplikationer</td>
+                                      <td align="left"><strong>Post Span:</strong></td>
+                                      <td align="left">	180 cm c / c für Wohnanwendungen *</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -134,9 +134,9 @@ const kompositstaketprivate = () => {
 
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={3} lg={6}>
-                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
-                             
+
                                 </Grid>
                               </div>
                             </div>
@@ -148,7 +148,7 @@ const kompositstaketprivate = () => {
 
                       {/*=============  Star Staket Private Section-3 content  ====================*/}
                       <div className="col-12 mb-80">
-                        <h3>VISA FÄRGTRENDS - ingrodd med naturlig och distinkt karaktär</h3>
+                        <h3>SEHEN SIE DIE FARBTRENDS AN – tief verwurzelt mit natürlichem und unverwechselbarem Charakter</h3>
                         <hr />
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
@@ -191,9 +191,9 @@ const kompositstaketprivate = () => {
 
                       {/*====================  Star Staket Private Section-4 content ==========*/}
                       <div className="col-12 mb-80">
-                        <h2>Staketdelar</h2>
+                        <h2>ZAUNTEILE</h2>
                         <hr />
-                        <p className="mb-40">Green Plank NOVOFENCE™ -Tillbehör för staket i komposit utvidgar dina horisonter ytterligare, så att du kan bygga distinkta och förtjusande funktioner i ditt NOVOFENCE ™ -komposit staket som förbättrar både skönheten och funktionaliteten. Från aluminiumstolpar, stolpehattar, skenor till stolparna, staketfästena etc., här är alla staketet delar du behöver för att slutföra dina NOVOFENCE™ Staket projekt.</p>
+                        <p className="mb-40">Green Plank NOVOFENCE™ Composite-Zaunzubehör erweitert Ihren Horizont noch weiter und lässt Sie unverwechselbare und reizvolle Merkmale in Ihre NOVOFENCE integrieren Verbundzaun, der sowohl seine Schönheit als auch Funktionalität verbessert. Von Aluminiumpfosten, Pfostenhüten, Schienen bis hin zu Pfostenfüßen, Zaunhalterungen usw. sind hier alle Zäune Teile, die Sie benötigen, um Ihre zu vervollständigen NOVOFENCE™ zuan project.</p>
 
 
                       </div>
@@ -206,7 +206,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image1} className="img-fluid" alt="" />
+                                  <img src={Image1} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -215,28 +215,28 @@ const kompositstaketprivate = () => {
                                 <ul>
                                   <li>
                                     <strong>1.</strong>
-                                    Aluminium efterbehandlingsprofil
+                                    Aluminium-Nachbearbeitungsprofil
                                   </li>
                                   <li>
-                                    <strong>2.</strong>Aluminiumstolpe
+                                    <strong>2.</strong>Aluminium Zaunpfosten
                                   </li>
                                   <li>
-                                    <strong>3.</strong>Kompositbräda
+                                    <strong>3.</strong>Zusammengesetztes Sichtschutzzaunbrett
                                   </li>
                                   <li>
-                                    <strong>4.</strong>Bottenskena i aluminium (T-trim)
+                                    <strong>4.</strong>Aluminium-Unterschiene (T-Zierleiste)
                                   </li>
                                   <li>
-                                    <strong>5.</strong>Toppskena i aluminium (U-trim)
+                                    <strong>5.</strong>Alu-Oberschiene (U-Profil)
                                   </li>
                                   <li>
-                                    <strong>6.</strong>Basplattor av rostfritt stål
+                                    <strong>6.</strong>Metallpfosten-Grundplatten
                                   </li>
                                   <li>
-                                    <strong>7.</strong>	L-konsoler för att fixa räls med stolpar
+                                    <strong>7.</strong>		L-Klammern zur Befestigung von Schienen mit Pfosten
                                   </li>
                                   <li>
-                                    <strong>8.</strong>Aluminium stolphatt
+                                    <strong>8.</strong>Pfostenkappe aus Aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -255,23 +255,26 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Private™ staket stolpe har spår på alla fyra sidor och kan användas för en rak staket eller för hörn och en avtagbar aluminiumlist täcker de spår som du inte använder.
+                                    <strong>Nutzen:</strong>
+                                    Private™ der Zaunpfosten hat an allen vier Seiten Schlitze und
+                                    kann für einen geraden Zaunlauf oder für Ecken verwendet werden.
+                                    Ein abnehmbarer Aluminiumstreifen deckt die nicht
+                                    verwendeten Schlitze ab.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 80 * 80 mm
+                                    <strong>Größe:</strong>ca. 80 * 80 mm
                                   </li>
                                   <li>
                                     <strong>Längd:</strong>ca. 2.0 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Oberfläche:</strong> Grau mattiert
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 2.34 kg / m
+                                    <strong>Gewicht:</strong>ca. 2.34 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Material:</strong>Robustes pulverbeschichtetes Aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -279,7 +282,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image2} className="img-fluid" alt="" />
+                                  <img src={Image2} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -295,7 +298,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image3} className="img-fluid" alt="" />
+                                  <img src={Image3} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -303,23 +306,28 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Detta aluminium-staket T-list eller bottenskenan i det privata staketsortimentet är designat för användning med våra vackra komposit staketskivor eller lameller för att hålla dem på plats. Bottenskenan som ska placeras under det första stängslet.
+                                    <strong>Nutzen:</strong>
+                                    Dieser Aluminiumzaun T-Zier oder Bottom Rail Teil
+                                    des Private™ Zauns Sortiment, ist für die Verwendung
+                                    mit unseren schönen Verbund-Zaunbrettern oder -Lamellen vorgesehen,
+                                    um sie an Ort und Stelle zu halten. Bodenschiene unter
+                                    dem ersten Zaunbrett positionieren.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 20.3 * 23.5
+                                    <strong>Größe:</strong>ca. 20.3 * 23.5
                                   </li>
                                   <li>
                                     <strong>Längd:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Oberfläche:</strong>Grau mattiert
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.38 kg / m
+                                    <strong>Gewicht:</strong>ca. 0.38 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Material:</strong>Robustes pulverbeschichtetes Aluminium
+
                                   </li>
                                 </ul>
                               </div>
@@ -337,27 +345,28 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Detta aluminium-staket U-List eller Top Rail-delen
-                                    av Novofence ™ private ,Staketsystem är designad för
-                                    användning med vår vackra komposit eller lameller
-                                    för att hålla dem på plats.Toppskenan är installerad
-                                    högst upp på staketet för att ge modern estetik och långvarig styrka.
+                                    <strong>Nutzen:</strong>
+                                    Dieser Aluminiumzaun U-Zier oder Top Rail Teil des
+                                    Novofence™ Private Fencing Range, wurde für die Verwendung
+                                    mit unseren schönen Verbund-Zaunbrettern oder -Lamellen
+                                    entwickelt, um sie in Position zu halten. Die obere Schiene
+                                    wird oben am Zaun installiert, um eine zeitgemäße Ästhetik und
+                                    Langzeitfestigkeit zu gewährleisten.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 24 * 20.3 mm
+                                    <strong>Größe:</strong>ca. 24 * 20.3 mm
                                   </li>
                                   <li>
                                     <strong>Längd:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Oberfläche:</strong> Matt grå
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.42 kg / m
+                                    <strong>Gewicht:</strong>ca. 0.42 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Material:</strong>Robustes pulverbeschichtetes Aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -366,7 +375,7 @@ const kompositstaketprivate = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image4} className="img-fluid" alt="" />
+                                  <img src={Image4} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -382,7 +391,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image5} className="img-fluid" alt="" />
+                                  <img src={Image5} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -390,21 +399,21 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Dekorativ stolphatt för aluminiumstaket
-                                    Press fit design Skyddar stolpen från att skräp tränger in.
+                                    <strong>Nutzen:</strong>
+                                    Dekorative Pfostenkappe für Aluminiumzaunpfosten
+                                    Einpress-Design Schützt den Pfosten vor eindringendem Schmutz.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 84 * 84 * 10 mm
+                                    <strong>Größe:</strong>ca. 84 * 84 * 10 mm
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Oberfläche:</strong> Grau mattiert
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.38 kg / m
+                                    <strong>Gewicht:</strong>ca. 0.38 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Material:</strong>Robustes pulverbeschichtetes Aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -422,24 +431,24 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Den här efterbehandlingsprofilen passar in i de
-                                    oanvända spåren på staketstolpar för att ge en attraktiv finish.
+                                    <strong>Nutzen:</strong>
+                                    Dieses Pfostenabschlussprofil passt in die nicht verwendeten
+                                    Schlitze der Zaunpfosten, um einen attraktiven Abschluss zu erzielen.
                                   </li>
                                   <li>
-                                    <strong>Storlek:</strong>ca. 24 * 20.3 mm
+                                    <strong>Größe:</strong>ca. 24 * 20.3 mm
                                   </li>
                                   <li>
-                                    <strong>Längd:</strong>ca. 1.76 m
+                                    <strong>Länge:</strong>ca. 1.76 m
                                   </li>
                                   <li>
-                                    <strong>Yta:</strong> Matt grå
+                                    <strong>Oberfläche:</strong> Grau mattiert
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 0.42 kg / m
+                                    <strong>Gewicht:</strong>ca. 0.42 kg / m
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackad aluminium
+                                    <strong>Material:</strong>Robustes pulverbeschichtetes Aluminium
                                   </li>
                                 </ul>
                               </div>
@@ -448,7 +457,7 @@ const kompositstaketprivate = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image6} className="img-fluid" alt="" />
+                                  <img src={Image6} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -465,7 +474,7 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
-                                <img src={Image7} className="img-fluid" alt="" />
+                                  <img src={Image7} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
@@ -473,20 +482,28 @@ const kompositstaketprivate = () => {
                               <div className="project-information mb-20">
                                 <ul>
                                   <li>
-                                    <strong>Användning:</strong>
-                                    Basplattor av metall finns i två typer, vilket ger säkrare monteringsalternativ för Novofence ™ Private-systemet.Förankringsplattan har ett betonguppsättningsben som ligger under flänsen för att sätta i betong, medan basplattan är fixerad genom fyra borrhål och kan monteras på betong- och träbänk, uteplatser etc.
+                                    <strong>Nutzen:</strong>
+                                    Metallpfosten-Grundplatten sind in zwei Ausführungen
+                                    erhältlich und bieten sichere Befestigungsmöglichkeiten
+                                    für das Novofence Private™-System.
+                                    Die Ankerplatte
+                                    verfügt über ein betoniertes Bein, das sich unterhalb des Flansches
+                                    befindet, um beim Gießen von Fundamenten in Beton einzusteigen.
+                                    Die Grundplatte ist durch vier Schraubenlöcher befestigt
+                                    und kann auf Beton- und Holztischen, Terrassen usw. montiert werden.
                                   </li>
                                   <li>
-                                    <strong>Storlek 1:</strong>ca. 86*86*400 mm
+                                    <strong>Größe:</strong>ca. 86*86*400 mm
                                   </li>
                                   <li>
-                                    <strong>Storlek 2:</strong>ca. 86*86*700 mm
+                                    <strong>Größe 2:</strong>ca. 86*86*700 mm
                                   </li>
                                   <li>
-                                    <strong>Vikt:</strong>ca. 1.70 kg / st,   ca. 2.70 kg / st
+                                    <strong>Material:</strong>Robuster pulverbeschichteter Edelstahl
+
                                   </li>
                                   <li>
-                                    <strong>Material:</strong>Pulverlackat rostfritt stål
+                                    <strong>Gewicht:</strong>ca. 1.70 kg / st,   ca. 2.70 kg / st
                                   </li>
                                 </ul>
                               </div>
@@ -504,32 +521,32 @@ const kompositstaketprivate = () => {
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
                                 <h2 className="mb-40 mt-20"><strong>Produktinformation</strong></h2>
-                                <h3>Färgval</h3>
+                                <h3>Farbauswahl</h3>
                                 <p>
-                                  Studio fotografering och / eller din surfings enhet kanske inte ger en exakt bild av färgerna. För att se färgerna personligen, vänligen begär gratis prover.
+                                Studiofotografie und / oder Ihr Browsing-Gerät geben möglicherweise keine genaue Darstellung der Farben. Um die Farben persönlich zu sehen, fordern Sie bitte kostenlose Muster an.
                                 </p>
-                                <h3>Naturlig skönhet</h3>
+                                <h3>Natürliche Schönheit</h3>
                                 <p>
-                                  Våra produkter är designade för att se ut som naturligt trä och kan ha svag färg / textur och skuggnings variationer från bräde till bräda. Färg variationen påverkar inte på något sätt produktens prestanda.</p>
-                                <h3>Behåll skönheten</h3>
+                                Unsere Produkte sehen aus wie Naturholz und können von Karton zu Karton leichte Farb- / Textur- und Schattierungsabweichungen aufweisen. Die Farbabweichung beeinträchtigt in keiner Weise die Leistung des Produkts.</p>
+                                <h3>Erhalten Sie die Schönheit</h3>
                                 <p>
-                                  Alla yttre ytor samlar smuts, damm och föroreningar och kräver rengöring. Det är nödvändigt att rengöra ditt komposit trall med jämna mellanrum för att hålla den så vacker som den dag du installerade det.</p>
+                                Alle Außenflächen sammeln Schmutz, Staub und Verunreinigungen und müssen gereinigt werden. Es ist notwendig, Ihren Zaunsystem regelmäßig zu reinigen, um ihn so schön wie am Tag der Installation zu erhalten.</p>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-40 mt-20 pl-30 pl-sm-15 pl-xs-15">
                               <div className="project-details">
-                                <h2 className="mb-40 mt-20"><strong>Pålitlig hållbarhet, överlägsen kvalitet</strong></h2>
+                                <h2 className="mb-40 mt-20"><strong>Zuverlässige Haltbarkeit, überlegene Qualität</strong></h2>
                                 <ul>
-                                  <li><strong>1. </strong>Verkligt fullständigt integritetsstaket med rika naturliga färger</li>
-                                  <li><strong>2. </strong>Träfärgade färger skapar ett äkta kornmönster som gör att du känner dig stolt över att välja ett hållbart och hållbart material för ditt projekt.</li>
-                                  <li><strong>3. </strong>Board-on-board-stil ger estetisk appell</li>
-                                  <li><strong>4. </strong>Ingen årlig färgning, tätning eller målning krävs</li>
-                                  <li><strong>5. </strong>Exceptionell motståndskraft mot UV-ljus och blekning av färger</li>
-                                  <li><strong>6. </strong>Grannvänlig design populär för delade linjer</li>
-                                  <li><strong>7. </strong>Extremt låg vattenabsorption</li>
-                                  <li><strong>8. </strong>Fri från giftiga tillsatser</li>
-                                  <li><strong>9. </strong>Kommer inte spricka, Flisa, Ruttna eller Vrida sig.</li>
-                                  <li><strong>10. </strong>Lämplig för offentlig och privat sektor</li>
+                                  <li><strong>1. </strong>Echter Vollsichtschutzzaun mit satten natürlichen Farben</li>
+                                  <li><strong>2. </strong>Holzgetönte Farben erzeugen ein authentisches Masernmuster, sodass Sie stolz darauf sind, ein haltbares und nachhaltiges Material für Ihr Projekt zu wählen.</li>
+                                  <li><strong>3. </strong>Board-on-Board-Stil bietet ästhetische Anziehungskraft</li>
+                                  <li><strong>4. </strong>Kein jährliches Streichen, Versiegelung oder Lackierung erforderlich</li>
+                                  <li><strong>5. </strong>Außergewöhnliche Beständigkeit gegen UV-Licht und Farbverblassen</li>
+                                  <li><strong>6. </strong>Nachbarschaftsfreundliches Design, beliebt für gemeinsam genutzte Leitungen</li>
+                                  <li><strong>7. </strong>Extrem geringe Wasseraufnahme</li>
+                                  <li><strong>8. </strong>Frei von giftigen Zusätzen</li>
+                                  <li><strong>9. </strong>Splittert, verrottet oder verzieht sich nicht</li>
+                                  <li><strong>10. </strong>Geeignet für den öffentlichen und privaten Bereich</li>
                                 </ul>
                               </div>
                             </div>
@@ -561,17 +578,17 @@ const kompositstaketprivate = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-nfc-wpc-terrassendielen-broschure-2020.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                          
+
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Private-Installeringsanvisning.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-privacy-fence-installation-guide-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
-                       
+
                           <Grid item xs={6} sm={2}>
 
                           </Grid>

@@ -13,12 +13,12 @@ const BastPoolen = () => {
     <>
       <Head>
         <title>Bäst för poolen</title>
-        <meta name="title" content="Bäst för poolen - GreenPlank.se" />
+        <meta name="title" content="Bäst för poolen - GreenPlank.de" />
         <meta name="description" content="För här på Green Plank erbjuder vi ett brett utbud av moderna, trendiga, slitstarka trallmaterial med garanterad kvalitet." />
       </Head>
-      <Layout pageTitle="bast-for-poolen">
+      <Layout pageTitle="Bäst för poolen">
         <HeaderTwo />
-        <PageHeader title="Bast-for-poolen" crumbTitle="bast-for-poolen" />
+        <PageHeader title="Bäst för poolen" crumbTitle="Bäst för poolen" />
         <StickyHeader />
         <Bastforpoolen />
         <BrandCarousel />

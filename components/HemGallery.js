@@ -12,7 +12,7 @@ import ClassicTrall from "../assets/images/backgrounds/classic_trall.webp";
 
 const HemGallery = () => {
     return (
-        <section className="about-two pt-120 pb-120">
+        <section className="about-two pt-10 pb-70">
 
             <Container>
                 <Row>

@@ -20,10 +20,10 @@ import Footer from "../components/footer";
 
 const naturplankkompositplankagp7241 = () => {
   return (
-    <Layout pageTitle="naturteak-kompositplank-gp7241-7236mm">
+    <Layout pageTitle="NATURTEAK™ – Premium-Schiffsdeckabdeckung-gp7241-7236mm">
       <HeaderTwo />
       <StickyHeader />
-      <PageHeader title="naturteak-kompositplank-gp7241-7236mm" crumbTitle="gp7241" />
+      <PageHeader title="NATURTEAK™ – Premium-Schiffsdeckabdeckung-gp7241-7236mm" crumbTitle="gp7241" />
       <section className="blog-details pt-120 pb-40">
         <Container>
           <Row>
@@ -38,27 +38,27 @@ const naturplankkompositplankagp7241 = () => {
                       <div className="col-lg-12 col-12 mb-80 pl-30 pl-sm-15 pl-xs-15">
                         <div className="project-details">
                           <h2>
-                            NATURTEAK™ – Halksäkert och tålig däck för båtar och yachter – bättre än teakdäck och pvc-plast</h2>
-                          <strong>det gröna alternativet för teakträ med oändliga kreativa och designmöjligheter</strong>
+                            NATURTEAK™ – Premium-Schiffsdeckabdeckung für Boote und Yachten</h2>
+                          <strong>Die grüne Alternative für Teakholz mit unendlichen kreativen und gestalterischen Möglichkeiten</strong>
                           <div class="et_pb_text_inner">
                             <div class="ce_text block">
 
-                              <strong>Vackert realistiskt och mycket praktiskt med en tidlös kvalitet NATURTEAK ™ Komposit med naturligt fiber teakgolv för båtar och yachter är mycket fjädrande, icke-halkande, UV-stabila och ser ut som äkta teakträ. Perfekt för lyxbåtar och yachter.</strong>
+                              <strong>Wunderschön realistisch und äußerst praktisch mit einer zeitlosen Qualität NATURTEAK ™ Naturfaser-Teak-Verbundbodenbelag für Boote und Yachten ist hoch belastbar, rutschfest, UV-stabil und sieht aus wie echtes Teakholz. Ideal für Luxusboote und Yachten.</strong>
                               <p>
-                                Green Plank NATURTEAK ™ komposit teakbåtdäck ger den eleganta utseendet på ett teakdäck utan något tidskrävande och kostsamt underhåll i samband med naturligt teakved. Detta gröna alternativ för teakved är tillverkat av naturliga fibers komposit (risskalfiber och återvunna polymerer) som är lätt att arbeta med och underhålla. Det är det perfekta alternativet att uppgradera din båt och byta ut den snusiga gamla mattan. NATURTEAK ™ håller solen och den marina miljön i flera år medan du njuter av mer av din fritid.
+                                NATURTEAK ™ -Bretterohne die zeitaufwändige und kostspielige Wartung, die mit natürlichem Teakholz verbunden ist. Diese grüne Alternative für Teakholz besteht aus Naturfaserverbundwerkstoffen (Reisschalenfasern und recycelte Polymere) und ist leicht zu verarbeiten und zu pflegen. Es ist die perfekte Option, um Ihr Boot aufzurüsten und den schmuddeligen alten Teppich zu ersetzen. NATURTEAK ™ hält der Sonne und der Meeresumwelt jahrelang stand, während Sie mehr von Ihrer Freizeit genießen.
                               </p>
                               <p>
-                                NATURTEAK ™ distribueras uteslutande av Green Plank och är speciellt formulerad med ingredienser som förhindrar att materialet torkar ut eller spricker över tid. Det har också det höga UV-skyddet för att förhindra blekning, insektsresistent, högsta fuktbeständighet, överlägsen vidhäftning och NATURTEAK ™ är stolta över att vara det enda naturfibrer som består av komposit teak-däck på marknaden.
+                                NATURTEAK ™ wird exklusiv von Green Plank vertrieben und ist speziell mit Inhaltsstoffen zusammengestellt, die verhindern, dass das Material mit der Zeit austrocknet oder Risse bekommt. Der hohe UV-Schutz verhindert das Ausbleichen, die Insektenresistenz, die höchste Feuchtigkeitsbeständigkeit und die hervorragende Haftung. NATURTEAK ™ ist stolz darauf, die einzige auf dem Markt erhältliche Option für Teak-Terrassendielen aus Naturfaserverbundwerkstoffen zu sein.
                               </p>
                               <p>
-                                Precis som äkta teakträ, kan våra NATURTEAK ™ -kompositplankor bearbetas, slipas eller sågas till vilken önskad form som helst utan att förlora det verkliga träeffektutseendet på NATURTEAK ™ -komposit.
+                                Genau wie echtes Teakholz können unsere NATURTEAK ™ -Bretter CNC-bearbeitet, geschliffen oder in jede gewünschte Form gesägt werden, ohne dass das Echtholz-Effekt-Erscheinungsbild der NATURTEAK ™ -Verbundteakplatte verloren geht.
                               </p>
                               <div>
                                 <ul>
-                                  <li><strong>Premiumkvalitet</strong> –  Beprövade nordiska kvalitetsplankor för hårt marint väder och grönare levande.</li>
-                                  <li><strong>Bara fötter vänliga</strong> –  På grund av dess unika naturfibrer baserade sammansättning, håller NATURTEAK ™ komposit teakdäck däcken svalare.</li>
-                                  <li><strong>Praktisk</strong> –  Perfekt kombination av estetik och praktik med en naturlig teakträ design.</li>
-                                  <li><strong>Exceptionellt lågt underhåll </strong>–  Idealisk lämpad för marina väderförhållanden med minimal blekning, lång livslängd och minimalt underhåll.</li>
+                                  <li><strong>Premium-Qualität</strong> –  Bewährte nordische Qualitätsdielen für raues Seewetter und umweltfreundlichere Lebensweise.</li>
+                                  <li><strong>Barfuß</strong> –  Aufgrund seiner einzigartigen Zusammensetzung auf Basis von Naturfasern hält NATURTEAK ™ -Teak-Verbundbelag die Füße kühler.</li>
+                                  <li><strong>Praktisch</strong> –   Perfekte Kombination aus Ästhetik und Funktionalität mit einem natürlichen Teakholz-Look.</li>
+                                  <li><strong>Außergewöhnlich wartungsarm</strong>–   ideal für Seewetterbedingungen mit minimalem Ausbleichen, langer Lebensdauer und minimaler Wartung.</li>
                                 </ul>
                               </div>
                             </div>
@@ -75,31 +75,35 @@ const naturplankkompositplankagp7241 = () => {
                               <div className="single-gallery-project">
                                 <div className="single-gallery-project__image">
 
-                                <img src={Image11} className="img-fluid" alt="" />
+                                  <img src={Image11} className="img-fluid" alt="" />
                                 </div>
                               </div>
                             </div>
                             <div className="col-md-6 col-mobile-6 mb-20">
                               <div className="project-information">
-                                <h3>Produktinformation</h3>
+                                <h3>Produkt Information</h3>
                                 <table width="100%">
                                   <tbody>
                                     <tr>
-                                      <td align="left"><strong>Yta:</strong></td>
-                                      <td align="left"> halkmotståndig slät yta, slående
-                                        utseende efterliknar exotiska, tropiska lövträ; vändbara brädor</td>
+                                      <td align="left"><strong>Oberfläche:</strong></td>
+                                      <td align="left"> Rutschhemmende, glatte Oberfläche, auffällige Optik,
+                                        die exotische tropische Harthölzer nachahmt; Wendebretter</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Storlek:</strong></td>
+                                      <td align="left"><strong>Abmessungen:</strong></td>
                                       <td align="left">ca. 7 * 236 mm</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Längd:</strong></td>
+                                      <td align="left"><strong>Länge:</strong></td>
                                       <td align="left">ca. 2,4 m</td>
                                     </tr>
                                     <tr>
-                                      <td align="left"><strong>Vikt:</strong></td>
+                                      <td align="left"><strong>Gewicht:</strong></td>
                                       <td align="left">ca. 7.65 kg / m</td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left"><strong>Balkenspannung:</strong></td>
+                                      <td align="left">60 cm c/c for kommerzielle Einrichtungen*</td>
                                     </tr>
                                   </tbody>
                                 </table>
@@ -108,7 +112,7 @@ const naturplankkompositplankagp7241 = () => {
                               <div className="row mt-60">
                                 <Grid container spacing={3}>
                                   <Grid item xs={6} sm={4} lg={6}>
-                                  <a target="_blank" href="/bestall-prov" className="thm-btn" >beställ prov</a>
+                                    <a target="_blank" href="/bestall-prov" className="thm-btn" >Muster bestellen</a>
                                   </Grid>
                                 </Grid>
                               </div>
@@ -127,12 +131,12 @@ const naturplankkompositplankagp7241 = () => {
 
                         <Grid container spacing={3}>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Broschyr-SV.pdf">
+                            <a target="_blank" href="/pdfs/greenplank-marine-composite-decking-brochure-en.pdf">
                               <img src={pdfimg1} className="img-fluid" alt="" />
                             </a>
                           </Grid>
                           <Grid item xs={6} sm={2}>
-                            <a target="_blank" href="https://storage.googleapis.com/greenplankdata1/Green-Plank-Kompositbrador-Installeringsanvisning.pdf">
+                            <a target="_blank" href="/pdfs/green-plank-naturplank-boards-installation-guide-2019.pdf">
                               <img src={pdfimg3} className="img-fluid" alt="" />
                             </a>
                           </Grid>
