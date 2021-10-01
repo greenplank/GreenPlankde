@@ -126,8 +126,8 @@ const Footer = () => {
               <h3 className="footer-widget__title">Följ oss</h3>
                 <ul className="list-unstyled footer-widget__contact">
                   <li>
-                    <a href="tel:+49-176 63090897">
-                      <i className="azino-icon-telephone"></i>+49-176 63090897
+                    <a href="tel:+49 17680726891">
+                      <i className="azino-icon-telephone"></i>+49 17680726891
                     </a>
                   </li>
                   <li>
