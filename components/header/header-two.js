@@ -94,7 +94,7 @@ const HeaderTwo = () => {
               <div className="header-info__box-content">
                 <h3>Phone</h3>
                 <p>
-                  <a href="tel:+49-176 63090897">+49-176 63090897</a>
+                  <a href="tel:+49 17680726891">+49 17680726891</a>
                 </p>
               </div>
             </div>
