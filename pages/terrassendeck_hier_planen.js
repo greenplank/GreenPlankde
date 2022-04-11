@@ -2,7 +2,7 @@ import React from "react";
 import Layout from "../components/layout";
 import HeaderTwo from "../components/header/header-two";
 import StickyHeader from "../components/header/sticky-header";
-import PageHeader from "../components/page-header";
+import PageHeader from "../components/page-header-planer";
 import PlaneraSection from "../components/planeraSection";
 import Footer from "../components/footer";
 import Head from "next/head";
@@ -23,7 +23,7 @@ const Terrassendeck = () => {
       <Layout pageTitle="Terrassendeck hier planen-GreenPlank.de
 ">
         <HeaderTwo />
-        <PageHeader title="Terrassendeck hier planen" crumbTitle="planen" />
+        <PageHeader title="" crumbTitle="planen" />
         <StickyHeader />
         <PlaneraSection />
         <Footer />
