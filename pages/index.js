@@ -19,6 +19,8 @@ const HomeTwo = () => {
   console.log(process.env.authAPIkey);
   return (
     <>
+    <h1>Comming Soon</h1>
+    {/*
       <Head>
       <meta name="robots" content="NOINDEX,NOFOLLOW"/>
         <meta name="title" content="Bästa komposittrall | golvplattor | staket och många fler!" />
@@ -37,7 +39,7 @@ const HomeTwo = () => {
         <HemLastSection />
         <BrandCarousel extraClass="client-carousel__has-border-top" />
         <Footer />
-      </Layout>
+      </Layout> */}
     </>
   );
 };
